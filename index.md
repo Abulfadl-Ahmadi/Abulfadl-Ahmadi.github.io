@@ -4,7 +4,7 @@
  - E-mail: [abulfadl@mail.com](mailto:abulfadl@mail.com)
  - Telegram: @[AbulfadlAhmadi](https://t.me/Abulfadl_Ahmadi)
  
- @icon-mail
+ @icon-globe
  
  -------
  
