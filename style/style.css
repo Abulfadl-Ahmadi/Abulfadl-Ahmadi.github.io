@@ -1,15 +1,166 @@
 @font-face {
-    font-family: BlexMono;
-    src: url("../fonts/BlexMono/Regular.ttf")
-      format("ttf");
-    font-weight: 300;
+    font-family: "Blex Mono";
+    src: url("../fonts/BlexMono/Regular.ttf") format("truetype");
+    font-weight: normal;
     font-style: normal;
-    font-display: swap;
-  }
+}
+
+@font-face {
+    font-family: "Blex Mono";
+    src: url("../fonts/BlexMono/Regular-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Blex Mono";
+    src: url("../fonts/BlexMono/Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Blex Mono";
+    src: url("../fonts/BlexMono/Bold-Italic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "SF Mono";
+    src: url("../fonts/SFMono/Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SF Mono";
+    src: url("../fonts/SFMono/Regular-Italic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "SF Mono";
+    src: url("../fonts/SFMono/Bold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "SF Mono";
+    src: url("../fonts/SFMono/Bold-Italic.ttf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
 
 body {
     background-color: black;
-    color: white;
-    font-family: BlexMono;
+    color: #e5e5e5;
+    /* display: flex;
+    justify-content: center; */
+    margin: 0%;
+    font-family: SF Mono;
 }
 
+h1 {
+    font-size: 18pt;
+}
+
+.main-con {
+    background-color: black;
+    width: 1025px;
+    margin: 0 auto;
+    height: 500px;
+    /* border-style: solid;
+    border-color: gray;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 1px;
+    border-right-width: 1px; */
+
+}
+
+.menu {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: 18pt;
+}
+
+.active {
+    color: white;
+}
+
+.menu-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.menu-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+a {
+    color: #2255ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2255ff;
+    text-decoration: underline;
+}
+
+
+.left {
+    margin-right: auto;
+}
+
+.right {
+    margin-left: 25px;
+}
+
+@media screen and (max-width: 1050px) {
+    .main-con {
+        width: 80%;
+    }
+}
+
+footer {
+    margin-top: 150px;
+    padding-bottom: 30px;
+    margin-right: -15px;
+    margin-left: -15px;
+    display: flex;
+    flex: auto;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.footer-items {
+    flex: 3;
+    margin: 15px;
+}
+
+@media screen and (max-width: 800px) {
+    .main-con {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .main-con {
+        width: 90%;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+
+    .menu {
+        font-size: 14pt;
+    }
+}
