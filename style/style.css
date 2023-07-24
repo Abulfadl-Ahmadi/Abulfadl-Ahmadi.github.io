@@ -61,6 +61,9 @@ body {
     justify-content: center; */
     margin: 0%;
     font-family: SF Mono;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "liga" on;
+    font-variant-ligatures: normal;
 }
 
 h1 {
@@ -68,10 +71,10 @@ h1 {
 }
 
 .main-con {
-    background-color: black;
+    /* background-color: black; */
     width: 1025px;
     margin: 0 auto;
-    height: 500px;
+    /* height: 500px; */
     /* border-style: solid;
     border-color: gray;
     border-bottom-width: 0px;
@@ -82,11 +85,23 @@ h1 {
 }
 
 .menu {
-    display: flex;
-    margin-top: 20px;
-    margin-bottom: 30px;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     font-weight: bold;
     font-size: 18pt;
+    backdrop-filter: blur(10px);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    border-style: solid;
+    border-color: #0d0d0d;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
 }
 
 .active {
@@ -155,6 +170,7 @@ footer {
     .main-con {
         width: 90%;
     }
+
 
     footer {
         flex-direction: column;
