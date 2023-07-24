@@ -56,7 +56,7 @@
 
 body {
     background-color: black;
-    color: #e5e5e5;
+    color: #e4e4e4;
     /* display: flex;
     justify-content: center; */
     margin: 0%;
@@ -81,11 +81,10 @@ h1 {
     border-top-width: 0px;
     border-left-width: 1px;
     border-right-width: 1px; */
-
 }
 
 .menu {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.6);
     padding-top: 15px;
     padding-bottom: 15px;
     margin-top: 0px;
@@ -97,7 +96,7 @@ h1 {
     position: sticky;
     top: 0;
     border-style: solid;
-    border-color: #0d0d0d;
+    border-color: #121212;
     border-bottom-width: 1px;
     border-top-width: 0px;
     border-left-width: 0px;
@@ -107,6 +106,7 @@ h1 {
 .active {
     color: white;
 }
+
 
 .menu-link {
     color: inherit;
@@ -118,6 +118,11 @@ h1 {
     text-decoration: underline;
 }
 
+.menu-link:active {
+    color: white;
+    text-decoration: none;
+}
+
 a {
     color: #2255ff;
     text-decoration: none;
@@ -127,7 +132,6 @@ a:hover {
     color: #2255ff;
     text-decoration: underline;
 }
-
 
 .left {
     margin-right: auto;
@@ -170,7 +174,6 @@ footer {
     .main-con {
         width: 90%;
     }
-
 
     footer {
         flex-direction: column;
