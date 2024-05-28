@@ -126,8 +126,8 @@ h1 {
     position: sticky;
     top: 0;
     border-style: solid;
-    border-color: #121212;
-    border-bottom-width: 1px;
+    border-color: #1f1f1f;
+    border-bottom-width: 1.5px;
     border-top-width: 0px;
     border-left-width: 0px;
     border-right-width: 0px;
