@@ -90,7 +90,7 @@ body {
     /* display: flex;
     justify-content: center; */
     margin: 0%;
-    font-family: SF Mono;
+    font-family: "IBM Plex Mono", monospace;
     text-rendering: optimizeLegibility;
     font-feature-settings: "liga" on;
     font-variant-ligatures: normal;
@@ -121,7 +121,7 @@ h1 {
     margin-bottom: 0px;
     font-weight: bold;
     font-size: 18pt;
-    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     position: -webkit-sticky;
     position: sticky;
     top: 0;
