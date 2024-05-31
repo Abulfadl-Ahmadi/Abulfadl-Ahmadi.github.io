@@ -114,7 +114,9 @@ h1 {
 }
 
 .menu {
-    background-color: rgb(255,255,255);
+    background-color: rgba(255, 255, 255, 0.4);
+  	-webkit-backdrop-filter: blur(10px);
+  	backdrop-filter: blur(10px);
     padding-top: 15px;
     padding-bottom: 15px;
     margin-top: 0px;
