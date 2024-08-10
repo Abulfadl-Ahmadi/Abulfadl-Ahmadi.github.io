@@ -85,7 +85,8 @@
 
 
 body {
-    background-color: black;
+    /* background-color: black; */
+    background: linear-gradient(-23.8deg, #021526, black, #1b0226);
     color: #e4e4e4;
     /* display: flex;
     justify-content: center; */
