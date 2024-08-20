@@ -17,19 +17,31 @@
             d.className += "  active";
         });
     </script>
+<style> .image-container {  width: 100%;display: flex;
+    justify-content: center;
+    align-items: center;
+position: relative;} img { display: block; width: 100%; height: auto; 
 
+    
+        mask-image: 
+        linear-gradient(to right, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(to left, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(to top, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(to bottom, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%);
+        mask-composite: intersect; -webkit-mask-composite: intersect;
+    } 
+    </style>
     <style>
         .code-container {
     position: relative;
-    padding-left: 40px; /* Adjust based on your line number width */
+    padding-left: 42px; /* Adjust based on your line number width */
     padding-top: 5px; 
     padding-bottom: 5px; 
-    background: #f4f4f4;
-    border: 1px solid #ddd;
+    background: #090909;
+    border: 1px solid #656565;
     border-radius: 8px;
     overflow: auto;
-    font-size: 12px;
-    font-family: monospace;
+    color: #eeeeee;
 }
 
 .code-container::before {
@@ -38,16 +50,19 @@
     left: 0;
     top: 0;
     bottom: 0;
-    width: 30px; /* Adjust width based on padding-left */
+    width: 34px; /* Adjust width based on padding-left */
     padding-top: 5px; 
     padding-bottom: 5px; 
-    background: #e1e1e1;
-    color: #555;
+    background: #151515;
+    border-right: 1px solid #656565;  
+    color: #dcdcdc;
     text-align: right;
     padding-right: 8px;
     box-sizing: border-box;
     font-size: 12px;
-    font-family: monospace;
+    font-family: "JetBrains Mono";
+    font-weight: 400;
+    font-style: normal;
 }
 
 code {
@@ -55,7 +70,9 @@ code {
     white-space: pre;
     margin: 0;
     font-size: 12px;
-    font-family: monospace;
+    font-family: "JetBrains Mono";
+    font-weight: 400;
+    font-style: normal;
 }
     </style>
 
@@ -79,7 +96,9 @@ code {
 <include src="navbar.html"></include>
 <div class="main-con">
       
-    <h1>Unlock the Power of Algorithmic Thinking!</h1>
+    <h1>Unlock the Power of <i style="    background-image: linear-gradient(90deg, rgb(255, 182, 182), rgb(171, 171, 250));
+        color: transparent;
+        background-clip: text;">Algorithmic</i> Thinking!</h1>
     <p>
         Are you ready to take your first step into the world of programming? This course is designed for 
         beginners who want to master the fundamentals of algorithms through hands-on practice with flowcharts 
@@ -91,7 +110,7 @@ code {
         in algorithms that will take your coding skills to the next level!
     </p>
 
-    <div style="margin-bottom: 300px;"></div>
+    <div class="image-container"><img src="img1-cropped.png"></div>
     
     <h2>Part 1: Fundamentals of Algorithms (Including Flowcharts and Pseudocode)</h2>
     <p>This course introduces the fundamental concepts of algorithms, flowcharts, and pseudocode. It provides the essential skills needed to solve problems logically and prepares students for learning Python or other programming languages. By the end of this course, you will be able to design algorithms, create flowcharts, and write pseudocode to represent your solutions.</p>
