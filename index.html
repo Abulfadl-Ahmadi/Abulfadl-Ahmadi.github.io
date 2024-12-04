@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css"
+        integrity="sha384-GvrOXuhMATgEsSwCs4smul74iXGOixntILdUW9XmUC6+HX0sLNAK3q71HotJqlAn" crossorigin="anonymous" />
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"
+        integrity="sha384-cpW21h6RZv/phavutF+AuVYrr+dA8xD9zs6FwLpaCct6O9ctzYFfFr4dgmgccOTx"
+        crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"
+        integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+
+    <link rel="stylesheet" href="./style/style.css" />
+    <link rel="import" href="navbar.html" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="js.js"></script>
+    <script src="https://unpkg.com/htmlincludejs"></script>
+    <script>
+        window.addEventListener('load', function () {
+            var d = document.getElementById("home");
+            d.className += "  active";
+        });
+    </script>
+    <title>Abulfadl Ahmadi</title>
+</head>
+
+<body>
+    <include src="navbar.html"></include>
+
+<div class="main-con">
+    <header>
+        <h1 style="    text-align: center;
+        margin-top: 50px;
+        margin-bottom: 70px;">Welcome to My Personal Website!</h1>
+    </header>
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>Hi there! I'm Abulfadl Ahmadi, a passionate developer and educator. This website is a space where I showcase my projects, share educational resources, and connect with the community.</p>
+    </section>
+    <section id="purpose">
+        <h2>Purpose of This Website</h2>
+        <p>Here you will find a collection of my projects, ranging from web development to educational materials. Whether you're interested in social media platforms built with Django or comprehensive pamphlets on mathematical equations, there's something here for everyone.</p>
+    </section>
+    <section id="navigation">
+        <h2>How to Navigate</h2>
+        <ul>
+            <li><strong>Projects</strong>: Explore detailed descriptions and access links to my various projects.</li>
+            <li><strong>Library</strong>: Discover a curated list of educational resources and materials I've created or recommend.</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me through the contact details provided below or connect with me on social media. Thank you for visiting, and I hope you find something valuable here!</p>
+    </section>
+
+ <include src="footer.html"></include>
+    </div>
+</body>
+
+</html>

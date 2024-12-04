@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style/style.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <script src="https://unpkg.com/htmlincludejs"></script>
+    <script type="text/javascript" src="js.js"></script>
+    <script>
+        window.addEventListener('load', function () {
+            var d = document.getElementById("library");
+            d.className += "  active";
+        });
+    </script>
+<style> .image-container {  width: 100%;display: flex;
+    justify-content: center;
+    align-items: center;
+position: relative;} img { display: block; width: 100%; height: auto; 
+
+    
+        mask-image: 
+        linear-gradient(to right, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(to left, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(to top, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%),
+        linear-gradient(to bottom, rgba(0, 0, 0, 1) 80%, rgba(0, 0, 0, 0) 100%);
+        mask-composite: intersect; -webkit-mask-composite: intersect;
+    } 
+    </style>
+    <style>
+        .code-container {
+            z-index: 2;
+    position: relative;
+    padding-left: 42px; /* Adjust based on your line number width */
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    background: #090909;
+    border: 1px solid #656565;
+    border-radius: 8px;
+    overflow: auto;
+    color: #eeeeee;
+}
+
+.code-container::before {
+    content: attr(data-line-numbers);
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 34px; /* Adjust width based on padding-left */
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+    background: #151515;
+    border-right: 1px solid #656565;  
+    color: #dcdcdc;
+    text-align: right;
+    padding-right: 8px;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: "JetBrains Mono";
+    font-weight: 400;
+    font-style: normal;
+}
+
+code {
+    display: block;
+    white-space: pre;
+    margin: 0;
+    font-size: 12px;
+    font-family: "JetBrains Mono";
+    font-weight: 400;
+    font-style: normal;
+}
+    </style>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+    const codeBlock = document.getElementById("code-block");
+    const codeLines = codeBlock.textContent.split('\n');
+    const lineNumbers = codeLines.map((_, index) => index + 1).join('\n');
+    
+    codeBlock.parentElement.setAttribute('data-line-numbers', lineNumbers);
+});
+
+    </script>
+    
+
+    <title>Algorithm 1 course</title>
+</head>
+
+<body>
+    
+<include src="navbar.html"></include>
+<div class="main-con">
+      
+    <h1>Unlock the Power of <i style="    background-image: linear-gradient(90deg, rgb(255, 182, 182), rgb(171, 171, 250));
+        color: transparent;
+        background-clip: text;">Algorithmic</i> Thinking!</h1>
+    <p>
+        Are you ready to take your first step into the world of programming? This course is designed for 
+        beginners who want to master the fundamentals of algorithms through hands-on practice with flowcharts 
+        and pseudocode. By the end of this course, you’ll have the skills to design efficient solutions to 
+        real-world problems and be fully prepared to dive into programming with Python or any other language.
+    </p>
+    <p>
+        Learn how to think like a programmer, build problem-solving confidence, and develop a solid foundation 
+        in algorithms that will take your coding skills to the next level!
+    </p>
+
+    <div class="image-container"><img src="img1-cropped.png"></div>
+    
+    <h2>Part 1: Fundamentals of Algorithms (Including Flowcharts and Pseudocode)</h2>
+    <p>This course introduces the fundamental concepts of algorithms, flowcharts, and pseudocode. It provides the essential skills needed to solve problems logically and prepares students for learning Python or other programming languages. By the end of this course, you will be able to design algorithms, create flowcharts, and write pseudocode to represent your solutions.</p>
+    
+    <h3>Course Outline</h3>
+    
+    <h4>1. Introduction to Algorithms and Problem-Solving (3-4 hours)</h4>
+    <ul>
+        <li>Definition and importance of algorithms</li>
+        <li>Problem-solving techniques: breaking problems into smaller tasks</li>
+        <li>Introduction to algorithm design</li>
+    </ul>
+    
+    <h4>2. Flowchart Design (6-8 hours)</h4>
+    <ul>
+        <li>Introduction to flowcharts: purpose and key symbols (Start/End, Process, Decision, etc.)</li>
+        <li>Designing flowcharts for basic algorithms</li>
+        <li>Common flowcharting techniques: handling loops, decisions, and branching</li>
+        <li>Practice: Designing flowcharts for real-world problems</li>
+    </ul>
+    
+<!-- draw.io diagram -->
+<div style="display: flex;
+justify-content: center;
+align-items: center;">
+<div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers tags&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;app.diagrams.net\&quot; agent=\&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\&quot; version=\&quot;24.7.7\&quot;&gt;\n  &lt;diagram id=\&quot;C5RBs43oDa-KdzZeNtuy\&quot; name=\&quot;Page-1\&quot;&gt;\n    &lt;mxGraphModel dx=\&quot;463\&quot; dy=\&quot;486\&quot; grid=\&quot;1\&quot; gridSize=\&quot;10\&quot; guides=\&quot;1\&quot; tooltips=\&quot;1\&quot; connect=\&quot;1\&quot; arrows=\&quot;1\&quot; fold=\&quot;1\&quot; page=\&quot;1\&quot; pageScale=\&quot;1\&quot; pageWidth=\&quot;827\&quot; pageHeight=\&quot;1169\&quot; math=\&quot;0\&quot; shadow=\&quot;0\&quot;&gt;\n      &lt;root&gt;\n        &lt;mxCell id=\&quot;WIyWlLk6GJQsqaUBKTNV-0\&quot; /&gt;\n        &lt;mxCell id=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-0\&quot; /&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-2\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-0\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-1\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-0\&quot; value=\&quot;start\&quot; style=\&quot;ellipse;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;fillColor=none;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;240\&quot; y=\&quot;162\&quot; width=\&quot;80\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-18\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-1\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-17\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-1\&quot; value=\&quot;input A, B, C\&quot; style=\&quot;shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;220\&quot; y=\&quot;226\&quot; width=\&quot;120\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-20\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-17\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-19\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;320\&quot; y=\&quot;310\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;Array as=\&quot;points\&quot;&gt;\n              &lt;mxPoint x=\&quot;430\&quot; y=\&quot;310\&quot; /&gt;\n            &lt;/Array&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-42\&quot; value=\&quot;Yes\&quot; style=\&quot;edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;\&quot; vertex=\&quot;1\&quot; connectable=\&quot;0\&quot; parent=\&quot;FkMAMc5dkUzOomXvQ9ln-20\&quot;&gt;\n          &lt;mxGeometry x=\&quot;-0.181\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint y=\&quot;-7\&quot; as=\&quot;offset\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-22\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#ffffff;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-17\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-21\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;241\&quot; y=\&quot;310\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;Array as=\&quot;points\&quot;&gt;\n              &lt;mxPoint x=\&quot;131\&quot; y=\&quot;310\&quot; /&gt;\n            &lt;/Array&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-43\&quot; value=\&quot;Yes\&quot; style=\&quot;edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=none;\&quot; vertex=\&quot;1\&quot; connectable=\&quot;0\&quot; parent=\&quot;FkMAMc5dkUzOomXvQ9ln-22\&quot;&gt;\n          &lt;mxGeometry x=\&quot;-0.1762\&quot; y=\&quot;1\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint y=\&quot;-9\&quot; as=\&quot;offset\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-17\&quot; value=\&quot;If A &amp;amp;gt; B\&quot; style=\&quot;rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;230\&quot; y=\&quot;290\&quot; width=\&quot;100\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-25\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-19\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-24\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-41\&quot; value=\&quot;Yes\&quot; style=\&quot;edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; connectable=\&quot;0\&quot; parent=\&quot;FkMAMc5dkUzOomXvQ9ln-25\&quot;&gt;\n          &lt;mxGeometry x=\&quot;-0.4733\&quot; y=\&quot;1\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;11\&quot; y=\&quot;-1\&quot; as=\&quot;offset\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-19\&quot; value=\&quot;If A &amp;amp;gt; C\&quot; style=\&quot;rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;380\&quot; y=\&quot;340\&quot; width=\&quot;100\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-27\&quot; value=\&quot;\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-21\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-26\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;131\&quot; y=\&quot;372\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;Array as=\&quot;points\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-40\&quot; value=\&quot;Yes\&quot; style=\&quot;edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; connectable=\&quot;0\&quot; parent=\&quot;FkMAMc5dkUzOomXvQ9ln-27\&quot;&gt;\n          &lt;mxGeometry x=\&quot;0.04\&quot; y=\&quot;-1\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;-13\&quot; y=\&quot;-1\&quot; as=\&quot;offset\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-21\&quot; value=\&quot;If B &amp;amp;gt; C\&quot; style=\&quot;rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;81\&quot; y=\&quot;340\&quot; width=\&quot;100\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-23\&quot; value=\&quot;\&quot; style=\&quot;endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-21\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-19\&quot;&gt;\n          &lt;mxGeometry width=\&quot;50\&quot; height=\&quot;50\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;230\&quot; y=\&quot;370\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;mxPoint x=\&quot;280\&quot; y=\&quot;320\&quot; as=\&quot;targetPoint\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-33\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-24\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-31\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;430\&quot; y=\&quot;425.0000000000001\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;mxPoint x=\&quot;310\&quot; y=\&quot;485\&quot; as=\&quot;targetPoint\&quot; /&gt;\n            &lt;Array as=\&quot;points\&quot;&gt;\n              &lt;mxPoint x=\&quot;430\&quot; y=\&quot;442\&quot; /&gt;\n              &lt;mxPoint x=\&quot;430\&quot; y=\&quot;485\&quot; /&gt;\n            &lt;/Array&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-24\&quot; value=\&quot;Print A\&quot; style=\&quot;shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;370\&quot; y=\&quot;412\&quot; width=\&quot;110\&quot; height=\&quot;30\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-34\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-26\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-31\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;131\&quot; y=\&quot;425.0000000000001\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;mxPoint x=\&quot;251\&quot; y=\&quot;485\&quot; as=\&quot;targetPoint\&quot; /&gt;\n            &lt;Array as=\&quot;points\&quot;&gt;\n              &lt;mxPoint x=\&quot;131\&quot; y=\&quot;485\&quot; /&gt;\n            &lt;/Array&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-26\&quot; value=\&quot;Print B\&quot; style=\&quot;shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;81\&quot; y=\&quot;412\&quot; width=\&quot;101\&quot; height=\&quot;30\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-32\&quot; style=\&quot;edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-29\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-31\&quot;&gt;\n          &lt;mxGeometry relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;280\&quot; y=\&quot;425.0000000000001\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-29\&quot; value=\&quot;Print C\&quot; style=\&quot;shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;225\&quot; y=\&quot;412\&quot; width=\&quot;110\&quot; height=\&quot;30\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-31\&quot; value=\&quot;stop\&quot; style=\&quot;ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot;&gt;\n          &lt;mxGeometry x=\&quot;240\&quot; y=\&quot;465\&quot; width=\&quot;80\&quot; height=\&quot;40\&quot; as=\&quot;geometry\&quot; /&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-35\&quot; value=\&quot;\&quot; style=\&quot;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; target=\&quot;FkMAMc5dkUzOomXvQ9ln-29\&quot;&gt;\n          &lt;mxGeometry width=\&quot;50\&quot; height=\&quot;50\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;280\&quot; y=\&quot;360\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;mxPoint x=\&quot;300\&quot; y=\&quot;310\&quot; as=\&quot;targetPoint\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-36\&quot; value=\&quot;\&quot; style=\&quot;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-19\&quot;&gt;\n          &lt;mxGeometry width=\&quot;50\&quot; height=\&quot;50\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;390\&quot; y=\&quot;360\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;mxPoint x=\&quot;310\&quot; y=\&quot;360\&quot; as=\&quot;targetPoint\&quot; /&gt;\n            &lt;Array as=\&quot;points\&quot;&gt;\n              &lt;mxPoint x=\&quot;340\&quot; y=\&quot;360\&quot; /&gt;\n            &lt;/Array&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-38\&quot; value=\&quot;No\&quot; style=\&quot;edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; connectable=\&quot;0\&quot; parent=\&quot;FkMAMc5dkUzOomXvQ9ln-36\&quot;&gt;\n          &lt;mxGeometry x=\&quot;0.0875\&quot; y=\&quot;3\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;3\&quot; y=\&quot;-13\&quot; as=\&quot;offset\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-37\&quot; value=\&quot;\&quot; style=\&quot;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;\&quot; edge=\&quot;1\&quot; parent=\&quot;WIyWlLk6GJQsqaUBKTNV-1\&quot; source=\&quot;FkMAMc5dkUzOomXvQ9ln-21\&quot;&gt;\n          &lt;mxGeometry width=\&quot;50\&quot; height=\&quot;50\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint x=\&quot;261\&quot; y=\&quot;360\&quot; as=\&quot;sourcePoint\&quot; /&gt;\n            &lt;mxPoint x=\&quot;251\&quot; y=\&quot;360\&quot; as=\&quot;targetPoint\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n        &lt;mxCell id=\&quot;FkMAMc5dkUzOomXvQ9ln-39\&quot; value=\&quot;No\&quot; style=\&quot;edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#FFFFFF;\&quot; vertex=\&quot;1\&quot; connectable=\&quot;0\&quot; parent=\&quot;FkMAMc5dkUzOomXvQ9ln-37\&quot;&gt;\n          &lt;mxGeometry x=\&quot;-0.025\&quot; y=\&quot;-2\&quot; relative=\&quot;1\&quot; as=\&quot;geometry\&quot;&gt;\n            &lt;mxPoint y=\&quot;-12\&quot; as=\&quot;offset\&quot; /&gt;\n          &lt;/mxGeometry&gt;\n        &lt;/mxCell&gt;\n      &lt;/root&gt;\n    &lt;/mxGraphModel&gt;\n  &lt;/diagram&gt;\n&lt;/mxfile&gt;\n&quot;}"></div></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+
+
+
+    <h4>3. Pseudocode (6-8 hours)</h4>
+    <ul>
+        <li>Introduction to pseudocode: purpose and structure</li>
+        <li>Basic constructs: variables, conditions, loops, and functions</li>
+        <li>Converting flowcharts into pseudocode</li>
+        <li>Writing pseudocode for common algorithms (e.g., sorting, searching)</li>
+    </ul>
+
+
+
+    <pre class="code-container"><code id="code-block">BEGIN
+NUMBER A, B, C
+
+INPUT A
+INPUT B
+INPUT C
+
+IF A &gt; B AND A &gt; C THEN
+    OUTPUT A + " is higher"
+ELSE IF B &gt; C THEN
+    OUTPUT B + " is higher"
+ELSE
+    OUTPUT C + " is higher"
+ENDIF
+
+END</code></pre>
+ 
+    <h4>4. Basic Data Structures and Algorithms (8-10 hours)</h4>
+    <ul>
+        <li>Introduction to arrays, lists, stacks, queues, and linked lists</li>
+        <li>Sorting algorithms: Bubble Sort, Insertion Sort</li>
+        <li>Searching algorithms: Linear Search, Binary Search</li>
+        <li>Designing flowcharts and pseudocode for basic data structures and algorithms</li>
+    </ul>
+    
+    <h4>5. Introduction to Recursion and Simple Backtracking (4-6 hours)</h4>
+    <ul>
+        <li>Understanding recursion: principles and examples</li>
+        <li>Flowchart and pseudocode for recursive algorithms (e.g., factorial, Fibonacci)</li>
+        <li>Introduction to backtracking with simple problems</li>
+    </ul>
+    
+    <h4>6. Practical Applications and Projects (6-8 hours)</h4>
+    <ul>
+        <li>Designing and implementing algorithms using flowcharts and pseudocode</li>
+        <li>Example projects: real-world problem-solving with algorithms</li>
+        <li>Course review and preparation for further programming studies (e.g., Python)</li>
+    </ul>
+    
+    <p><strong>Total Duration:</strong> 33-44 hours</p>
+
+<include src="footer.html"></include>
+</div>
+
+</body>
+</html>

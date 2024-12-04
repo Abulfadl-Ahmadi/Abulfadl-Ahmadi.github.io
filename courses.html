@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style/style.css" />
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+    <script src="https://unpkg.com/htmlincludejs"></script>
+    <script type="text/javascript" src="js.js"></script>
+    <script>
+        window.addEventListener('load', function () {
+            var d = document.getElementById("library");
+            d.className += "  active";
+        });
+    </script>
+
+
+    <title>Courses</title>
+</head>
+
+<body>
+    
+<include src="navbar.html"></include>
+<div class="main-con">
+      
+    
+<div>
+    <h1>
+        <a href="itroduction-to-algorithm.html">Itroduction to Algorithm</a>
+    </h1>
+    <p>
+        In this introductory course, you'll learn the essential concepts of algorithms, focusing on
+        problem-solving techniques, flowchart design, and pseudocode. We’ll start by breaking down
+        complex problems into manageable steps, visualizing solutions using flowcharts, and writing
+        clear pseudocode to represent your logic. This foundational course is designed to prepare
+        you for programming in Python or any other language by building strong algorithmic thinking skills.
+    </p>
+</div>
+
+<div>
+    <h1>
+        <a href="phy-3-ta.html">Physics 3 - TA</a>
+    </h1>
+    <p>
+        This class is held weekly and focuses on solving physics problems. Each week, students
+        complete a set of assigned problems. After reviewing the submissions, common issue are
+        idenfied, and challenging or frequently requested problems are thoroughly sloved and 
+        exlpained. The goal is to enhance problem-solving skills and address students' difficulies.
+    </p>
+</div>
+
+<include src="footer.html"></include>
+</div>
+
+</body>
+</html>
