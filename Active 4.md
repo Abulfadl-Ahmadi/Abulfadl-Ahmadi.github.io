@@ -74,6 +74,7 @@
 - **Cybersecurity**: malicious software, malicious attack  
 - **Law**: malicious intent, malicious prosecution  
 - **Social issues**: malicious behavior, gossip, rumors
+
 ## perpetrator
 
 **Part of Speech:** *noun*  
@@ -3555,6 +3556,120 @@ To make believe something that is not real, often used in children’s play or i
 **نکته پایانی:**  
 "extension" از کلمات بسیار پرکاربرد در زندگی روزمره، تحصیل، تکنولوژی و مهندسی است. درک کاربردهای مختلف آن می‌تونه مهارت زبانت رو خیلی قوی‌تر کنه.
 
+## contend
+
+**Part of Speech:** *verb*  
+**IPA:** /kənˈtend/  
+**Persian:** مقابله کردن، استدلال کردن، رقابت کردن
+
+---
+
+### 1. Definition  
+
+> To struggle to deal with something difficult; to argue or claim something as a fact.  
+> **Persian:** مقابله کردن با شرایط دشوار؛ یا اظهار داشتن، ادعا کردن چیزی به عنوان حقیقت
+
+**Extended Definitions:**  
+- **(1)** To deal with or face difficulties or opposition (فیزیکی، ذهنی، یا احساسی)  
+- **(2)** To argue, state, or assert something strongly in a discussion or writing  
+- **(3)** To compete for something, especially in sports or politics
+
+**Persian Explanation:**  
+"Contend" می‌تواند به معنی مقابله و مواجهه با سختی‌ها، ادعای یک نکته در بحث، یا رقابت برای چیزی باشد. بسته به زمینه، معنایش متفاوت می‌شود.
+
+---
+
+### 2. Example Sentences  
+
+- Nurses have to **contend with** long hours and emotional stress.  
+  *(پرستاران باید با ساعت‌های طولانی و فشارهای روحی مقابله کنند.)*
+
+- Some scientists **contend** that climate change is irreversible.  
+  *(برخی دانشمندان ادعا می‌کنند که تغییرات اقلیمی برگشت‌ناپذیر است.)*
+
+- He plans to **contend** for the world championship title.  
+  *(او قصد دارد برای عنوان قهرمانی جهان رقابت کند.)*
+
+---
+
+### 3. Collocations  
+
+| Collocation             | Example | Persian Translation |
+|-------------------------|---------|----------------------|
+| contend with difficulties | She had to contend with many obstacles. | با مشکلات روبه‌رو شدن |
+| contend that...         | He contends that the law is unfair. | ادعا کردن که... |
+| contend for the title   | Athletes contend for Olympic gold. | رقابت برای مقام |
+| contend against         | The hero contended against evil. | مبارزه علیه |
+
+---
+
+### 4. Word Family  
+
+| Word        | Part of Speech | Example | Persian Meaning |
+|-------------|----------------|---------|-----------------|
+| contend     | verb           | He contended with poverty. | مقابله کردن |
+| contender   | noun           | She’s a strong contender. | رقیب، مدعی |
+| contention  | noun           | Their claim is a point of contention. | ادعا، مناقشه |
+| contentious | adjective      | It’s a contentious issue. | بحث‌برانگیز، مناقشه‌برانگیز |
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- struggle  
+- cope  
+- deal with  
+- argue  
+- assert  
+- compete  
+
+**Antonyms:**  
+- give up  
+- agree  
+- concede  
+- avoid  
+- retreat  
+
+---
+
+### 6. Usage Notes  
+
+- **"Contend with"** is usually used when referring to **difficulties or challenges**.  
+- **"Contend that..."** is used in **formal writing or debates** to present an argument.  
+- **"Contend for"** refers to **competition**, often in sports or awards.
+
+---
+
+### 7. Common Errors to Avoid  
+
+❌ "She contend with the problem."  
+✅ "She **contends** with the problem."  
+*(فعل باید با فاعل صرف شود.)*
+
+❌ "He is contend to win."  
+✅ "He is **contending** to win."  
+*(شکل صحیح زمان حال استمراری استفاده شود.)*
+
+---
+
+### 8. Mnemonic Device  
+
+**Contend = Con + Tend = "Constantly Tending to fight or argue"**  
+یعنی همیشه در حال تلاش یا مبارزه برای چیزی بودن.
+
+---
+
+### 9. تمرین پیشنهادی  
+
+1. یک جمله بساز که در آن با مشکلی مقابله می‌کنی و از **contend with** استفاده کن.  
+2. از **contend that** برای بیان یک نظر جدی استفاده کن.  
+3. یک موقعیت رقابتی تصور کن و با **contend for** جمله بساز.
+
+---
+
+**نکته پایانی:**  
+"Contend" یک فعل چندمعنایی و رسمی‌ است که در موقعیت‌های جدی یا آکادمیک زیاد استفاده می‌شود. تفاوت کاربردهای آن در متن‌های نوشتاری، گفتاری و رسمی اهمیت زیادی دارد.
 
 ## tendency
 
@@ -3897,3 +4012,1839 @@ A **tendency** is a leaning or inclination toward a particular kind of thought, 
 **نکته پایانی:**  
 "Conceived" فعلی است که هم در ادبیات و علوم انسانی کاربرد دارد و هم در پزشکی. استفاده درست از آن بستگی به زمینه‌ی جمله دارد. در متون رسمی زیاد به چشم می‌خورد.
 
+
+## criteria
+
+**Part of Speech:** *noun (plural)*  
+**Singular:** *criterion*  
+**IPA:** /kraɪˈtɪəriə/  
+**Persian:** معیارها، ملاک‌ها
+
+---
+
+### 1. Definition
+
+> Standards or principles by which something may be judged or decided.  
+> **Persian:** استانداردها یا اصولی که بر اساس آن‌ها چیزی ارزیابی یا تصمیم‌گیری می‌شود.
+
+**Extended Definition:**  
+"Criteria" are the **rules, conditions, or standards** used to make judgments or decisions about something—like selecting candidates, evaluating performance, or determining value.
+
+**Persian Explanation:**  
+واژه "criteria" شکل جمع "criterion" است و به مجموعه‌ای از ملاک‌ها یا شرایطی اشاره دارد که برای ارزیابی یا تصمیم‌گیری استفاده می‌شوند.
+
+---
+
+### 2. Example Sentences
+
+- We need to define clear **criteria** for selecting applicants.  
+  *(ما باید معیارهای مشخصی برای انتخاب داوطلبان تعریف کنیم.)*
+
+- What are the **criteria** for judging this contest?  
+  *(معیارهای داوری این مسابقه چیست؟)*
+
+- Efficiency and cost are the main **criteria** in the decision.  
+  *(بازدهی و هزینه، معیارهای اصلی در این تصمیم‌گیری هستند.)*
+
+---
+
+### 3. Collocations
+
+| Collocation             | Example | Persian Translation |
+|-------------------------|---------|----------------------|
+| selection criteria      | The selection criteria were too strict. | معیارهای انتخاب |
+| evaluation criteria     | They used several evaluation criteria. | معیارهای ارزیابی |
+| performance criteria    | Performance criteria must be realistic. | معیارهای عملکرد |
+| meet the criteria       | He doesn’t meet the criteria. | واجد شرایط بودن |
+| based on criteria       | The decision was based on clear criteria. | بر اساس معیارها |
+
+---
+
+### 4. Word Family
+
+| Word       | Part of Speech | Example | Persian Meaning |
+|------------|----------------|---------|-----------------|
+| criterion  | noun (singular) | One key criterion is experience. | یک معیار |
+| criteria   | noun (plural)   | Several criteria must be met. | چند معیار |
+| critical   | adjective       | Critical thinking is essential. | انتقادی / حیاتی |
+| criticize  | verb            | Don’t criticize without reason. | انتقاد کردن |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- standards  
+- principles  
+- benchmarks  
+- measures  
+- guidelines  
+
+**Antonyms:**  
+- guesses  
+- assumptions  
+- randomness  
+- arbitrariness  
+
+---
+
+### 6. Usage Notes
+
+- **Criteria** is plural; the correct singular form is **criterion**.  
+  ❌ This is an important criteria.  
+  ✅ This is an important **criterion**.
+
+- Often used in **academic**, **business**, and **evaluation** contexts.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "This criteria is helpful."  
+✅ "This **criterion** is helpful." *(singular)*
+
+❌ "There is many criteria."  
+✅ "There **are** many criteria." *(plural verb)*
+
+---
+
+### 8. Mnemonic Device
+
+**"Criteria = Conditions to Rate Things In Evaluation And Review"**  
+= شرایط برای ارزیابی و بررسی چیزها
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای با واژه‌ی "criteria" بنویس که به انتخاب دانشجو اشاره کند.  
+2. تفاوت بین "criterion" و "criteria" را با مثال توضیح بده.  
+3. سه معیار مهم برای انتخاب یک دوست خوب بنویس (به انگلیسی).
+
+---
+
+**نکته پایانی:**  
+"criteria" یکی از واژه‌های پرکاربرد در نوشتار رسمی، دانشگاهی و علمی است. توجه به مفرد و جمع بودن آن بسیار مهم است، چون اشتباه در استفاده از "criterion" و "criteria" رایج است.
+
+## hypothesis
+
+**Part of Speech:** *noun*  
+**Plural:** hypotheses (/haɪˈpɒθəsiːz/)  
+**IPA:** /haɪˈpɒθəsɪs/  
+**Persian:** فرضیه، گمانه
+
+---
+
+### 1. Definition
+
+> A proposed explanation for a phenomenon, used as a starting point for further investigation.  
+> **Persian:** توضیحی پیشنهادی برای یک پدیده که به عنوان نقطه شروع برای بررسی بیشتر استفاده می‌شود.
+
+**Extended Definition:**  
+A **hypothesis** is an educated guess or a tentative assumption made to test its logical or empirical consequences, especially in science. It’s tested through experiments or observations.
+
+**Persian Explanation:**  
+فرضیه، یک گمان علمی یا توضیح اولیه برای یک پدیده است که هنوز اثبات نشده و باید از طریق آزمایش یا مشاهده بررسی شود.
+
+---
+
+### 2. Example Sentences
+
+- The scientist formulated a **hypothesis** to explain the strange behavior of the chemicals.  
+  *(دانشمند فرضیه‌ای برای توضیح رفتار عجیب مواد شیمیایی مطرح کرد.)*
+
+- Her **hypothesis** was later confirmed by multiple experiments.  
+  *(فرضیه‌اش بعداً توسط آزمایش‌های متعدد تأیید شد.)*
+
+- We tested the **hypothesis** that stress affects memory.  
+  *(فرضیه تأثیر استرس بر حافظه را آزمایش کردیم.)*
+
+---
+
+### 3. Collocations
+
+| Collocation           | Example | Persian Translation |
+|-----------------------|---------|----------------------|
+| test a hypothesis     | They tested the hypothesis in the lab. | آزمایش فرضیه |
+| formulate a hypothesis | He formulated a hypothesis about gravity. | ساخت فرضیه |
+| support a hypothesis  | The data supported the hypothesis. | پشتیبانی از فرضیه |
+| reject a hypothesis   | The experiment rejected the initial hypothesis. | رد فرضیه |
+| scientific hypothesis | A valid scientific hypothesis must be testable. | فرضیه علمی |
+
+---
+
+### 4. Word Family
+
+| Word         | Part of Speech | Example | Persian Meaning |
+|--------------|----------------|---------|-----------------|
+| hypothesis   | noun           | He proposed a hypothesis. | فرضیه |
+| hypotheses   | noun (plural)  | All the hypotheses were tested. | فرضیه‌ها |
+| hypothetical | adjective      | It’s a hypothetical situation. | فرضی، احتمالی |
+| hypothesize  | verb           | Researchers hypothesize that… | فرض کردن |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- theory (در کاربرد غیررسمی)  
+- assumption  
+- supposition  
+- proposition  
+- speculation  
+
+**Antonyms:**  
+- proven fact  
+- certainty  
+- conclusion  
+- truth  
+
+---
+
+### 6. Usage Notes
+
+- **Hypothesis** must be **testable** and **falsifiable** in science.  
+- It's often confused with **theory**, but a **theory** is a well-tested explanation, while a **hypothesis** is still being tested.  
+- Used heavily in **scientific writing**, **research papers**, and **academic studies**.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The hypothesis are interesting."  
+✅ "The **hypotheses** are interesting." *(Plural is irregular.)*
+
+❌ "His hypothesis is proved."  
+✅ "His hypothesis was **supported** by evidence." *(Proof is too strong a word for science.)*
+
+---
+
+### 8. Mnemonic Device
+
+**"Hypo" = under (like incomplete) + "Thesis" = idea → Hypothesis = Underlying idea**  
+یعنی: ایده‌ای که هنوز کامل نشده و باید بررسی شود.
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. یک فرضیه در مورد تأثیر خواب بر یادگیری بنویس (به انگلیسی).  
+2. تفاوت بین "hypothesis" و "theory" را با مثال توضیح بده.  
+3. سه فعل مناسب برای استفاده با "hypothesis" نام ببر (مثل formulate, reject,…).
+
+---
+
+**نکته پایانی:**  
+واژه‌ی "hypothesis" کلید فهم فرآیند علمی است. در آزمون‌ها و متون دانشگاهی بسیار رایج است و باید تفاوت آن با "theory" و "assumption" را خوب بدانید.
+
+## gifted
+
+**Part of Speech:** *adjective*  
+**IPA:** /ˈɡɪf.tɪd/  
+**Persian:** با استعداد، خوش‌ذوق، دارای موهبت
+
+---
+
+### 1. Definition
+
+> Having exceptional talent or natural ability in one or more areas.  
+> **Persian:** دارای استعداد یا توانایی طبیعی فوق‌العاده در یک یا چند زمینه
+
+**Extended Definition:**  
+"Gifted" refers to individuals—especially children—who display significantly higher performance or potential in areas such as academics, arts, music, or problem-solving. It can also refer to people with natural talents in other fields.
+
+**Persian Explanation:**  
+"Gifted" به افرادی اشاره دارد (به‌ویژه کودکان) که در زمینه‌هایی مانند تحصیل، هنر، موسیقی یا حل مسئله استعداد بسیار بالایی دارند. این واژه معمولاً در زمینه‌ی آموزش و پرورش استفاده می‌شود.
+
+---
+
+### 2. Example Sentences
+
+- She’s a **gifted** musician who started composing at age six.  
+  *(او نوازنده‌ی بااستعدادی است که از شش سالگی شروع به آهنگسازی کرد.)*
+
+- The school has a special program for **gifted** students.  
+  *(مدرسه برنامه‌ای ویژه برای دانش‌آموزان بااستعداد دارد.)*
+
+- He is **gifted** with an incredible memory.  
+  *(او حافظه‌ی شگفت‌انگیزی دارد.)*
+
+---
+
+### 3. Collocations
+
+| Collocation             | Example | Persian Translation |
+|-------------------------|---------|----------------------|
+| gifted child            | The gifted child solved the puzzle quickly. | کودک بااستعداد |
+| gifted student          | She’s a gifted student in math. | دانش‌آموز با استعداد |
+| naturally gifted        | He’s naturally gifted in sports. | ذاتاً بااستعداد |
+| intellectually gifted   | A school for intellectually gifted kids. | باهوش و دارای استعداد ذهنی |
+| artistically gifted     | She is artistically gifted. | دارای استعداد هنری |
+
+---
+
+### 4. Word Family
+
+| Word     | Part of Speech | Example | Persian Meaning |
+|----------|----------------|---------|-----------------|
+| gift     | noun           | She has a gift for languages. | استعداد، موهبت |
+| gifted   | adjective      | He is a gifted writer. | با استعداد |
+| gift     | verb (rare)    | She was gifted a book. | هدیه دادن |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- talented  
+- skilled  
+- brilliant  
+- exceptional  
+- adept  
+
+**Antonyms:**  
+- unskilled  
+- untalented  
+- ordinary  
+- mediocre  
+
+---
+
+### 6. Usage Notes
+
+- Often used in educational contexts to refer to children with high abilities.  
+- Can be used more broadly to describe **any exceptional natural ability**.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "He is a gift student."  
+✅ "He is a **gifted** student." *(“Gift” is a noun; “gifted” is the adjective.)*
+
+❌ "She is good, but not gifteded."  
+✅ "She is good, but not **gifted**." *(Wrong suffix.)*
+
+---
+
+### 8. Mnemonic Device
+
+**Gifted** = Someone who has been given a **gift** from nature (like talent or intelligence).
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت **"gifted student"** استفاده شود.  
+2. تفاوت بین "gift" و "gifted" را در یک جمله‌ی انگلیسی توضیح بده.  
+3. پنج صفت مترادف با gifted را حفظ کن و در جمله استفاده کن.
+
+---
+
+**نکته پایانی:**  
+"Gifted" واژه‌ای پرکاربرد در بحث آموزش، استعدادهای ویژه و توصیف توانایی‌های منحصر به فرد است. با یادگیری این کلمه و کاربردهایش، متون علمی و آموزشی را بهتر درک خواهی کرد.
+
+
+## novelty
+
+**Part of Speech:** *noun*  
+**IPA:** /ˈnɒv.əl.ti/  
+**Persian:** تازگی، نوآوری، جدید بودن
+
+---
+
+### 1. Definition
+
+> The quality of being new, original, or unusual.  
+> **Persian:** ویژگی جدید، اصیل یا غیرمعمول بودن.
+
+**Extended Definition:**  
+"Novelty" refers to the state of being **new** or **unfamiliar**, and it can describe a **new concept, object, or experience** that is different from what is common or traditional. It can also refer to something that is **novel** in design, appearance, or idea.
+
+**Persian Explanation:**  
+"Novelty" به معنی تازگی یا اصالت است و معمولاً به چیزهایی اشاره دارد که جدید، متفاوت یا غیرمعمول هستند. این واژه در زمینه‌های مختلف از جمله محصولات جدید یا ایده‌های نو کاربرد دارد.
+
+---
+
+### 2. Example Sentences
+
+- The novelty of the new gadget wore off after a few days.  
+  *(تازگی وسیله جدید بعد از چند روز از بین رفت.)*
+
+- People are always excited by the novelty of new technology.  
+  *(مردم همیشه از تازگی فناوری‌های جدید هیجان‌زده می‌شوند.)*
+
+- The novelty of the idea made it an instant success.  
+  *(تازگی ایده باعث موفقیت فوری آن شد.)*
+
+---
+
+### 3. Collocations
+
+| Collocation              | Example | Persian Translation |
+|--------------------------|---------|----------------------|
+| novelty item             | The store sells novelty items like funny mugs. | کالای جدید و غیرمعمول |
+| novelty value            | The novelty value of the product attracted attention. | ارزش تازگی |
+| novelty factor           | The novelty factor wore off after the first use. | عامل تازگی |
+| novelty gift             | She gave him a novelty gift for his birthday. | هدیه غیرمعمول |
+| novelty of the idea      | The novelty of the idea appealed to many people. | تازگی ایده |
+
+---
+
+### 4. Word Family
+
+| Word      | Part of Speech | Example | Persian Meaning |
+|-----------|----------------|---------|-----------------|
+| novel     | adjective      | She came up with a novel solution. | جدید، ابتکاری |
+| novelty   | noun           | The novelty of the new app wore off quickly. | تازگی |
+| innovator | noun           | Steve Jobs was a great innovator. | نوآور |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- originality  
+- innovation  
+- newness  
+- freshness  
+- uniqueness  
+
+**Antonyms:**  
+- tradition  
+- ordinariness  
+- commonness  
+- dullness  
+
+---
+
+### 6. Usage Notes
+
+- "Novelty" often refers to something that **loses its appeal over time** (i.e., once it becomes familiar, it may not seem as interesting).
+- Commonly used in **marketing**, **design**, and **product development**.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The novelty of the idea is exciting, but it doesn't last forever."  
+✅ "The novelty of the idea **wore off**, but it still has value." *(The first version doesn't capture the idea of novelty losing its appeal.)*
+
+❌ "We need novelty gifts for our customers."  
+✅ "We need **novelty items** for our customers." *(“Novelty” as an adjective is rarely used in this context.)*
+
+---
+
+### 8. Mnemonic Device
+
+**"Novelty"** = **"New"** ideas or things that are **"fresh"** and exciting, but eventually, they **"fade"**.
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که از عبارت "novelty value" استفاده کنی.
+2. سه نمونه از "novelty items" را بنویس که ممکن است در یک فروشگاه ببینی.
+3. تفاوت بین "novel" و "novelty" را توضیح بده و در دو جمله مختلف از آن‌ها استفاده کن.
+
+---
+
+**نکته پایانی:**  
+"Novelty" بیشتر در بازاریابی و طراحی محصولات برای اشاره به تازگی و جذابیت استفاده می‌شود، به‌ویژه زمانی که محصول یا ایده‌ای جدید برای جذب توجه مشتریان ارائه می‌شود.
+
+## dynamics
+
+**Part of Speech:** *noun*  
+**Plural:** *dynamics*  
+**IPA:** /daɪˈnæmɪks/  
+**Persian:** دینامیک، پویایی
+
+---
+
+### 1. Definition
+
+> The branch of mechanics concerned with the motion of bodies under the action of forces.  
+> **Persian:** شاخه‌ای از مکانیک که به حرکت اجسام تحت تأثیر نیروها می‌پردازد.
+
+**Extended Definition:**  
+"Dynamics" refers to the study of **forces and motion** in both physical and abstract contexts. It can describe how things change or progress due to internal or external forces, and it is used in various fields such as physics, social sciences, and economics. 
+
+**Persian Explanation:**  
+دینامیک به مطالعه‌ی نیروها و حرکت اجسام در زمینه‌های مختلف علمی اشاره دارد. این واژه به‌ویژه در فیزیک، علوم اجتماعی و اقتصاد برای تحلیل تغییرات و پیشرفت‌ها به کار می‌رود.
+
+---
+
+### 2. Example Sentences
+
+- The engineer studied the **dynamics** of fluid flow in the pipe.  
+  *(مهندس دینامیک جریان مایع در لوله را مطالعه کرد.)*
+
+- Social **dynamics** are crucial in understanding how societies evolve.  
+  *(پویایی‌های اجتماعی برای درک چگونگی تکامل جوامع ضروری هستند.)*
+
+- The team analyzed the **dynamics** of market behavior in the new economy.  
+  *(تیم پویایی‌های رفتار بازار را در اقتصاد جدید تحلیل کرد.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| social dynamics            | The study of social dynamics helps us understand human behavior. | پویایی‌های اجتماعی |
+| economic dynamics          | Economic dynamics change with market fluctuations. | پویایی‌های اقتصادی |
+| team dynamics              | Understanding team dynamics is key to success in group projects. | پویایی‌های تیمی |
+| power dynamics             | The power dynamics within the company are shifting. | پویایی‌های قدرت |
+| dynamics of change         | The dynamics of change are evident in modern technology. | پویایی‌های تغییر |
+
+---
+
+### 4. Word Family
+
+| Word           | Part of Speech | Example | Persian Meaning |
+|----------------|----------------|---------|-----------------|
+| dynamic        | adjective      | She is a dynamic leader. | پویا، فعال |
+| dynamism       | noun           | His dynamism made him an inspiring figure. | پویایی، انرژی |
+| dynamical      | adjective      | The dynamical system needs to be studied carefully. | دینامیک، مربوط به حرکت |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- motion  
+- forces  
+- activity  
+- energy  
+- interaction  
+
+**Antonyms:**  
+- stasis  
+- inactivity  
+- immobility  
+- stagnation  
+
+---
+
+### 6. Usage Notes
+
+- **Dynamics** is used to describe forces that lead to changes in systems, whether physical (e.g., in mechanics) or abstract (e.g., in social or economic contexts).
+- The term is frequently applied in both **scientific** and **sociological** discussions.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The dynamics of the system is simple."  
+✅ "The dynamics of the system **are** simple." *(Plural verb agreement with "dynamics")*
+
+❌ "We need to study the dynamical of the behavior."  
+✅ "We need to study the **dynamics** of the behavior." *(Correct form of the word)*
+
+---
+
+### 8. Mnemonic Device
+
+**"Dynamics"** = **D**riving forces **Y**ielding **N**ew **A**ctions, **M**ovements, and **I**nteractions **C**reating **S**ystems
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "team dynamics" استفاده کنی.
+2. تفاوت بین "dynamics" و "dynamism" را در یک جمله توضیح بده.
+3. در یک موضوع اجتماعی، پویایی‌های (dynamics) را که می‌توانند بر تغییرات تأثیر بگذارند، ذکر کن.
+
+---
+
+**نکته پایانی:**  
+"**Dynamics**" یک واژه‌ کلیدی در فیزیک و علوم اجتماعی است که برای تحلیل حرکت، تغییرات، نیروها و تعاملات استفاده می‌شود. این کلمه به شما کمک می‌کند تا درک بهتری از نحوه عملکرد سیستم‌ها و جوامع داشته باشید.
+
+## fine-tune
+
+**Part of Speech:** *verb*  
+**IPA:** /ˌfaɪnˈtjuːn/  
+**Persian:** دقیق تنظیم کردن، بهینه‌سازی کردن
+
+---
+
+### 1. Definition
+
+> To make small adjustments to something in order to improve it or make it more precise.  
+> **Persian:** انجام تنظیمات کوچک برای بهبود یا دقت بیشتر در چیزی.
+
+**Extended Definition:**  
+"Fine-tune" means to make minor changes to something, typically to improve its performance or precision. It is often used in the context of **machines**, **systems**, or even **skills**, implying that after the main work is done, further adjustments are made to perfect the results.
+
+**Persian Explanation:**  
+"Fine-tune" به معنی انجام تغییرات کوچک و دقیق برای بهبود عملکرد یا دقت بیشتر است. این واژه معمولاً در زمینه‌هایی مانند ماشین‌آلات، سیستم‌ها و مهارت‌ها به کار می‌رود.
+
+---
+
+### 2. Example Sentences
+
+- The engineer had to **fine-tune** the machine to ensure it worked smoothly.  
+  *(مهندس مجبور شد ماشین را دقیق تنظیم کند تا از عملکرد روان آن اطمینان حاصل کند.)*
+
+- After receiving feedback, she **fine-tuned** her presentation.  
+  *(بعد از دریافت بازخورد، او ارائه‌اش را بهینه‌سازی کرد.)*
+
+- The team worked for hours to **fine-tune** the software before the release.  
+  *(تیم ساعت‌ها برای بهینه‌سازی نرم‌افزار قبل از انتشار آن کار کرد.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| fine-tune a machine        | The technician fine-tuned the machine for optimal performance. | تنظیم دقیق ماشین |
+| fine-tune a system         | We need to fine-tune the system before the presentation. | بهینه‌سازی سیستم |
+| fine-tune a model          | Researchers are trying to fine-tune the model for better predictions. | دقیق تنظیم کردن مدل |
+| fine-tune skills           | He spent years fine-tuning his skills as a musician. | بهبود مهارت‌ها |
+| fine-tune a process        | The company will fine-tune the process to reduce errors. | بهینه‌سازی فرآیند |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| fine-tuning     | noun           | Fine-tuning the system is crucial for efficiency. | تنظیم دقیق |
+| fine            | adjective      | She has a fine taste in art. | دقیق، عالی |
+| tune            | verb           | The musician tuned the guitar before the concert. | تنظیم کردن |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- adjust  
+- calibrate  
+- refine  
+- optimize  
+- perfect  
+
+**Antonyms:**  
+- misadjust  
+- ignore  
+- neglect  
+- distort  
+
+---
+
+### 6. Usage Notes
+
+- **Fine-tuning** is often used when referring to **small, careful adjustments** that improve something after it has already been set up or created.
+- It can be applied to a wide variety of contexts, from technical processes (e.g., machinery, software) to **personal skills** and **creative work**.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "I need to fine-tune to my skills."  
+✅ "I need to **fine-tune my skills**." *(Correct phrasing: "fine-tune" does not require "to" after it.)*
+
+❌ "They are fine-tuning the budget before the start."  
+✅ "They are fine-tuning the budget before the **start**." *(Avoid unnecessary repetition of "before.")*
+
+---
+
+### 8. Mnemonic Device
+
+**"Fine-tune"** = **F**ocus **I**n on **N**eeds and **E**ssentially improve **T**hrough **U**ndertaking **N**ice adjustments **E**fficiently.
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "fine-tune a process" استفاده کنی.
+2. تفاوت بین "fine-tune" و "adjust" را توضیح بده.
+3. در کدام زمینه‌ها می‌توانی از "fine-tune" استفاده کنی؟ چند مثال بیاور.
+
+---
+
+**نکته پایانی:**  
+"Fine-tune" یک واژه‌ی مفید است که نشان می‌دهد می‌توان با **تنظیمات دقیق** و **کمی** به نتایج مطلوب رسید. این مفهوم در مهندسی، هنر، و بسیاری از فعالیت‌های دیگر کاربرد دارد.
+
+## in conjunction with
+
+**Part of Speech:** *prepositional phrase*  
+**IPA:** /ɪn kənˈdʒʌŋkʃən wɪð/  
+**Persian:** در کنار، به همراه، همزمان با
+
+---
+
+### 1. Definition
+
+> Used to describe things or actions that occur **together** or **in combination**.  
+> **Persian:** برای توصیف چیزها یا اقداماتی که **همزمان** یا **در ترکیب** با هم رخ می‌دهند.
+
+**Extended Definition:**  
+"In conjunction with" indicates that two or more things are working together or are being used in combination to achieve a particular result. It is often used in formal writing or speech and emphasizes the **cooperation** or **collaboration** between multiple elements.
+
+**Persian Explanation:**  
+عبارت "in conjunction with" برای بیان این است که دو یا چند چیز یا عمل به‌طور همزمان یا در ترکیب با یکدیگر انجام می‌شوند. این عبارت معمولاً در نوشتار یا سخنرانی‌های رسمی به‌کار می‌رود و بر **همکاری** یا **ترکیب** عناصر مختلف تأکید دارد.
+
+---
+
+### 2. Example Sentences
+
+- The new product was developed **in conjunction with** several international companies.  
+  *(محصول جدید به‌همراه چندین شرکت بین‌المللی توسعه یافت.)*
+
+- The research team worked **in conjunction with** government agencies to analyze the data.  
+  *(تیم تحقیقاتی به همراه نهادهای دولتی برای تحلیل داده‌ها همکاری کردند.)*
+
+- This technique is used **in conjunction with** traditional methods to improve results.  
+  *(این تکنیک به‌همراه روش‌های سنتی برای بهبود نتایج استفاده می‌شود.)*
+
+---
+
+### 3. Collocations
+
+| Collocation                  | Example | Persian Translation |
+|------------------------------|---------|----------------------|
+| work in conjunction with      | The scientists worked in conjunction with environmental groups. | همکاری کردن با |
+| use in conjunction with       | These tools are often used in conjunction with advanced technology. | استفاده کردن همراه با |
+| in conjunction with research  | The program was developed in conjunction with research findings. | همزمان با تحقیق |
+| in conjunction with experts   | The project was conducted in conjunction with experts in the field. | به همراه کارشناسان |
+
+---
+
+### 4. Word Family
+
+| Word          | Part of Speech | Example | Persian Meaning |
+|---------------|----------------|---------|-----------------|
+| conjunction   | noun           | Their efforts led to a successful conjunction of ideas. | ترکیب، هم‌زمانی |
+| conjunctive    | adjective      | The conjunctive approach helped integrate various theories. | وابسته، ترکیبی |
+| conjunctional  | adjective      | The conjunctional use of resources helped reduce costs. | مربوط به ترکیب |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- together with  
+- along with  
+- in combination with  
+- coupled with  
+
+**Antonyms:**  
+- separately  
+- individually  
+- apart from  
+- without  
+
+---
+
+### 6. Usage Notes
+
+- "In conjunction with" is commonly used in formal and professional contexts, such as academic papers, business reports, and scientific discussions.
+- It highlights the collaborative nature of the relationship between the things being discussed.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The project was successful **in conjunction with** the experts."  
+✅ "The project was successful **with** the experts." *(Avoid unnecessary complexity, "with" is sufficient here.)*
+
+❌ "He used the new technique **in conjunction with** his experience."  
+✅ "He used the new technique **together with** his experience." *(In some cases, "together with" might sound more natural.)*
+
+---
+
+### 8. Mnemonic Device
+
+**"In conjunction with"** = **C**ombining **O**perations **N**aturally, **J**ointly **U**nifying **N**ew **C**oncepts **T**ogether **I**n **O**rder to **N**urture Success.
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "in conjunction with research" استفاده کنی.
+2. تفاوت بین "in conjunction with" و "together with" را توضیح بده.
+3. در چه زمینه‌هایی می‌توان از "in conjunction with" استفاده کرد؟ چند مثال بیاور.
+
+---
+
+**نکته پایانی:**  
+عبارت "in conjunction with" برای بیان همکاری یا استفاده همزمان از چندین عنصر در کنار هم به کار می‌رود و در موقعیت‌های رسمی و حرفه‌ای کاربرد فراوانی دارد.
+
+## forefront
+
+**Part of Speech:** *noun*  
+**IPA:** /ˈfɔːrfrʌnt/  
+**Persian:** پیشرو، مقدم، جلوتر از دیگران
+
+---
+
+### 1. Definition
+
+> The leading or most important position in a particular activity or field.  
+> **Persian:** موقعیت پیشرو یا مهم‌ترین موقعیت در یک فعالیت یا حوزه خاص.
+
+**Extended Definition:**  
+"Forefront" refers to the **leading edge** or **most prominent position** in any given context. It is often used to describe those who are **leading the way**, either in terms of innovation, influence, or prominence in a particular area of expertise.
+
+**Persian Explanation:**  
+"Forefront" به معنی **جلوترین یا مهم‌ترین موقعیت** در هر زمینه‌ای است. این واژه معمولاً برای توصیف کسانی که در زمینه‌ای خاص پیشتاز هستند یا بیشترین تأثیر را دارند، استفاده می‌شود.
+
+---
+
+### 2. Example Sentences
+
+- She is at the **forefront** of medical research, making groundbreaking discoveries.  
+  *(او در تحقیقات پزشکی در خط مقدم است و کشفیات جدیدی انجام می‌دهد.)*
+
+- The company has been at the **forefront** of technological innovation for years.  
+  *(این شرکت سال‌هاست که در زمینه نوآوری‌های تکنولوژیکی پیشتاز بوده است.)*
+
+- He has always been at the **forefront** of social change, advocating for equality.  
+  *(او همیشه در خط مقدم تغییرات اجتماعی بوده است و از برابری دفاع کرده است.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| at the forefront of        | She is at the forefront of climate change activism. | در خط مقدم |
+| lead the forefront of      | The country aims to lead the forefront of renewable energy. | پیشرو بودن در |
+| forefront of technology    | The company is at the forefront of artificial intelligence research. | پیشتاز در فناوری |
+| in the forefront of change | The new policy placed environmental issues in the forefront of global discussions. | در خط مقدم تغییر |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| forefronted     | adjective      | The company’s efforts were forefronted by its CEO. | پیشرو، در صدر |
+| forefronter     | noun           | She is a forefronter in the world of fashion design. | پیشگام |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- leading edge  
+- vanguard  
+- front line  
+- cutting edge  
+- forefront position  
+
+**Antonyms:**  
+- background  
+- rear  
+- secondary  
+- follower  
+
+---
+
+### 6. Usage Notes
+
+- **Forefront** is often used in the context of **leadership** or **innovation**, especially when referring to people, companies, or ideas that are considered to be the most advanced or influential in a particular area.
+- It can also be used to describe something that is **visible** or **prominent**, especially in the public eye.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The new company is **in forefront** of the industry."  
+✅ "The new company is **at the forefront** of the industry." *(Correct preposition: "at")*
+
+❌ "She is at the **forefront of to** environmental protection."  
+✅ "She is at the **forefront of** environmental protection." *(Remove unnecessary "to")*
+
+---
+
+### 8. Mnemonic Device
+
+**"Forefront"** = **F**ocused **O**n **R**epresenting **E**xcellence in **F**uture-oriented **R**evolutions **O**r **N**ew **T**houghts
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "at the forefront of technology" استفاده کنی.
+2. تفاوت بین "forefront" و "vanguard" را توضیح بده.
+3. به نظر تو کدام کشورها در حال حاضر در زمینه‌های علمی در **خط مقدم** قرار دارند؟
+
+---
+
+**نکته پایانی:**  
+عبارت "forefront" نشان‌دهنده **جلوترین موقعیت** در هر زمینه‌ای است و معمولاً به افراد یا نهادهایی اطلاق می‌شود که **پیشتاز** یا **مهم‌ترین نقش** را در یک فعالیت یا صنعت دارند.
+
+## allude to
+
+**Part of Speech:** *phrasal verb*  
+**IPA:** /əˈluːd tuː/  
+**Persian:** اشاره کردن به، کنایه زدن به
+
+---
+
+### 1. Definition
+
+> To refer to something indirectly or briefly, without explicitly mentioning it.  
+> **Persian:** به چیزی به طور غیرمستقیم یا مختصر اشاره کردن بدون ذکر صریح آن.
+
+**Extended Definition:**  
+"Allude to" means to make a reference to something or someone without directly stating or naming it. It is often used in conversation or writing when you want to imply something without making it obvious or clear. This can be done to avoid being too direct, to keep an air of mystery, or because the topic is sensitive.
+
+**Persian Explanation:**  
+عبارت "allude to" به معنی اشاره به چیزی به‌طور غیرمستقیم است، بدون اینکه به طور صریح یا مستقیم آن را ذکر کنیم. این عبارت معمولاً در مکالمه‌ها یا نوشتارها استفاده می‌شود تا چیزی به‌طور ضمنی اشاره شود، بدون اینکه آن را به وضوح یا به‌طور مستقیم ذکر کرد.
+
+---
+
+### 2. Example Sentences
+
+- The speaker **alluded to** the issue of climate change without directly mentioning it.  
+  *(سخنران به موضوع تغییرات اقلیمی اشاره کرد بدون اینکه مستقیماً به آن اشاره کند.)*
+
+- He **alluded to** the fact that he was leaving the company, but didn't say it outright.  
+  *(او به این واقعیت اشاره کرد که شرکت را ترک می‌کند، اما آن را به طور مستقیم نگفت.)*
+
+- The novel **alludes to** many historical events without explaining them in detail.  
+  *(رمان به بسیاری از رویدادهای تاریخی اشاره می‌کند بدون اینکه آنها را به طور مفصل توضیح دهد.)*
+
+---
+
+### 3. Collocations
+
+| Collocation            | Example | Persian Translation |
+|------------------------|---------|----------------------|
+| allude to a topic      | She alluded to the topic of politics without going into detail. | اشاره کردن به یک موضوع |
+| allude to a person     | The article alluded to several famous authors. | اشاره کردن به یک شخص |
+| allude to an event     | The director alluded to the tragic event in his speech. | اشاره کردن به یک رویداد |
+| allude to a fact       | He alluded to the fact that the project was behind schedule. | اشاره کردن به یک واقعیت |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| allusion        | noun           | The novel contains many allusions to classical mythology. | اشاره، کنایه |
+| allusive        | adjective      | His allusive comments left the audience confused. | حاوی اشاره، کنایه‌دار |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- refer to  
+- hint at  
+- suggest  
+- imply  
+- mention indirectly  
+
+**Antonyms:**  
+- state clearly  
+- disclose  
+- reveal  
+- express openly  
+
+---
+
+### 6. Usage Notes
+
+- **Allude to** is commonly used when referring to something that is not explicitly stated, often used in formal or literary contexts.
+- It is important to note that **"allude to"** does not involve direct or clear mention, it is more about implying something indirectly.
+- While "allude to" is more formal, "hint at" or "suggest" can be used in more casual conversations.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "He alluded about the problem but didn’t explain it."  
+✅ "He alluded **to** the problem but didn’t explain it." *(Correct preposition: "to")*
+
+❌ "The book alludes that love is the answer to all problems."  
+✅ "The book **alludes to** the idea that love is the answer to all problems." *(Alluding to an idea, not directly saying it)*
+
+---
+
+### 8. Mnemonic Device
+
+**"ALLUDE TO"** = **A**ll **L**ittle **L**eading **U**ndertones **D**irect **E**motions **T**hrough **O**blique hints
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "allude to a person" استفاده کنی.
+2. تفاوت بین "allude to" و "hint at" را توضیح بده.
+3. یک مثال از فیلم یا کتابی بیاور که در آن به یک موضوع یا رویداد به صورت غیرمستقیم اشاره شده باشد.
+
+---
+
+**نکته پایانی:**  
+عبارت "allude to" زمانی به کار می‌رود که بخواهید به چیزی یا کسی اشاره کنید، اما به طور مستقیم و صریح به آن اشاره نکنید. این عبارت در مکالمات رسمی یا در نوشته‌های ادبی کاربرد زیادی دارد.
+
+## accept
+
+**Part of Speech:** *verb*  
+**IPA:** /əkˈsɛpt/  
+**Persian:** قبول کردن، پذیرفتن، پذیرا بودن
+
+---
+
+### 1. Definition
+
+> To receive or agree to something offered or given.  
+> **Persian:** دریافت کردن یا موافقت کردن با چیزی که ارائه شده یا داده شده است.
+
+**Extended Definition:**  
+"Accept" is used to express the act of receiving something, often in response to an offer, invitation, request, or decision. It can also mean agreeing with a situation, decision, or opinion. It can also refer to a willingness to take responsibility for something or to acknowledge something as true or valid.
+
+**Persian Explanation:**  
+"Accept" برای بیان عمل دریافت چیزی، اغلب به عنوان پاسخی به یک پیشنهاد، دعوت، درخواست یا تصمیم به کار می‌رود. همچنین به معنی موافقت با یک وضعیت، تصمیم یا نظر است. علاوه بر این، می‌تواند به معنای تمایل به پذیرش مسئولیت یا تایید چیزی به عنوان حقیقت یا معتبر باشد.
+
+---
+
+### 2. Example Sentences
+
+- She **accepted** the job offer and will start next month.  
+  *(او پیشنهاد شغلی را پذیرفت و ماه آینده شروع خواهد کرد.)*
+
+- He didn't **accept** the invitation to the party.  
+  *(او دعوت به مهمانی را قبول نکرد.)*
+
+- After a long discussion, they finally **accepted** the terms of the agreement.  
+  *(پس از بحث طولانی، آنها در نهایت شرایط توافقنامه را پذیرفتند.)*
+
+---
+
+### 3. Collocations
+
+| Collocation             | Example | Persian Translation |
+|-------------------------|---------|----------------------|
+| **accept an offer**     | He accepted the offer to work abroad. | قبول کردن یک پیشنهاد |
+| **accept responsibility** | She accepted full responsibility for the mistake. | پذیرفتن مسئولیت |
+| **accept an invitation** | I was happy to accept the invitation to their wedding. | قبول کردن دعوت |
+| **accept a proposal**    | The board accepted the proposal for a new marketing campaign. | پذیرفتن یک پیشنهاد |
+
+---
+
+### 4. Word Family
+
+| Word          | Part of Speech | Example | Persian Meaning |
+|---------------|----------------|---------|-----------------|
+| acceptance    | noun           | His acceptance of the position was confirmed. | پذیرش |
+| acceptable    | adjective      | The proposal is not yet acceptable to the team. | قابل قبول |
+| acceptably    | adverb         | She performed acceptably during the test. | به طور قابل قبول |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- receive  
+- agree to  
+- take  
+- approve  
+- consent to  
+
+**Antonyms:**  
+- reject  
+- refuse  
+- deny  
+- decline  
+- turn down  
+
+---
+
+### 6. Usage Notes
+
+- "Accept" is commonly used in the context of receiving something or agreeing to something, and it can imply both a voluntary and a reluctant agreement.
+- The verb "accept" is often paired with nouns like **offer**, **invitation**, **responsibility**, **terms**, or **decision**.
+- **"Accept"** is different from **"except"**; **"except"** means to exclude something, while **"accept"** means to receive or agree to it.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "She **accept** my apology."  
+✅ "She **accepted** my apology." *(Correct past tense form)*
+
+❌ "I **accept** to go to the party."  
+✅ "I **accepted** going to the party." or "I **agreed** to go to the party." *(Use the gerund form after "accept" for actions)*
+
+---
+
+### 8. Mnemonic Device
+
+**"ACCEPT"** = **A**cknowledge **C**hoices **C**arefully **E**ndorsing **P**roposals **T**houghtfully
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "accept an invitation" استفاده کنی.
+2. تفاوت بین "accept" و "reject" را توضیح بده.
+3. در موقعیت‌های مختلف (شخصی، حرفه‌ای و اجتماعی) از "accept" استفاده کن و جمله بساز.
+
+---
+
+**نکته پایانی:**  
+"Accept" یک فعل مهم است که به معنی قبول کردن چیزی یا موافقت با یک پیشنهاد، مسئولیت یا شرایط است. این واژه در موقعیت‌های مختلف، از جمله کار، تحصیل و روابط شخصی، کاربرد فراوانی دارد.
+
+## intercept
+
+**Part of Speech:** *verb* / *noun*  
+**IPA:** /ˌɪn.təˈsept/  
+**Persian:** قطع کردن، متوقف کردن، پیش‌گیری کردن
+
+---
+
+### 1. Definition
+
+#### As a verb:
+> To stop, seize, or interrupt something or someone before they reach their intended destination.  
+> **Persian:** متوقف کردن، قطع کردن، پیش‌گیری کردن از رسیدن چیزی به مقصد.
+
+#### As a noun:
+> The act of stopping or interrupting something in transit.  
+> **Persian:** عمل متوقف کردن یا قطع کردن چیزی در مسیر.
+
+**Extended Definition:**  
+The verb "intercept" is used when someone or something is stopped or diverted on its way to a specific destination. It is often used in military, sports, or communication contexts, where the goal is to prevent something from reaching its intended target or destination.
+
+**Persian Explanation:**  
+عبارت "intercept" برای زمانی استفاده می‌شود که چیزی یا کسی در راه رسیدن به مقصد خود متوقف یا منحرف شود. این واژه معمولاً در زمینه‌های نظامی، ورزشی یا ارتباطی به کار می‌رود، جایی که هدف جلوگیری از رسیدن چیزی به هدف یا مقصد مورد نظر است.
+
+---
+
+### 2. Example Sentences
+
+- The police **intercepted** the stolen goods before they could be sold.  
+  *(پلیس کالاهای دزدیده‌شده را پیش از اینکه فروخته شوند، قطع کرد.)*
+
+- A defender successfully **intercepted** the pass during the football game.  
+  *(یک مدافع موفق شد پاس را در طول بازی فوتبال قطع کند.)*
+
+- The secret service **intercepted** the message and prevented the attack.  
+  *(خدمات مخفی پیام را قطع کردند و حمله را متوقف کردند.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| **intercept a message**    | The hacker tried to intercept the confidential message. | قطع کردن پیام |
+| **intercept a pass**       | The cornerback intercepted the pass and ran for a touchdown. | قطع کردن پاس |
+| **intercept a communication** | The military intercepted enemy communications. | قطع کردن ارتباطات |
+| **intercept the ball**     | She intercepted the ball in mid-air during the game. | قطع کردن توپ |
+
+---
+
+### 4. Word Family
+
+| Word           | Part of Speech | Example | Persian Meaning |
+|----------------|----------------|---------|-----------------|
+| interception   | noun           | The interception was key to their victory. | قطع، متوقف‌سازی |
+| interceptor    | noun           | The interceptor aircraft was deployed to protect the airspace. | قطع‌کننده (هواپیما) |
+| intercepted    | adjective      | The intercepted messages were decoded. | قطع‌شده |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- block  
+- stop  
+- seize  
+- divert  
+- capture  
+- disrupt  
+
+**Antonyms:**  
+- release  
+- allow  
+- send  
+- transmit  
+- let pass  
+
+---
+
+### 6. Usage Notes
+
+- **Intercept** is often used in the context of **sports** (particularly in football or basketball), **communications** (e.g., intercepted messages), and **military operations** (e.g., intercepting enemy transmissions).
+- In sports, the term is specifically used when a player catches or deflects a pass from the opposing team.
+- The verb "intercept" is used to describe the action of stopping something before it reaches its target, whereas "interception" refers to the act or process of intercepting.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The defender intercepted the goal."  
+✅ "The defender intercepted the **pass**." *(The interception happens with the ball, not the goal.)*
+
+❌ "The police **intercepted** a crime before it happened."  
+✅ "The police **prevented** a crime before it happened." *(Intercept is used for things in motion, not static events.)*
+
+---
+
+### 8. Mnemonic Device
+
+**"INTERCEPT"** = **I**ntervene **N**ow, **T**ake **E**arly **R**eaction, **C**atch **E**very **P**roblem **T**hat arises
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "intercept a pass" استفاده کنی.
+2. تفاوت بین "intercept" و "block" را توضیح بده.
+3. در موقعیت‌های مختلف از "intercept" در قالب‌های مختلف (ورزشی، نظامی، ارتباطی) استفاده کن.
+
+---
+
+**نکته پایانی:**  
+عبارت "intercept" برای اشاره به عمل متوقف کردن یا قطع کردن چیزی در حال حرکت به کار می‌رود. این واژه در زمینه‌های مختلف مانند ورزش، ارتباطات، و عملیات نظامی کاربرد دارد.
+
+## recipient
+
+**Part of Speech:** *noun*  
+**IPA:** /rɪˈsɪpiənt/  
+**Persian:** دریافت‌کننده، گیرنده
+
+---
+
+### 1. Definition
+
+> A person who receives something, such as a gift, message, or award.  
+> **Persian:** فردی که چیزی دریافت می‌کند، مانند هدیه، پیام، یا جایزه.
+
+**Extended Definition:**  
+The term "recipient" is used to describe someone who receives something that has been given, sent, or awarded to them. It can refer to someone receiving tangible items (like a gift) or abstract things (like an award or a message). This term is commonly used in various contexts, including personal, formal, and professional settings.
+
+**Persian Explanation:**  
+واژه "recipient" به شخصی اطلاق می‌شود که چیزی از دیگران دریافت می‌کند. این چیز می‌تواند یک هدیه، پیام، جایزه یا چیزی مشابه باشد. این واژه معمولاً در موقعیت‌های شخصی، رسمی و حرفه‌ای استفاده می‌شود.
+
+---
+
+### 2. Example Sentences
+
+- The **recipient** of the award gave an emotional speech.  
+  *(دریافت‌کننده جایزه سخنرانی احساسی ارائه داد.)*
+
+- She was the lucky **recipient** of a scholarship to study abroad.  
+  *(او دریافت‌کننده خوش‌شانس بورسیه‌ای برای تحصیل در خارج بود.)*
+
+- The **recipient** of the letter never responded.  
+  *(دریافت‌کننده نامه هرگز پاسخ نداد.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| **award recipient**        | The award recipient was announced at the ceremony. | دریافت‌کننده جایزه |
+| **recipient of a gift**    | He was the recipient of a beautiful painting. | دریافت‌کننده هدیه |
+| **recipient of a message** | The recipient of the message did not respond. | دریافت‌کننده پیام |
+| **recipient of a donation** | The organization announced the recipient of the donation. | دریافت‌کننده کمک |
+
+---
+
+### 4. Word Family
+
+| Word           | Part of Speech | Example | Persian Meaning |
+|----------------|----------------|---------|-----------------|
+| receive        | verb           | She will receive the package tomorrow. | دریافت کردن |
+| receiving      | adjective      | The receiving team celebrated their victory. | دریافت‌کننده |
+| reception      | noun           | The reception of the guests was warm. | پذیرش |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- receiver  
+- beneficiary  
+- taker  
+- addressee  
+
+**Antonyms:**  
+- sender  
+- giver  
+- donor  
+
+---
+
+### 6. Usage Notes
+
+- "Recipient" is used in both formal and informal contexts to refer to someone who gets or receives something.
+- In formal settings, "recipient" is often used for those who receive awards, honors, or official communications.
+- **"Recipient"** is distinct from **"recipient address"** in communication, which refers to the place or address to which something is sent.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "She was the **recipient** of an expensive **send**."  
+✅ "She was the **recipient** of an expensive **gift**." *(Correct noun for the object received)*
+
+❌ "The **recipient** of the package didn't receive it yet."  
+✅ "The **recipient** of the package hasn't received it yet." *(Use the correct verb tense)*
+
+---
+
+### 8. Mnemonic Device
+
+**"RECIPIENT"** = **R**eceiving **E**verything **C**learly, **I**nterpreting **P**rocessed **I**tems **E**ffectively, **N**ever **T**urned away
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "recipient of a gift" استفاده کنی.
+2. تفاوت بین "recipient" و "donor" را توضیح بده.
+3. به موقعیت‌های مختلفی فکر کن که در آنها از "recipient" استفاده می‌شود و جمله بساز.
+
+---
+
+**نکته پایانی:**  
+"Recipient" واژه‌ای است که به شخصی اطلاق می‌شود که چیزی دریافت می‌کند. این واژه معمولاً در موقعیت‌های رسمی، اجتماعی و حرفه‌ای به کار می‌رود و در ارتباط با جوایز، هدایا، پیام‌ها و کمک‌ها کاربرد دارد.
+
+## anticipate
+
+**Part of Speech:** *verb*  
+**IPA:** /ænˈtɪsɪpeɪt/  
+**Persian:** پیش‌بینی کردن، انتظار داشتن، پیش‌فکر کردن
+
+---
+
+### 1. Definition
+
+> To expect or look forward to something happening, often with some degree of preparation or excitement.  
+> **Persian:** انتظار داشتن یا پیش‌بینی کردن وقوع چیزی، معمولاً همراه با مقداری آمادگی یا هیجان.
+
+**Extended Definition:**  
+"Anticipate" refers to the act of looking ahead to an event or situation with a sense of expectation. It can involve either preparing for something that you expect to happen or experiencing excitement or anxiety about its arrival. In some cases, it also refers to acting before something happens, such as taking precautions or making adjustments in advance.
+
+**Persian Explanation:**  
+واژه "anticipate" به معنای نگاه کردن به جلو برای پیش‌بینی یک رویداد یا موقعیت با احساس انتظار است. این می‌تواند شامل آمادگی برای وقوع چیزی باشد که انتظار آن را داریم یا هیجان یا نگرانی درباره‌ی آن. در برخی موارد، همچنین به معنای اقدام پیش از وقوع چیزی است، مانند احتیاط یا تنظیمات پیش از موعد.
+
+---
+
+### 2. Example Sentences
+
+- I **anticipated** a difficult exam, so I studied hard.  
+  *(من انتظار یک امتحان دشوار را داشتم، بنابراین سخت مطالعه کردم.)*
+
+- The company **anticipates** high sales this year.  
+  *(شرکت انتظار فروش بالا در امسال را دارد.)*
+
+- We **anticipated** her arrival and were ready to greet her.  
+  *(ما انتظار رسیدن او را داشتیم و آماده بودیم تا او را خوش‌آمد گوییم.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| **anticipate the outcome** | We didn’t know how to anticipate the outcome of the negotiations. | پیش‌بینی کردن نتیجه |
+| **anticipate problems**    | The engineers anticipate problems with the new software update. | پیش‌بینی مشکلات |
+| **anticipate difficulties**| He anticipated difficulties in the project and made plans accordingly. | پیش‌بینی مشکلات |
+| **anticipate the future**  | It’s hard to anticipate the future in a rapidly changing world. | پیش‌بینی آینده |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| anticipation    | noun           | The anticipation before the concert was intense. | پیش‌بینی، انتظار |
+| anticipatory    | adjective      | The anticipatory excitement before the vacation was palpable. | پیش‌بینی‌کننده |
+| anticipatory    | adjective      | The anticipatory mood was felt throughout the team. | پیش‌بینی‌کننده |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- expect  
+- foresee  
+- predict  
+- look forward to  
+- await  
+
+**Antonyms:**  
+- doubt  
+- ignore  
+- neglect  
+- overlook  
+- disregard  
+
+---
+
+### 6. Usage Notes
+
+- "Anticipate" can be used to describe both positive and negative expectations. For example, you can anticipate both excitement and challenges.
+- It's often used in contexts where there is some preparation or action taken based on what is expected to happen in the future.
+- "Anticipate" also refers to an active form of expectation, often involving some sort of preparation or foresight.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "We anticipated to finish the project by last week."  
+✅ "We **anticipated finishing** the project by last week." *(Correct gerund form after "anticipate")*
+
+❌ "I anticipate that he will come soon tomorrow."  
+✅ "I anticipate that he will come soon **tomorrow**." *(Avoid redundancy, "soon" and "tomorrow" are not needed together in this context)*
+
+---
+
+### 8. Mnemonic Device
+
+**"ANTICIPATE"** = **A**ctively **N**avigate **T**owards **I**ncoming **C**hallenges, **I**nvestigate **P**ossibilities, **A**nd **T**ake **E**arly actions
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "anticipate problems" استفاده کنی.
+2. تفاوت بین "anticipate" و "expect" را توضیح بده.
+3. یک موقعیت را شرح بده که در آن باید از "anticipate" برای آمادگی به کار ببری.
+
+---
+
+**نکته پایانی:**  
+"Anticipate" به معنی پیش‌بینی یا انتظار وقوع چیزی است که به فرد این امکان را می‌دهد که خود را برای آن آماده کند. این واژه در موقعیت‌هایی که نیاز به آمادگی یا پیش‌بینی از قبل است، بسیار کاربرد دارد.
+
+## captivate
+
+**Part of Speech:** *verb*  
+**IPA:** /ˈkæptɪveɪt/  
+**Persian:** جذب کردن، شیفته کردن، فریفتن
+
+---
+
+### 1. Definition
+
+> To attract and hold the attention or interest of someone in an intense and charming way.  
+> **Persian:** جذب کردن و نگه داشتن توجه یا علاقه‌ی کسی به شکلی شدید و جذاب.
+
+**Extended Definition:**  
+"Captivate" refers to the act of gaining someone's full attention or admiration in a way that is almost irresistible. It typically involves something that is fascinating, charming, or enchanting, such as a person's appearance, a performance, or a piece of art. The word conveys the idea of being so interesting or delightful that it causes someone to become fully absorbed in what is happening.
+
+**Persian Explanation:**  
+واژه "captivate" به معنای جذب کامل توجه یا تحسین کسی به شکلی است که تقریباً غیرقابل مقاومت است. این واژه معمولاً به چیزی اشاره دارد که جذاب، دلربا یا جادویی است، مانند ظاهر یک فرد، یک اجرا یا یک اثر هنری. این واژه به معنای آن است که چیزی به قدری جالب یا لذت‌بخش است که باعث می‌شود فرد به طور کامل درگیر آن شود.
+
+---
+
+### 2. Example Sentences
+
+- The magician’s performance **captivated** the entire audience.  
+  *(اجرای شعبده‌باز توجه تمام تماشاگران را جلب کرد.)*
+
+- Her voice **captivates** everyone who hears it.  
+  *(صدای او هر کسی را که بشنود، جذب می‌کند.)*
+
+- The beautiful sunset **captivated** the tourists on the beach.  
+  *(غروب زیبا توجه توریست‌ها را در ساحل جذب کرد.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| **captivate the audience** | The speaker’s charisma captivated the audience for hours. | جذب کردن مخاطب |
+| **captivate one's attention** | The novel captivated my attention from the first page. | جذب کردن توجه کسی |
+| **captivating performance** | The ballet was a captivating performance that left the crowd in awe. | اجرای جادویی |
+| **captivating smile**      | She has a captivating smile that brightens up any room. | لبخند دلربا |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| captivity       | noun           | The animals were kept in captivity for research. | اسارت |
+| captivated      | adjective      | The audience was captivated by the film’s storyline. | جذب شده |
+| captivation     | noun           | His charm led to the complete captivation of his audience. | جذب کامل |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- fascinate  
+- charm  
+- enchant  
+- mesmerize  
+- attract  
+- beguile  
+
+**Antonyms:**  
+- repel  
+- bore  
+- disenchant  
+- disgust  
+- alienate  
+
+---
+
+### 6. Usage Notes
+
+- "Captivate" is often used to describe the act of attracting or holding someone's interest, especially in a highly engaging or delightful way.
+- It can describe a person's charm, a performance, or even a piece of art that leaves a lasting impression.
+- While "captivate" has a positive connotation, it can also refer to an almost overpowering or controlling level of attention.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The singer **captivated** everyone with her **boring** performance."  
+✅ "The singer **captivated** everyone with her **mesmerizing** performance." *(Ensure the performance is captivating, not boring)*
+
+❌ "The movie **captivates** me but I don’t want to see it again."  
+✅ "The movie **captivated** me, but I don’t want to see it again." *(Use the correct verb tense for a past event)*
+
+---
+
+### 8. Mnemonic Device
+
+**"CAPTIVATE"** = **C**harismatic **A**ctors **P**laying **T**hrilling **I**nteresting **V**ivid **A**cting **T**hat **E**ngages
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "captivate the audience" استفاده کنی.
+2. تفاوت بین "captivate" و "fascinate" را توضیح بده.
+3. یک موقعیت را شرح بده که چیزی باعث "captivating" توجهت شده باشد.
+
+---
+
+**نکته پایانی:**  
+واژه "captivate" برای توصیف جذابیت و قدرت جذب توجه به شکلی دلربا و تقریباً غیرقابل مقاومت استفاده می‌شود. این واژه می‌تواند به یک فرد، اجرا یا شیء اشاره داشته باشد که توجه کسی را به طور کامل جلب می‌کند.
+
+## receive
+
+**Part of Speech:** *verb*  
+**IPA:** /rɪˈsiːv/  
+**Persian:** دریافت کردن، گرفتن
+
+---
+
+### 1. Definition
+
+> To be given or presented with something; to accept or take possession of something.  
+> **Persian:** دریافت کردن یا گرفتن چیزی؛ قبول کردن یا به‌دست آوردن چیزی.
+
+**Extended Definition:**  
+"Receive" refers to the act of accepting or getting something that is offered, sent, or given. It can apply to tangible items, such as gifts or packages, or intangible things, such as messages or emotions. The verb implies an active process where the recipient takes possession of or acknowledges what is given.
+
+**Persian Explanation:**  
+"Receive" به معنای قبول کردن یا گرفتن چیزی است که به شما داده، ارسال یا ارائه می‌شود. این واژه می‌تواند به اشیاء ملموس، مانند هدایا یا بسته‌ها، یا به امور غیرملموس، مانند پیام‌ها یا احساسات اشاره داشته باشد. این فعل به یک فرآیند فعال اشاره دارد که در آن گیرنده چیزی را به‌دست می‌آورد یا آن را قبول می‌کند.
+
+---
+
+### 2. Example Sentences
+
+- She **received** a letter from her friend.  
+  *(او نامه‌ای از دوستش دریافت کرد.)*
+
+- I was surprised to **receive** such a thoughtful gift.  
+  *(من شگفت‌زده شدم که هدیه‌ای اینچنین فکوری دریافت کردم.)*
+
+- They **received** the news with mixed emotions.  
+  *(آنها خبر را با احساسات متناقض دریافت کردند.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| **receive a message**      | I received a message from my colleague. | دریافت پیام |
+| **receive a gift**         | She was happy to receive a gift on her birthday. | دریافت هدیه |
+| **receive an invitation**  | He received an invitation to the wedding. | دریافت دعوتنامه |
+| **receive a call**         | I received a call from the bank today. | دریافت تماس |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| receipt         | noun           | Please keep the receipt for the purchase. | رسید |
+| receiver        | noun           | The receiver of the package was happy with the delivery. | گیرنده |
+| receiving       | adjective      | The receiving department is in charge of all shipments. | بخش دریافت‌کننده |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- accept  
+- get  
+- obtain  
+- take  
+- collect  
+
+**Antonyms:**  
+- give  
+- send  
+- offer  
+- reject  
+- decline  
+
+---
+
+### 6. Usage Notes
+
+- "Receive" can be used in both formal and informal contexts.
+- It is often paired with nouns like message, call, package, gift, or invitation to specify what is being received.
+- It is a common verb in both everyday speech and in more formal or professional settings.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "She **receives** me a letter every week."  
+✅ "She **receives** a letter from me every week." *(Correct subject-object relationship)*
+
+❌ "I **received** to the invitation."  
+✅ "I **received** the invitation." *(Use the correct preposition or noun after "receive")*
+
+---
+
+### 8. Mnemonic Device
+
+**"RECEIVE"** = **R**eady **E**verything **C**arefully **E**ach **I**tem **V**erifies **E**xpected  
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "receive a call" استفاده کنی.
+2. تفاوت بین "receive" و "accept" را توضیح بده.
+3. یک موقعیت را شرح بده که در آن چیزی را "receive" کرده‌ای، مانند هدیه یا دعوتنامه.
+
+---
+
+**نکته پایانی:**  
+"Receive" واژه‌ای است که برای اشاره به گرفتن یا قبول کردن چیزی از دیگران به کار می‌رود. این واژه در زمینه‌های مختلفی مانند دریافت هدیه، تماس، پیام، و دعوتنامه‌ها کاربرد دارد.
+
+## capacity
+
+**Part of Speech:** *noun*  
+**IPA:** /kəˈpæsəti/  
+**Persian:** ظرفیت، گنجایش، توان
+
+---
+
+### 1. Definition
+
+> The maximum amount or number that something can hold, contain, or produce.  
+> **Persian:** بیشترین میزان یا تعدادی که چیزی می‌تواند نگه دارد، حاوی آن باشد یا تولید کند.
+
+**Extended Definition:**  
+"Capacity" refers to the total ability or power to hold, contain, or absorb something. It can describe physical space (such as the volume of a container), a person's mental or physical ability (such as their capacity to understand or work), or even an organization's potential to produce or achieve something. The term can also refer to the maximum functional limit of any given system.
+
+**Persian Explanation:**  
+"Capacity" به معنای توانایی یا قدرت کلی برای نگه داشتن، حاوی کردن یا جذب چیزی است. این واژه می‌تواند به فضای فیزیکی (مانند حجم یک ظرف)، توان ذهنی یا جسمی یک فرد (مانند ظرفیت فهم یا کار کردن او) یا حتی پتانسیل یک سازمان برای تولید یا دستیابی به چیزی اشاره داشته باشد. این اصطلاح همچنین به بیشترین حد عملکردی هر سیستم معین اشاره می‌کند.
+
+---
+
+### 2. Example Sentences
+
+- The theater has a seating **capacity** of 500 people.  
+  *(تئاتر ظرفیت نشستن ۵۰۰ نفر را دارد.)*
+
+- She has the **capacity** to solve complex problems quickly.  
+  *(او توانایی حل مسائل پیچیده را به سرعت دارد.)*
+
+- The factory's **capacity** for production has doubled this year.  
+  *(ظرفیت تولید کارخانه امسال دو برابر شده است.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| **seating capacity**       | The stadium's seating capacity is over 50,000. | ظرفیت نشستن |
+| **capacity for growth**    | The company has the capacity for growth in international markets. | ظرفیت برای رشد |
+| **full capacity**          | The bus was running at full capacity during rush hour. | ظرفیت کامل |
+| **maximum capacity**       | The elevator can hold up to 10 people at maximum capacity. | ظرفیت حداکثر |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| capacitate      | verb           | The new training program will capacitate employees for higher responsibilities. | توانایی دادن |
+| capacious       | adjective      | The capacious warehouse can hold thousands of goods. | گنجایش‌دار، وسیع |
+| capacity building | noun          | The organization focuses on capacity building in the community. | ساخت ظرفیت |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- ability  
+- potential  
+- capability  
+- volume  
+- size  
+- power  
+
+**Antonyms:**  
+- inability  
+- incapacity  
+- limitation  
+- restriction  
+
+---
+
+### 6. Usage Notes
+
+- "Capacity" can refer to both physical space (like a container) and abstract abilities (like mental capacity).
+- It can describe a specific limit (maximum capacity) or an overall potential (capacity for growth or improvement).
+- It is used in various contexts, including physical measurements, mental or emotional abilities, and organizational or technological potential.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The conference room has a **capacity of seating** 50 people."  
+✅ "The conference room has a **seating capacity** of 50 people." *(Correct word order)*
+
+❌ "She has **the capacity to learn** fastly."  
+✅ "She has **the capacity to learn** quickly." *(Avoid incorrect adverb form "fastly")*
+
+---
+
+### 8. Mnemonic Device
+
+**"CAPACITY"** = **C**ontainers **A**llow **P**eople **A**nd **C**reativity **I**ntegrating **T**houghts, **Y**ielding results  
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "capacity for growth" استفاده کنی.
+2. تفاوت بین "capacity" و "ability" را توضیح بده.
+3. در یک مثال نشان بده که چگونه یک مکان می‌تواند ظرفیت مختلفی داشته باشد (مثلاً سالن، کارخانه، یا سیستم‌های دیگر).
+
+---
+
+**نکته پایانی:**  
+"Capacity" به معنای توانایی یا ظرفیت چیزی برای نگهداری، حمل، تولید یا انجام کار است. این واژه می‌تواند در موقعیت‌های مختلف، از جمله فیزیکی، ذهنی یا سازمانی، استفاده شود.
+
+## captor
+
+**Part of Speech:** *noun*  
+**IPA:** /ˈkæptər/  
+**Persian:** اسیرکننده، دستگیرکننده، بازداشت‌کننده
+
+---
+
+### 1. Definition
+
+> A person who takes someone prisoner or holds them captive.  
+> **Persian:** فردی که شخصی را به اسارت می‌گیرد یا او را بازداشت می‌کند.
+
+**Extended Definition:**  
+A "captor" is someone who seizes or takes another person against their will, usually with the intent to hold them in captivity. The term is often used in the context of abductions, kidnappings, or imprisonments. The captor has control or authority over the captive, and the relationship is usually coercive or forceful.
+
+**Persian Explanation:**  
+"Captor" به فردی گفته می‌شود که شخص دیگری را به زور می‌گیرد یا او را به اسارت می‌برد، معمولاً با هدف نگه داشتن او در اسارت. این واژه بیشتر در زمینه‌هایی مانند آدم‌ربایی، زندانی کردن یا بازداشت استفاده می‌شود. اسیرکننده معمولاً کنترل یا قدرتی بر روی اسیر دارد و رابطه‌ی موجود عموماً از نوع اجبار یا زور است.
+
+---
+
+### 2. Example Sentences
+
+- The **captor** demanded a ransom for the release of the hostage.  
+  *(اسیرکننده خواستار پرداخت غرامت برای آزادی گروگان شد.)*
+
+- The police were able to catch the **captor** and free the victims.  
+  *(پلیس توانست اسیرکننده را دستگیر کرده و قربانیان را آزاد کند.)*
+
+- The **captor** kept the prisoners in a dark, isolated room.  
+  *(اسیرکننده زندانیان را در اتاقی تاریک و جدا نگه می‌داشت.)*
+
+---
+
+### 3. Collocations
+
+| Collocation               | Example | Persian Translation |
+|---------------------------|---------|----------------------|
+| **capture by the captor**  | The victim was captured by the captor and taken to an unknown location. | اسیر شدن توسط اسیرکننده |
+| **escape from the captor** | The victim managed to escape from the captor's grasp. | فرار از دست اسیرکننده |
+| **captor's demands**       | The authorities tried to negotiate with the captor's demands. | خواسته‌های اسیرکننده |
+| **held captive by the captor** | The hostages were held captive by the captor for several days. | اسیر بودن توسط اسیرکننده |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| capture         | verb           | The soldiers captured the enemy’s base. | گرفتن، اسیر کردن |
+| captivity       | noun           | The animals were kept in captivity for research. | اسارت |
+| captured        | adjective      | The captured soldier was questioned by the military. | اسیر شده |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- kidnapper  
+- abductor  
+- jailer  
+- captor
+
+**Antonyms:**  
+- liberator  
+- rescuer  
+- savior  
+- emancipator  
+
+---
+
+### 6. Usage Notes
+
+- The word "captor" typically refers to someone who is holding someone against their will. It is often used in contexts involving crime or war.
+- While the term can be neutral in some contexts, it often carries negative connotations due to the implication of force or coercion.
+- It is usually used in the context of abductions, kidnappings, or imprisonment.
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The **captor** was arrested after he was caught."  
+✅ "The **captor** was arrested after he had been caught." *(Use the correct tense for describing actions that occurred in the past)*
+
+❌ "The police finally freed the **captured**."  
+✅ "The police finally freed the **captives**." *(Correct word usage for plural of "captor")*
+
+---
+
+### 8. Mnemonic Device
+
+**"CAPTOR"** = **C**onfines **A**ll **P**risoners **T**hrough **O**ppressive **R**estriction  
+
+---
+
+### 9. تمرین پیشنهادی
+
+1. جمله‌ای بساز که در آن از عبارت "capture by the captor" استفاده کنی.
+2. تفاوت بین "captor" و "rescuer" را توضیح بده.
+3. یک موقعیت خیالی بساز که در آن فردی به اسارت گرفته شده و اسیرکننده خواسته‌هایی از او دارد.
+
+---
+
+**نکته پایانی:**  
+"Captor" واژه‌ای است که برای اشاره به فردی به کار می‌رود که شخصی را به اسارت می‌برد یا بازداشت می‌کند. این واژه بیشتر در زمینه‌های جرم و جنایت یا موقعیت‌های جنگی استفاده می‌شود.
