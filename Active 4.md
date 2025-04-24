@@ -2431,3 +2431,1469 @@ Used to indicate a natural likelihood or susceptibility to particular behaviors,
 
 **نکته پایانی:**  
 این عبارت معمولاً برای ویژگی‌ها یا شرایط ذاتی به کار می‌رود، نه برای انتخاب‌های آگاهانه. در متون علمی و تحلیلی کاربرد فراوانی دارد.
+
+## rational
+
+**Part of Speech:** *adjective*  
+**IPA:** /ˈræʃ.ən.əl/  
+**Persian:** منطقی، عقلانی، معقول  
+
+---
+
+### 1. Definition  
+> Based on clear, logical thinking rather than emotions  
+> **Persian:** مبتنی بر تفکر روشن و منطقی به جای احساسات  
+
+**Extended Definition:**  
+Showing reason or sound judgment; able to think clearly and make decisions based on facts rather than emotions.
+
+**Persian Explanation:**  
+نشان دهنده استدلال یا قضاوت درست؛ توانایی تفکر روشن و تصمیم‌گیری بر اساس واقعیت‌ها به جای احساسات
+
+---
+
+### 2. Example Sentences  
+- It's important to make **rational** decisions in business.  
+  *(تصمیم‌گیری منطقی در کسب‌وکار اهمیت دارد.)*  
+
+- Her argument was completely **rational** and well-supported.  
+  *(استدلال او کاملاً منطقی و مستدل بود.)*  
+
+- In stressful situations, try to stay **rational**.  
+  *(در موقعیت‌های استرس‌زا سعی کنید منطقی بمانید.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **rational thinking** | The course teaches rational thinking. | دوره تفکر منطقی را آموزش می‌دهد. |  
+| **rational decision** | We need a rational decision here. | اینجا به یک تصمیم منطقی نیاز داریم. |  
+| **rational approach** | His rational approach solved the problem. | رویکرد منطقی او مشکل را حل کرد. |  
+| **rational explanation** | There must be a rational explanation. | باید توضیح منطقی وجود داشته باشد. |  
+
+---
+
+### 4. Word Family  
+
+| Word | Part of Speech | Example | Persian Meaning |  
+|------|---------------|---------|-----------------|  
+| rationality | noun | We should value rationality. | خردگرایی |  
+| rationalize | verb | Don't try to rationalize your mistake. | توجیه کردن |  
+| rationally | adverb | She acted very rationally. | به طور منطقی |  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- logical  
+- reasonable  
+- sensible  
+- sound  
+
+**Antonyms:**  
+- irrational  
+- illogical  
+- unreasonable  
+- emotional  
+
+---
+
+### 6. Usage Notes  
+- Often used in academic, professional and philosophical contexts  
+- Can describe people, decisions, arguments or behavior  
+- Contrasts with "emotional" decision-making  
+
+---
+
+### 7. Common Errors to Avoid  
+❌ "His idea was very rationalized"  
+✅ "His idea was very **rational**" (Use adjective form)  
+
+❌ "She thinks rational"  
+✅ "She thinks **rationally**" (Use adverb with verbs)  
+
+---
+
+### 8. Mnemonic Device  
+**"RATIONAL"** = **R**easoning **A**nd **T**hinking **I**n **O**rder **N**eatly **A**nd **L**ogically  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"rational"** و **"reasonable"** را در یک جمله نشان دهید.  
+۲. سه موقعیتی که نیاز به تفکر منطقی (rational thinking) دارد را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+این صفت معمولاً برای توصیف فرآیندهای فکری نظام‌مند به کار می‌رود و در مباحث علمی و تحلیلی اهمیت ویژه‌ای دارد.
+
+
+## empathy
+
+**Part of Speech:** *noun*  
+**IPA:** /ˈempəθi/  
+**Persian:** همدلی، هماحساسی، درک احساسات دیگران  
+
+---
+
+### 1. Definition  
+> The ability to understand and share the feelings of others  
+> **Persian:** توانایی درک و سهیم شدن در احساسات دیگران  
+
+**Extended Definition:**  
+The capacity to recognize, understand, and share the thoughts and emotions of another person from their perspective.
+
+**Persian Explanation:**  
+توانایی تشخیص، درک و سهیم شدن در افکار و احساسات فرد دیگر از دیدگاه او
+
+---
+
+### 2. Example Sentences  
+- Good doctors show **empathy** toward their patients.  
+  *(پزشکان خوب نسبت به بیماران خود همدلی نشان می‌دهند.)*  
+
+- She listened with **empathy** to her friend's problems.  
+  *(او با همدلی به مشکلات دوستش گوش داد.)*  
+
+- The novel helps readers develop **empathy** for different cultures.  
+  *(این رمان به خوانندگان کمک می‌کند نسبت به فرهنگ‌های مختلف همدلی توسعه دهند.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **show empathy** | Teachers should show empathy. | معلمان باید همدلی نشان دهند. |  
+| **feel empathy** | I feel empathy for her situation. | با موقعیت او همدلی می‌کنم. |  
+| **lack of empathy** | His lack of empathy was concerning. | عدم همدلی او نگران‌کننده بود. |  
+| **empathy toward** | Show empathy toward refugees. | با پناهندگان همدلی کنید. |  
+
+---
+
+### 4. Word Family  
+
+| Word | Part of Speech | Example | Persian Meaning |  
+|------|---------------|---------|-----------------|  
+| empathetic | adjective | She's very empathetic. | همدل |  
+| empathize | verb | I can empathize with you. | همدلی کردن |  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- compassion  
+- understanding  
+- sympathy  
+- rapport  
+
+**Antonyms:**  
+- apathy  
+- indifference  
+- callousness  
+
+---
+
+### 6. Usage Notes  
+- Often used in psychology, healthcare, and leadership contexts  
+- Differs from sympathy (feeling pity) - empathy is deeper understanding  
+- Considered a key emotional intelligence skill  
+
+---
+
+### 7. Common Errors to Avoid  
+❌ "I empathy with you"  
+✅ "I **empathize** with you" (Use verb form for actions)  
+
+❌ "She showed empathy about my problem"  
+✅ "She showed empathy **for** my problem" (Correct preposition)  
+
+---
+
+### 8. Mnemonic Device  
+**"EMPATHY"** = **E**motionally **M**irroring **P**eople's **A**ttitudes **T**hrough **H**eart **Y**earning  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"empathy"** و **"sympathy"** را در یک جمله نشان دهید.  
+۲. سه موقعیت که نیاز به همدلی دارد را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+همدلی یک مهارت ارتباطی کلیدی است که در روابط شخصی و حرفه‌ای موفق ضروری می‌باشد.
+
+## restraint
+
+**Part of Speech:** *noun*  
+**IPA:** /rɪˈstreɪnt/  
+**Persian:** خویشتن‌داری، محدودیت، بازدارندگی  
+
+---
+
+### 1. Definition  
+> The act of controlling or limiting something/someone; self-control  
+> **Persian:** عمل کنترل یا محدود کردن چیزی/کسی؛ خودداری  
+
+**Extended Definition:**  
+1. A measure or condition that limits freedom  
+2. The ability to control strong emotions or impulses  
+
+**Persian Explanation:**  
+1. اقدام یا شرایطی که آزادی را محدود می‌کند  
+2. توانایی کنترل احساسات یا انگیزه‌های شدید  
+
+---
+
+### 2. Example Sentences  
+- The prisoner was kept in **restraint** for his own safety.  
+  *(زندانی برای ایمنی خودش تحت محدودیت نگه داشته شد.)*  
+
+- She showed great **restraint** by not responding to the insults.  
+  *(او با پاسخ ندادن به توهین‌ها خویشتن‌داری زیادی نشان داد.)*  
+
+- The new law imposed **restraints** on corporate spending.  
+  *(قانون جدید محدودیت‌هایی بر هزینه‌های شرکت‌ها اعمال کرد.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **show restraint** | Police showed restraint during the protest. | پلیس در طول اعتراض خویشتن‌داری نشان داد. |  
+| **fiscal restraint** | The budget requires fiscal restraint. | بودجه نیاز به محدودیت مالی دارد. |  
+| **physical restraint** | The patient needed physical restraint. | بیمار نیاز به محدودیت فیزیکی داشت. |  
+| **without restraint** | He spent money without restraint. | او بدون محدودیت پول خرج کرد. |  
+
+---
+
+### 4. Word Family  
+
+| Word | Part of Speech | Example | Persian Meaning |  
+|------|---------------|---------|-----------------|  
+| restrain | verb | They had to restrain the violent patient. | محدود کردن |  
+| restrained | adjective | His reaction was very restrained. | محتاط، کنترل شده |  
+| unrestrained | adjective | The children were unrestrained. | بی‌قید، آزاد |  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- self-control  
+- restriction  
+- constraint  
+- moderation  
+
+**Antonyms:**  
+- abandon  
+- freedom  
+- indulgence  
+- excess  
+
+---
+
+### 6. Usage Notes  
+- Can refer to both physical and emotional control  
+- Often used in legal, medical and financial contexts  
+- Positive when referring to self-control, negative when referring to forced limitations  
+
+---
+
+### 7. Common Errors to Avoid  
+❌ "He showed a restraint"  
+✅ "He showed restraint" (Usually uncountable)  
+
+❌ "Restraint from doing something"  
+✅ "Restraint in doing something" (Correct preposition)  
+
+---
+
+### 8. Mnemonic Device  
+**"RESTRAINT"** = **R**egulating **E**motions **S**uccessfully **T**hrough **R**esponsible **A**ctions **I**n **N**ecessary **T**imes  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"restraint"** و **"restriction"** را در یک جمله نشان دهید.  
+۲. سه موقعیت که نیاز به خویشتن‌داری دارد را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+این واژه هم برای توصیف کنترل‌های بیرونی (مثل قوانین) و هم کنترل‌های درونی (خودداری شخصی) به کار می‌رود.
+
+## endowed
+
+**Part of Speech:** *adjective*  
+**IPA:** /ɪnˈdaʊd/  
+**Persian:** برخوردار، مجهز، بهره‌مند  
+
+---
+
+### 1. Definition  
+> Provided or supplied with something desirable (natural qualities, possessions, or abilities)  
+> **Persian:** مجهز یا برخوردار از چیزی مطلوب (ویژگی‌های طبیعی، دارایی‌ها یا توانایی‌ها)  
+
+**Extended Definition:**  
+Having been given or inherited certain positive attributes, resources, or characteristics, either naturally or through external provision.
+
+**Persian Explanation:**  
+داشتن ویژگی‌ها، منابع یا خصوصیات مثبت خاص، چه به صورت ذاتی و چه از طریق تأمین خارجی
+
+---
+
+### 2. Example Sentences  
+- She was **endowed** with great musical talent.  
+  *(او از استعداد موسیقیایی فوق‌العاده‌ای برخوردار بود.)*  
+
+- The university is **endowed** with substantial research funds.  
+  *(دانشگاه از بودجه تحقیقاتی قابل توجهی بهره‌مند است.)*  
+
+- This region is **endowed** with rich natural resources.  
+  *(این منطقه از منابع طبیعی غنی برخوردار است.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **endowed with** | He was endowed with intelligence. | او از هوش برخوردار بود. |  
+| **well-endowed** | The library is well-endowed. | کتابخانه مجهز است. |  
+| **naturally endowed** | She's naturally endowed for sports. | او ذاتاً برای ورزش مستعد است. |  
+| **endowed chair** | He holds an endowed professorship. | او دارای کرسی استادی حمایت شده است. |  
+
+---
+
+### 4. Word Family  
+
+| Word | Part of Speech | Example | Persian Meaning |  
+|------|---------------|---------|-----------------|  
+| endow | verb | Nature endowed her with beauty. | اعطا کردن، برخوردار کردن |  
+| endowment | noun | The school received an endowment. | موقوفه، سرمایه اختصاصی |  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- gifted  
+- blessed  
+- equipped  
+- furnished  
+
+**Antonyms:**  
+- deprived  
+- lacking  
+- deficient  
+
+---
+
+### 6. Usage Notes  
+- Often used with preposition "with"  
+- Can describe both people (natural qualities) and institutions (financial resources)  
+- "Well-endowed" can refer to either resources or physical attributes (context-sensitive)  
+
+---
+
+### 7. Common Errors to Avoid  
+❌ "She endowed great creativity"  
+✅ "She **was endowed with** great creativity" (Passive construction needed)  
+
+❌ "The hospital is endowed of modern equipment"  
+✅ "The hospital **is endowed with** modern equipment" (Correct preposition)  
+
+---
+
+### 8. Mnemonic Device  
+**"ENDOWED"** = **E**ssential **N**atural **D**esirable **O**utstanding **W**ealth **E**ver **D**elivered  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"endowed"** و **"talented"** را در یک جمله نشان دهید.  
+۲. سه نمونه از چیزهایی که افراد یا مؤسسات می‌توانند از آن برخوردار باشند را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+این واژه معمولاً برای توصیف برخورداری از موهبت‌های طبیعی یا منابع ارزشمند به کار می‌رود و در متون رسمی و دانشگاهی کاربرد فراوانی دارد.
+
+## across the board
+
+**Part of Speech:** *idiom*  
+**IPA:** /əˌkrɒs ðə ˈbɔːrd/ (UK), /əˌkrɔs ðə ˈbɔrd/ (US)  
+**Persian:** سراسری، همه‌جانبه، عمومی  
+
+---
+
+### 1. Definition  
+> Applying to all categories or members of a group without exception  
+> **Persian:** شامل تمام دسته‌بندی‌ها یا اعضای یک گروه بدون استثنا  
+
+**Extended Definition:**  
+An action, policy, or effect that applies equally and comprehensively to all parts of a system, organization, or population.
+
+**Persian Explanation:**  
+یک اقدام، سیاست یا تأثیر که به طور مساوی و فراگیر به تمام بخش‌های یک سیستم، سازمان یا جمعیت اعمال می‌شود
+
+---
+
+### 2. Example Sentences  
+- The company announced an **across-the-board** salary increase of 5%.  
+  *(شرکت افزایش حقوق ۵ درصدی سراسری را اعلام کرد.)*  
+
+- The new policy will affect employees **across the board**.  
+  *(سیاست جدید تمام کارکنان را بدون استثنا تحت تأثیر قرار خواهد داد.)*  
+
+- There were improvements **across the board** in all departments.  
+  *(پیشرفت‌هایی در تمام بخش‌ها به صورت سراسری مشاهده شد.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **across-the-board cut** | The budget includes across-the-board cuts. | بودجه شامل کاهش‌های سراسری است. |  
+| **across-the-board increase** | We need an across-the-board increase in quality. | ما به بهبود سراسری کیفیت نیاز داریم. |  
+| **apply across the board** | These rules apply across the board. | این قوانین به صورت عمومی اعمال می‌شوند. |  
+
+---
+
+### 4. Usage Notes  
+- Often used as adjective before nouns (with hyphens) or as adverbial phrase  
+- Common in business, economics, and policy contexts  
+- Implies uniformity and lack of discrimination in application  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- comprehensive  
+- blanket  
+- universal  
+- all-inclusive  
+
+**Antonyms:**  
+- selective  
+- targeted  
+- partial  
+- specific  
+
+---
+
+### 6. Common Errors to Avoid  
+❌ "Across board changes"  
+✅ "**Across-the-board** changes" (Hyphens needed when used as adjective)  
+
+❌ "The benefits are across the boards"  
+✅ "The benefits are **across the board**" (Singular "board")  
+
+---
+
+### 7. Mnemonic Device  
+**"ACROSS THE BOARD"** = **A**ll **C**ategories **R**eceive **O**verall **S**ystematic **S**tandardization **T**hrough **H**armonized **E**ffects **B**y **O**rganizational **A**greement **R**egarding **D**istribution  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"across the board"** و **"universal"** را در یک جمله نشان دهید.  
+۲. سه موقعیت که ممکن است نیاز به تغییرات سراسری داشته باشد را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+این اصطلاح معمولاً برای توصیف تغییرات یا سیاست‌هایی به کار می‌رود که به جای هدف‌گیری خاص، همه را به طور یکسان تحت تأثیر قرار می‌دهد.
+
+## astute
+
+**Part of Speech:** *adjective*  
+**IPA:** /əˈstjuːt/ (UK), /əˈstuːt/ (US)  
+**Persian:** تیزبین، زیرک، هوشمند  
+
+---
+
+### 1. Definition  
+> Having sharp judgment and perceptiveness; clever and insightful  
+> **Persian:** دارای قضاوت تیز و ادراک قوی؛ باهوش و بینا  
+
+**Extended Definition:**  
+Characterized by an ability to accurately assess situations or people and turn this understanding to one's advantage, often with practical wisdom.
+
+**Persian Explanation:**  
+ویژگی کسی که توانایی ارزیابی دقیق موقعیت‌ها یا افراد را دارد و این درک را به نفع خود به کار می‌گیرد، اغلب با خرد عملی
+
+---
+
+### 2. Example Sentences  
+- The **astute** investor sold his stocks before the market crashed.  
+  *(سرمایه‌گذار تیزبین سهام خود را قبل از سقوط بازار فروخت.)*  
+
+- Her **astute** questions revealed flaws in the proposal.  
+  *(سوالات هوشمندانه‌او نقایص پیشنهاد را آشکار کرد.)*  
+
+- It takes an **astute** observer to notice these subtle differences.  
+  *(برای تشخیص این تفاوت‌های ظریف به یک مشاهده‌گر تیزبین نیاز است.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **astute observation** | His astute observation saved the project. | مشاهده دقیق او پروژه را نجات داد. |  
+| **astute businessman** | She's known as an astute businesswoman. | او به عنوان تاجری زیرک شناخته می‌شود. |  
+| **astute analysis** | The report contained astute analysis. | گزارش حاوی تحلیل هوشمندانه‌ای بود. |  
+| **politically astute** | The diplomat was politically astute. | دیپلمات از نظر سیاسی زیرک بود. |  
+
+---
+
+### 4. Word Family  
+
+| Word | Part of Speech | Example | Persian Meaning |  
+|------|---------------|---------|-----------------|  
+| astutely | adverb | He negotiated astutely. | به طور هوشمندانه |  
+| astuteness | noun | Her astuteness impressed everyone. | زیرکی |  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- shrewd  
+- perceptive  
+- sagacious  
+- discerning  
+
+**Antonyms:**  
+- obtuse  
+- dull  
+- naive  
+- foolish  
+
+---
+
+### 6. Usage Notes  
+- Often used to describe mental sharpness in practical matters  
+- Common in business, politics, and analytical contexts  
+- Carries connotation of practical wisdom rather than just intelligence  
+
+---
+
+### 7. Common Errors to Avoid  
+❌ "He's very astute in math"  
+✅ "He's very **good** in math" (Use for academic subjects)  
+
+❌ "An astute beautiful painting"  
+✅ "An **exquisite** beautiful painting" (Not used for objects)  
+
+---
+
+### 8. Mnemonic Device  
+**"ASTUTE"** = **A**lways **S**eeing **T**ruths **U**sing **T**houghtful **E**valuation  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"astute"** و **"intelligent"** را در یک جمله نشان دهید.  
+۲. سه شغل که نیاز به زیرکی (astuteness) دارد را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+این صفت معمولاً برای توصیف افرادی به کار می‌رود که توانایی ویژه‌ای در درک موقعیت‌های پیچیده و تصمیم‌گیری هوشمندانه دارند.
+
+## intensify
+
+**Part of Speech:** *verb*  
+**IPA:** /ɪnˈten.sɪ.faɪ/  
+**Persian:** تشدید کردن، تقویت کردن، شدت بخشیدن  
+
+---
+
+### 1. Definition  
+> To become or make something stronger or more extreme  
+> **Persian:** قوی‌تر یا شدیدتر شدن یا کردن چیزی  
+
+**Extended Definition:**  
+To increase in degree, strength, size, or amount; to make more acute, vigorous, or effective.
+
+**Persian Explanation:**  
+افزایش درجه، قدرت، اندازه یا مقدار؛ شدیدتر، پرانرژی‌تر یا مؤثرتر کردن
+
+---
+
+### 2. Example Sentences  
+- The storm is expected to **intensify** overnight.  
+  *(انتظار می‌رود طوفان در طول شب تشدید شود.)*  
+
+- The government plans to **intensify** its anti-corruption efforts.  
+  *(دولت قصد دارد تلاش‌های ضد فساد خود را تشدید کند.)*  
+
+- Her anxiety **intensified** as the exam date approached.  
+  *(اضطراب او با نزدیک شدن به تاریخ امتحان تشدید شد.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **intensify efforts** | We must intensify our marketing efforts. | باید تلاش‌های بازاریابی خود را تشدید کنیم. |  
+| **intensify pressure** | The sanctions intensified economic pressure. | تحریم‌ها فشار اقتصادی را تشدید کرد. |  
+| **intensify competition** | New entrants intensified market competition. | تازه‌واردها رقابت بازار را تشدید کردند. |  
+| **intensify colors** | The software can intensify image colors. | نرم‌افزار می‌تواند رنگ‌های تصویر را تشدید کند. |  
+
+---
+
+### 4. Word Family  
+
+| Word | Part of Speech | Example | Persian Meaning |  
+|------|---------------|---------|-----------------|  
+| intense | adjective | The heat was intense. | شدید |  
+| intensity | noun | The storm grew in intensity. | شدت |  
+| intensification | noun | The intensification continued. | تشدید |  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- escalate  
+- heighten  
+- strengthen  
+- amplify  
+
+**Antonyms:**  
+- reduce  
+- diminish  
+- weaken  
+- alleviate  
+
+---
+
+### 6. Usage Notes  
+- Can be both transitive (with object) and intransitive (without object)  
+- Common in weather, military, business, and emotional contexts  
+- Often used with abstract nouns (efforts, feelings, conflicts)  
+
+---
+
+### 7. Common Errors to Avoid  
+❌ "They intensified to work harder"  
+✅ "They **increased** their work effort" (Wrong verb choice)  
+
+❌ "The light intensified the room"  
+✅ "The light **brightened** the room" (Wrong context)  
+
+---
+
+### 8. Mnemonic Device  
+**"INTENSIFY"** = **I**ncreasing **N**oticeably **T**hrough **E**nhanced **N**on-stop **S**trengthening **I**n **F**orceful **Y**ields  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"intensify"** و **"increase"** را در یک جمله نشان دهید.  
+۲. سه موقعیت که ممکن است نیاز به تشدید داشته باشد را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+این فعل معمولاً برای توصیف فرآیندهای تدریجی که به سمت اوج می‌روند به کار می‌رود و در متون فنی و تحلیلی کاربرد فراوانی دارد.
+
+## distend
+
+**Part of Speech:** *verb*  
+**IPA:** /dɪˈstɛnd/  
+**Persian:** متورم کردن، باد کردن، گسترش دادن  
+
+---
+
+### 1. Definition  
+> To swell or cause to swell from internal pressure  
+> **Persian:** ورم کردن یا باعث ورم شدن به دلیل فشار داخلی  
+
+**Extended Definition:**  
+To expand, stretch, or bulge outward, typically due to being filled with air, liquid, or other substances beyond normal capacity.
+
+**Persian Explanation:**  
+گسترش یافتن، کش آمدن یا برآمدگی به سمت بیرون، معمولاً به دلیل پر شدن از هوا، مایع یا مواد دیگر فراتر از ظرفیت طبیعی
+
+---
+
+### 2. Example Sentences  
+- The patient's abdomen **distended** due to fluid accumulation.  
+  *(شکم بیمار به دلیل تجمع مایع متورم شد.)*  
+
+- The frog's throat **distended** as it croaked loudly.  
+  *(گلوگاه قورباغه هنگام قورقور کردن باد کرد.)*  
+
+- Overeating can cause the stomach to **distend** painfully.  
+  *(پرخوری می‌تواند باعث تورم دردناک معده شود.)*  
+
+---
+
+### 3. Collocations  
+
+| Collocation | Example | Persian Translation |  
+|-------------|---------|----------------------|  
+| **distended abdomen** | The doctor examined the distended abdomen. | دکتر شکم متورم را معاینه کرد. |  
+| **distended veins** | His distended veins were visible. | رگ‌های متورم او قابل مشاهده بود. |  
+| **distend with air** | The balloon distended with air. | بادکنک از هوا باد شد. |  
+
+---
+
+### 4. Word Family  
+
+| Word | Part of Speech | Example | Persian Meaning |  
+|------|---------------|---------|-----------------|  
+| distension | noun | Abdominal distension can be serious. | اتساع، تورم |  
+| distensible | adjective | The material is highly distensible. | قابل اتساع |  
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- swell  
+- inflate  
+- expand  
+- bloat  
+
+**Antonyms:**  
+- contract  
+- shrink  
+- deflate  
+- compress  
+
+---
+
+### 6. Usage Notes  
+- Most commonly used in medical/biological contexts  
+- Often implies abnormal or excessive swelling  
+- Can describe both natural and pathological processes  
+
+---
+
+### 7. Common Errors to Avoid  
+❌ "His muscles distended from exercise"  
+✅ "His muscles **bulged** from exercise" (Wrong context)  
+
+❌ "The river distended after rains"  
+✅ "The river **swelled** after rains" (Natural phenomena)  
+
+---
+
+### 8. Mnemonic Device  
+**"DISTEND"** = **D**iameter **I**ncreases **S**ignificantly **T**hrough **E**xpansion **N**aturally **D**riven  
+
+---
+
+**تمرین پیشنهادی:**  
+۱. تفاوت بین **"distend"** و **"expand"** را در یک جمله نشان دهید.  
+۲. سه مورد از قسمت‌های بدن که ممکن است دچار تورم (distend) شوند را نام ببرید.  
+
+---
+
+**نکته پایانی:**  
+این فعل معمولاً برای توصیف تورم غیرطبیعی یا بیش از حد در بدن یا اشیاء قابل انعطاف به کار می‌رود و در متون پزشکی کاربرد فراوانی دارد.
+
+## tension
+
+**Part of Speech:** *noun*  
+**IPA:** /ˈten.ʃən/  
+**Persian:** تنش، کشیدگی، فشار روانی
+
+---
+
+### 1. Definition  
+> Mental or emotional strain; the state of being stretched tight.  
+> **Persian:** فشار یا اضطراب روانی؛ یا حالت کشیده و تحت فشار بودن (جسمی یا احساسی)
+
+**Extended Definition:**  
+Tension refers to a state of stress, nervousness, or unease between people, within a situation, or in physical materials due to stretching or strain.
+
+**Persian Explanation:**  
+تنسشن می‌تواند هم به کشیدگی فیزیکی اشاره داشته باشد (مثلاً طناب کشیده شده) و هم به فشار روانی یا استرس در شرایط یا روابط انسانی.
+
+---
+
+### 2. Example Sentences  
+- There was a lot of **tension** in the room before the exam started.  
+  *(قبل از شروع امتحان، فضای اتاق پر از تنش بود.)*
+
+- You can feel the **tension** between the two countries.  
+  *(می‌توان تنش بین دو کشور را احساس کرد.)*
+
+- The rope broke under **tension**.  
+  *(طناب در اثر کشیدگی پاره شد.)*
+
+---
+
+### 3. Collocations  
+
+| Collocation              | Example | Persian Translation |
+|--------------------------|---------|----------------------|
+| high tension             | The argument created high tension. | تنش شدید |
+| build up tension         | Stress at work can build up tension. | تنش ایجاد شدن |
+| ease/reduce tension      | Meditation helps reduce tension. | کاهش تنش |
+| political/military tension | Political tension rose after the speech. | تنش سیاسی/نظامی |
+| feel/experience tension  | I felt tension in my shoulders. | احساس تنش |
+
+---
+
+### 4. Word Family  
+
+| Word       | Part of Speech | Example | Persian Meaning |
+|------------|----------------|---------|-----------------|
+| tension    | noun           | He felt great tension. | تنش |
+| tense      | adjective      | She looked tense. | عصبی، تحت فشار |
+| tense      | verb (rare)    | He tensed his muscles. | منقبض شدن، تحت فشار قرار دادن |
+| tensely    | adverb         | He waited tensely. | با اضطراب |
+| tenseness  | noun           | The tenseness in the air was obvious. | حالت تنش، اضطراب |
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- stress  
+- strain  
+- pressure  
+- anxiety  
+- unease  
+- friction  
+
+**Antonyms:**  
+- relaxation  
+- calm  
+- peace  
+- ease  
+- tranquility  
+
+---
+
+### 6. Usage Notes  
+- Common in both emotional and physical contexts.  
+- In politics and international relations, often refers to conflict or hostility.  
+- In physics, refers to force exerted when something is stretched.
+
+---
+
+### 7. Common Errors to Avoid  
+
+❌ "I have a tension"  
+✅ "I feel tension" یا "There is tension"  
+*("tension" غیرقابل‌شمارش است)*  
+
+❌ "The tension is high between he and I"  
+✅ "The tension is high between him and me"  
+*(مراقب ضمایر باشید)*  
+
+---
+
+### 8. Mnemonic Device  
+**TENSION = Ten soldiers under pressure**  
+تصور کن ده سرباز (ten soldiers) تحت فشار عصبی هستن!
+
+---
+
+### 9. تمرین پیشنهادی  
+
+۱. یک جمله بساز که در آن **tension** روانی را توصیف کند.  
+۲. تفاوت بین **tense** (صفت) و **tension** (اسم) را توضیح بده.  
+۳. یکی از تجربه‌های شخصی‌ات را بنویس که در آن **tension** زیادی حس کردی.
+
+---
+
+**نکته پایانی:**  
+کلمه **tension** در زبان انگلیسی بسیار رایجه و بسته به موقعیت می‌تونه هم به فشار روانی اشاره داشته باشه هم به کشیدگی فیزیکی. درک تفاوت‌ها با توجه به زمینه (context) بسیار مهمه.
+
+## pretend
+
+**Part of Speech:** *verb* / *adjective*  
+**IPA:** /prɪˈtɛnd/  
+**Persian:** وانمود کردن، تظاهر کردن، ساختگی
+
+---
+
+### 1. Definition  
+
+> To behave as if something is true when it is not, especially for fun or to deceive.  
+> **Persian:** وانمود کردن اینکه چیزی درست است، در حالی‌که نیست؛ اغلب برای سرگرمی یا فریب دادن.
+
+**Extended Definition:**  
+To make believe something that is not real, often used in children’s play or in social situations to hide true feelings or intentions.
+
+**Persian Explanation:**  
+«pretend» به معنی تظاهر کردن یا وانمود کردن است. این واژه هم در موقعیت‌های بازی و خیال‌پردازی (مثلاً کودکان)، و هم در شرایطی که کسی بخواهد احساس یا واقعیت را پنهان کند، به‌کار می‌رود.
+
+---
+
+### 2. Example Sentences  
+
+- The children **pretended** to be pirates.  
+  *(بچه‌ها وانمود کردند که دزد دریایی هستند.)*
+
+- Don’t **pretend** you don’t know what I’m talking about!  
+  *(تظاهر نکن که نمی‌دونی درباره چی حرف می‌زنم!)*
+
+- She **pretended** to be asleep when her mom entered the room.  
+  *(او وانمود کرد که خواب است وقتی مادرش وارد اتاق شد.)*
+
+- He’s just a **pretend** doctor in a movie.  
+  *(او فقط یک دکتر ساختگی در یک فیلم است.)*
+
+---
+
+### 3. Collocations  
+
+| Collocation              | Example | Persian Translation |
+|--------------------------|---------|----------------------|
+| pretend to sleep         | She pretended to sleep. | وانمود کردن به خواب |
+| pretend to know          | He pretended to know the answer. | وانمود به دانستن |
+| pretend to be happy      | I pretended to be happy. | تظاهر به خوشحالی |
+| pretend play             | Pretend play helps kids learn. | بازی خیالی |
+| pretend not to care      | He pretended not to care. | وانمود به بی‌تفاوتی |
+
+---
+
+### 4. Word Family  
+
+| Word       | Part of Speech | Example | Persian Meaning |
+|------------|----------------|---------|-----------------|
+| pretend    | verb           | I pretended to laugh. | وانمود کردن |
+| pretender  | noun           | He’s a pretender. | وانمودکننده، متظاهر |
+| pretension | noun           | She had no pretension of innocence. | تظاهر، ادعا |
+| pretentious| adjective      | He’s so pretentious. | متظاهر، خودنما |
+| pretending | noun/adj       | Pretending is common in drama. | وانمود کردن، خیالی |
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- fake  
+- act  
+- simulate  
+- feign  
+- make believe  
+
+**Antonyms:**  
+- be honest  
+- be sincere  
+- reveal  
+- confess  
+- show truly  
+
+---
+
+### 6. Usage Notes  
+
+- "Pretend" is often used in **children's games** and **social acting**.  
+- Can have **neutral** or **negative** connotations depending on context.  
+  - Neutral: “pretend play” (for learning)  
+  - Negative: “pretending to like someone” (dishonesty)
+
+---
+
+### 7. Common Errors to Avoid  
+
+❌ "He pretends like he happy."  
+✅ "He pretends **to be** happy."  
+*(بعد از pretend معمولاً فعل با to + verb می‌آید.)*
+
+❌ "I pretended that I'm sick."  
+✅ "I pretended that **I was** sick."  
+*(زمان فعل در جمله با pretend باید هماهنگ باشد.)*
+
+---
+
+### 8. Mnemonic Device  
+
+**P-R-E-T-E-N-D = People Really Enjoy Tricking Everyone, Not Disclosing**  
+یعنی مردم واقعاً از فریب دیگران و پنهان‌کاری لذت می‌برند!  
+
+---
+
+### 9. تمرین پیشنهادی  
+
+1. سه جمله بنویس که در آن از **pretend** برای توصیف احساسات استفاده شده باشد.  
+2. یک موقعیت بازی کودکانه را تصور کن و با pretend جمله بساز.  
+3. فرق بین “pretend” و “fake” را توضیح بده.
+
+---
+
+**نکته پایانی:**  
+"pretend" یکی از افعال مهم در مکالمات روزمره، داستان‌ها و بازی‌های خیالی است و بسته به موقعیت، می‌تواند بی‌ضرر یا فریبنده باشد.
+
+## extension
+
+**Part of Speech:** *noun*  
+**IPA:** /ɪkˈsten.ʃən/  
+**Persian:** گسترش، تمدید، افزونه، اضافه‌سازی
+
+---
+
+### 1. Definition  
+
+> The act of making something longer, larger, or continuing it further in time or space.  
+> **Persian:** عمل افزایش طول، اندازه یا زمان چیزی؛ یا اضافه کردن بخشی به چیزی برای گسترش آن.
+
+**Extended Definition:**  
+"Extension" can refer to both physical expansion (e.g., adding a room to a house), temporal continuation (e.g., deadline extension), or conceptual/functional increase (e.g., file extension, hair extension).
+
+**Persian Explanation:**  
+"extension" به معنی توسعه، افزایش یا ادامه است؛ می‌تواند فیزیکی باشد (مثلاً ساختن اتاق اضافی)، زمانی باشد (مثلاً تمدید مهلت)، یا مفهومی/فنی (مثل پسوند فایل‌ها یا افزونه‌ها).
+
+---
+
+### 2. Example Sentences  
+
+- The teacher gave us an **extension** on the homework deadline.  
+  *(معلم به ما تمدید مهلت برای تکلیف داد.)*
+
+- We built an **extension** to our kitchen last year.  
+  *(سال گذشته بخشی به آشپزخانه‌مان اضافه کردیم.)*
+
+- Please dial extension 204 for customer service.  
+  *(لطفاً داخلی ۲۰۴ را برای خدمات مشتری بگیرید.)*
+
+- I downloaded a Chrome **extension** to block ads.  
+  *(یک افزونه کروم برای مسدود کردن تبلیغات دانلود کردم.)*
+
+---
+
+### 3. Collocations  
+
+| Collocation            | Example | Persian Translation |
+|------------------------|---------|----------------------|
+| extension cord         | I need an extension cord. | سیم رابط |
+| deadline extension     | She requested a deadline extension. | تمدید مهلت |
+| hair extension         | She got hair extensions. | اکستنشن مو |
+| phone extension        | What’s your extension number? | شماره داخلی |
+| browser extension      | Install this browser extension. | افزونه مرورگر |
+
+---
+
+### 4. Word Family  
+
+| Word        | Part of Speech | Example | Persian Meaning |
+|-------------|----------------|---------|-----------------|
+| extend      | verb           | They want to extend the road. | گسترش دادن |
+| extension   | noun           | The extension of the contract was approved. | تمدید، گسترش |
+| extensive   | adjective      | The damage was extensive. | گسترده |
+| extensively| adverb         | He traveled extensively. | به طور گسترده |
+| extensible | adjective       | The software is extensible. | قابل گسترش |
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- expansion  
+- enlargement  
+- continuation  
+- prolongation  
+- addition  
+- appendix (در متون رسمی یا کتاب‌ها)
+
+**Antonyms:**  
+- reduction  
+- decrease  
+- termination  
+- contraction  
+- shortening  
+
+---
+
+### 6. Usage Notes  
+
+- In **academic** or **professional** settings, often used for deadlines and contracts.  
+- In **technology**, used for software plugins or file types (e.g., `.jpg`, `.pdf` are file extensions).  
+- In **construction**, means a physical addition to a building.
+
+---
+
+### 7. Common Errors to Avoid  
+
+❌ "He asked for an extension for study."  
+✅ "He asked for an extension **on his studies** / **of the deadline**."  
+*(دقت به حرف اضافه درست: on / of)*
+
+❌ "I need an extension wire."  
+✅ "I need an **extension cord**."  
+*(اصطلاح درست برای سیم رابط: extension cord)*
+
+---
+
+### 8. Mnemonic Device  
+
+**"Extension"** = **Ex**tra **Tension** = کشیدن چیزی بیشتر (مثلاً مهلت یا فضا)
+
+---
+
+### 9. تمرین پیشنهادی  
+
+1. سه جمله بساز که در آن **extension** به سه معنی متفاوت استفاده شده باشد (زمانی، فیزیکی، فنی).  
+2. یک موقعیت فرضی تعریف کن که در آن نیاز به "extension" داری (مثل تمدید پروژه یا اضافه‌کردن بخش به خانه).  
+3. تفاوت **extend** و **extension** را در دو جمله جداگانه نشان بده.
+
+---
+
+**نکته پایانی:**  
+"extension" از کلمات بسیار پرکاربرد در زندگی روزمره، تحصیل، تکنولوژی و مهندسی است. درک کاربردهای مختلف آن می‌تونه مهارت زبانت رو خیلی قوی‌تر کنه.
+
+
+## tendency
+
+**Part of Speech:** *noun*  
+**IPA:** /ˈten.dən.si/  
+**Persian:** گرایش، تمایل، عادت، میل
+
+---
+
+### 1. Definition  
+
+> A way of behaving or a habit that someone is likely to have; a general direction in which something is developing or changing.  
+> **Persian:** تمایل یا گرایشی که فرد یا چیز به طور طبیعی دارد؛ جهت‌گیری یا روند کلی در تغییر یا رفتار
+
+**Extended Explanation:**  
+A **tendency** is a leaning or inclination toward a particular kind of thought, behavior, or action. It can refer to both **personal traits** (e.g., emotional tendency) and **social or statistical trends** (e.g., economic tendencies).
+
+**Persian Explanation:**  
+"tendency" به معنی تمایل طبیعی، گرایش یا عادت است که ممکن است فردی در رفتار یا احساساتش داشته باشد یا جامعه‌ای در حال حرکت به سوی آن باشد.
+
+---
+
+### 2. Example Sentences  
+
+- She has a **tendency** to overthink everything.  
+  *(او تمایل دارد همه چیز را بیش از حد تحلیل کند.)*
+
+- There is a growing **tendency** for people to work from home.  
+  *(تمایل رو به افزایشی وجود دارد که مردم از خانه کار کنند.)*
+
+- Children have a natural **tendency** to ask questions.  
+  *(کودکان به‌طور طبیعی تمایل به پرسیدن سؤال دارند.)*
+
+- His **tendency** toward anger makes him hard to work with.  
+  *(تمایل او به عصبانیت باعث می‌شود کار کردن با او سخت باشد.)*
+
+---
+
+### 3. Collocations  
+
+| Collocation              | Example | Persian Translation |
+|--------------------------|---------|----------------------|
+| natural tendency         | Children have a natural tendency to learn. | گرایش طبیعی |
+| strong tendency          | She has a strong tendency to be shy. | گرایش شدید |
+| tendency to + verb       | He has a tendency to exaggerate. | تمایل به |
+| social/political tendency| The political tendency is toward reform. | گرایش اجتماعی/سیاسی |
+| growing tendency         | There’s a growing tendency to use AI. | تمایل فزاینده |
+
+---
+
+### 4. Word Family  
+
+| Word       | Part of Speech | Example | Persian Meaning |
+|------------|----------------|---------|-----------------|
+| tendency   | noun           | A tendency to worry | گرایش، تمایل |
+| tend       | verb           | I tend to agree | گرایش داشتن |
+| tender     | adjective      | A tender heart | حساس، لطیف |
+| tending    | gerund/adj     | He’s tending the garden. | رسیدگی کردن |
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- inclination  
+- propensity  
+- predisposition  
+- leaning  
+- habit  
+- proclivity  
+
+**Antonyms:**  
+- disinclination  
+- aversion  
+- resistance  
+- opposition  
+- unwillingness  
+
+---
+
+### 6. Usage Notes  
+
+- **Tendency** can describe **long-term behavioral patterns**, either **personal** (e.g. anxiety) or **societal** (e.g. online learning).  
+- Often followed by **“to + base verb”** (e.g., tendency to worry).  
+- Can be **positive** or **negative** depending on context.
+
+---
+
+### 7. Common Errors to Avoid  
+
+❌ "He has tendency to sleep late."  
+✅ "He has **a** tendency to sleep late."  
+*(قبل از tendency همیشه "a" بیاد)*
+
+❌ "His tendency is angry."  
+✅ "He has a tendency **to get angry**."  
+*(بعد از tendency باید فعل بیاد، نه صفت مستقیم)*
+
+---
+
+### 8. Mnemonic Device  
+
+**TENDency = TEND**s toward a specific habit or action  
+یعنی تمایل داشتن به سمت کاری خاص (با یادآوری فعل tend)
+
+---
+
+### 9. تمرین پیشنهادی  
+
+1. یک جمله درباره **گرایش شخصی خودت** بساز (مثلاً نگرانی، خوش‌بینی، دیر بیدار شدن).  
+2. یک **تغییر اجتماعی یا فرهنگی** را مثال بزن که نشون‌دهنده یک tendency باشه.  
+3. از "tendency to" در جمله‌ای با فعل استفاده کن.
+
+---
+
+**نکته پایانی:**  
+"tendency" از کلمات کلیدی در روان‌شناسی، جامعه‌شناسی، نوشتار دانشگاهی و حتی مکالمات روزمره است. یادگیری کاربرد دقیق آن می‌تواند نوشتار و گفتار شما را حرفه‌ای‌تر کند.
+
+
+## tender
+
+**Part of Speech:** *adjective, noun, verb*  
+**IPA:** /ˈten.dər/  
+**Persian:** (adj) لطیف، حساس، نرم  
+**Persian:** (noun) پیشنهاد قیمت (مناقصه)  
+**Persian:** (verb) ارائه دادن، پیشنهاد دادن
+
+---
+
+### 1. Definitions  
+
+#### As **adjective**:  
+> Soft, delicate, and easily damaged OR showing gentleness and concern.  
+> **Persian:** نرم و حساس یا مهربان و دل‌سوز
+
+#### As **noun**:  
+> A formal offer, especially to supply goods or services at a fixed price.  
+> **Persian:** پیشنهاد رسمی قیمت (در مناقصه یا مزایده)
+
+#### As **verb**:  
+> To formally offer or present something.  
+> **Persian:** ارائه دادن، پیشنهاد رسمی دادن
+
+---
+
+### 2. Example Sentences  
+
+- (adj) The meat was **tender** and juicy.  
+  *(گوشت نرم و آبدار بود.)*
+
+- (adj) She gave him a **tender** smile.  
+  *(او با لبخندی مهربان به او نگاه کرد.)*
+
+- (noun) The company won the **tender** for the construction project.  
+  *(شرکت در مناقصه ساخت‌وساز برنده شد.)*
+
+- (verb) He **tendered** his resignation yesterday.  
+  *(او دیروز استعفایش را تقدیم کرد.)*
+
+---
+
+### 3. Collocations  
+
+| Collocation              | Example | Persian Translation |
+|--------------------------|---------|----------------------|
+| tender meat              | I love tender lamb. | گوشت نرم |
+| tender care              | She needs tender care. | مراقبت مهربانانه |
+| tender smile             | A tender smile appeared on her face. | لبخند لطیف |
+| tender a resignation     | He tendered his resignation. | استعفا دادن |
+| submit a tender          | They submitted a tender for the road project. | ارائه مناقصه |
+
+---
+
+### 4. Word Family  
+
+| Word        | Part of Speech | Example | Persian Meaning |
+|-------------|----------------|---------|-----------------|
+| tender      | adj/verb/noun  | She is very tender. | لطیف، ارائه دادن |
+| tenderness  | noun           | His tenderness surprised me. | لطافت، مهربانی |
+| tenderly    | adverb         | He touched her tenderly. | با لطافت |
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**(Adj) Synonyms:**  
+- soft  
+- gentle  
+- delicate  
+- affectionate  
+
+**(Adj) Antonyms:**  
+- tough  
+- harsh  
+- rough  
+- insensitive  
+
+**(Verb) Synonyms:**  
+- offer  
+- submit  
+- present  
+
+---
+
+### 6. Usage Notes  
+
+- **Tender** as an **adjective** is common in describing **emotions** or **textures (food)**.  
+- In **business** or **official contexts**, tender as a **noun/verb** refers to offering proposals or documents.
+
+---
+
+### 7. Mnemonic Device  
+
+**Tender** = **Ten**der fingers = لطافت و نرمی  
+یا  
+**Tender offer** in business = پیشنهاد رسمی
+
+---
+
+### 8. تمرین پیشنهادی  
+
+1. یک جمله بنویس که در آن “tender” به معنی «مهربان» به کار برود.  
+2. تفاوت بین "tender" به عنوان اسم و فعل را در مثال نشان بده.  
+
+
+# 6.2
+
+## conceived
+
+**Part of Speech:** *verb* (past tense and past participle of *conceive*)  
+**IPA:** /kənˈsiːvd/  
+**Persian:** تصور کردن، در ذهن پروردن، باردار شدن
+
+---
+
+### 1. Definition  
+
+> Formed in the mind; imagined or thought of. Also, to become pregnant with (a child).  
+> **Persian:**  
+> - اندیشیدن، تصور کردن یک ایده یا طرح  
+> - باردار شدن (در معنی بیولوژیکی)
+
+**Extended Definition:**  
+"Conceived" means to **form an idea, plan, or concept in the mind**, or in a biological sense, to **become pregnant**. It's used for both mental and physical creation.
+
+**Persian Explanation:**  
+این کلمه می‌تواند به معنی شکل‌گیری یک فکر یا ایده در ذهن باشد، یا در زمینه‌ی بارداری به کار رود. به طور استعاری نیز برای خلق آثار هنری یا علمی استفاده می‌شود.
+
+---
+
+### 2. Example Sentences  
+
+- The architect **conceived** the idea for the building while traveling.  
+  *(معمار ایده‌ی ساختمان را هنگام سفر در ذهن پروراند.)*
+
+- The book was **conceived** as a response to social injustice.  
+  *(این کتاب به‌عنوان پاسخی به بی‌عدالتی اجتماعی در ذهن شکل گرفت.)*
+
+- She **conceived** after two years of trying to have a baby.  
+  *(او پس از دو سال تلاش برای بچه‌دار شدن، باردار شد.)*
+
+---
+
+### 3. Collocations  
+
+| Collocation              | Example | Persian Translation |
+|--------------------------|---------|----------------------|
+| conceived as             | The system was conceived as a solution. | به عنوان راه‌حل تصور شد |
+| originally conceived     | It was originally conceived as a novel. | در ابتدا به عنوان رمان تصور شد |
+| conceive an idea         | He conceived the idea during a walk. | ایده‌ای را در ذهن پرورد |
+| conceive a child         | She couldn’t conceive naturally. | باردار شدن |
+
+---
+
+### 4. Word Family  
+
+| Word       | Part of Speech | Example | Persian Meaning |
+|------------|----------------|---------|-----------------|
+| conceive   | verb           | I can't conceive of such cruelty. | تصور کردن |
+| conceived  | verb (past)    | He conceived a plan. | طراحی کرد |
+| conception | noun           | The conception of democracy | شکل‌گیری، درک |
+| conceivable| adjective      | It’s not even conceivable. | قابل تصور |
+| inconceivable | adj         | Such pain is inconceivable. | غیر قابل تصور |
+
+---
+
+### 5. Synonyms & Antonyms  
+
+**Synonyms:**  
+- imagined  
+- devised  
+- formulated  
+- envisioned  
+- created  
+- impregnated (biological context)
+
+**Antonyms:**  
+- dismissed  
+- ignored  
+- misperceived  
+- aborted (in biological context)
+
+---
+
+### 6. Usage Notes  
+
+- "Conceived" often refers to **mental creation** in literature, art, or planning.  
+- In **medical or biological** contexts, it's about **becoming pregnant**.  
+- Common in academic and formal writing.
+
+---
+
+### 7. Common Errors to Avoid  
+
+❌ "She conceived the book in two days."  
+✅ "She **came up with** the idea in two days."  
+*(در گفتار غیررسمی، معمولاً “come up with” رایج‌تر است.)*
+
+❌ "He was conceived to do the job."  
+✅ "He was **chosen** to do the job."  
+*("Conceived" برای افراد به این شکل استفاده نمی‌شود.)*
+
+---
+
+### 8. Mnemonic Device  
+
+**Conceive = "Concept + Receive"**  
+یعنی «دریافت یک مفهوم» در ذهن = خلق یا تصور ایده
+
+---
+
+### 9. تمرین پیشنهادی  
+
+1. جمله‌ای بنویس که در آن از "conceived as" استفاده شود.  
+2. معنای استعاری و واقعی "conceived" را در دو جمله‌ی جداگانه نشان بده.  
+3. چند واژه‌ی هم‌خانواده‌ی آن را صرف کرده و در جمله به‌کار ببر.
+
+---
+
+**نکته پایانی:**  
+"Conceived" فعلی است که هم در ادبیات و علوم انسانی کاربرد دارد و هم در پزشکی. استفاده درست از آن بستگی به زمینه‌ی جمله دارد. در متون رسمی زیاد به چشم می‌خورد.
+
