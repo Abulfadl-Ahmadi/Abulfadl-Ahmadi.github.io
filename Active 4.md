@@ -2,7 +2,7 @@
 
 ## malicious
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /məˈlɪʃ.əs/  
 **فارسی:** بدخواه، دارای نیت بد، شرورانه
 
@@ -77,7 +77,7 @@
 
 ## perpetrator
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈpɜːrpətreɪtər/  
 **فارسی:** مرتکب جرم، مجرم، مقصر
 
@@ -150,7 +150,7 @@
 
 ## vent frustration
 
-**Part of Speech:** *verb phrase*  
+**Part of Speech:** *#verb_phrase*  
 **فارسی:** تخلیه عصبانیت یا ناراحتی، خالی کردن خشم
 
 ---
@@ -214,7 +214,7 @@
 - **Mental health advice**: journaling, talking, exercising
 ## gothic
 
-**Part of Speech:** *adjective* / *noun*  
+**Part of Speech:** *#adjective* / *#noun*  
 **IPA:** /ˈɡɒθɪk/  
 **فارسی:** گوتیک، مربوط به فرهنگ گاتیک، تاریک و مرموز
 
@@ -302,7 +302,7 @@
 - **Subculture**: gothic fashion, goth subculture
 ## predominately
 
-**Part of Speech:** *adverb*  
+**Part of Speech:** *#adverb*  
 **IPA:** /prɪˈdɒm.ɪ.nənt.li/  
 **فارسی:** به‌طور غالب، عمدتاً، به‌طور برجسته
 
@@ -380,14 +380,9 @@
 - **Science/Environment:** Describing dominant features (e.g., "The ecosystem is predominately forested").  
 - **Active Skills for Reading:** ممکنه توی متن‌های توصیفی یا تحلیلی یونیت‌های ۲، ۴ یا ۶ ببینی، مثلاً توی بحث‌های مربوط به جوامع، فناوری یا محیط زیست.
 
-
-
-
-
-
 ## distinct
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /dɪˈstɪŋkt/  
 **فارسی:** متمایز، مشخص، واضح
 
@@ -468,7 +463,7 @@
 
 ## shallower
 
-**Part of Speech:** *adjective (comparative form of shallow)*  
+**Part of Speech:** *#adjective (comparative form of shallow)*  
 **IPA:** /ˈʃæl.oʊ.ər/  
 **فارسی:** کم‌عمق‌تر، سطحی‌تر
 
@@ -548,7 +543,7 @@
 
 ## whereas
 
-**Part of Speech:** *conjunction*  
+**Part of Speech:** *#conjunction*  
 **IPA:** /ˌwerˈæz/  
 **فارسی:** در حالی که، حال آن که
 
@@ -624,7 +619,7 @@
 
 ## dominate
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ˈdɒm.ɪ.neɪt/  
 **فارسی:** تسلط داشتن، غالب بودن، چیره شدن
 
@@ -706,7 +701,7 @@
 
 ## intimate
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ˈɪn.tɪ.mət/  
 **فارسی:** صمیمی، نزدیک، خصوصی
 
@@ -786,7 +781,7 @@
 
 ## relinquishes
 
-**Part of Speech:** *verb (third person singular of relinquish)*  
+**Part of Speech:** *#verb (third person singular of relinquish)*  
 **IPA:** /rɪˈlɪŋ.kwɪʃ.ɪz/  
 **فارسی:** واگذار می‌کند، دست می‌کشد، رها می‌کند
 
@@ -867,7 +862,7 @@
 
 ## perceive
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /pərˈsiːv/  
 **فارسی:** درک کردن، احساس کردن، دریافتن
 
@@ -948,7 +943,7 @@
 
 ## replicate
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ˈrep.lɪ.keɪt/  
 **فارسی:** تکرار کردن، کپی کردن، بازتولید کردن
 
@@ -1029,7 +1024,7 @@
 
 ## assert
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /əˈsɝːt/  
 **فارسی:** ادعا کردن، اظهار کردن، با قاطعیت بیان کردن
 
@@ -1111,7 +1106,7 @@
 
 ## furthermore
 
-**Part of Speech:** *adverb*  
+**Part of Speech:** *#adverb*  
 **IPA:** /ˌfɝː.ðɚˈmɔːr/  
 **فارسی:** علاوه بر این، به‌علاوه
 
@@ -1189,7 +1184,7 @@
 
 ## desensitization
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /diːˌsen.sɪ.təˈzeɪ.ʃən/  
 **فارسی:** حساسیت‌زدایی، کاهش حساسیت
 
@@ -1270,7 +1265,7 @@
 
 ## cues
 
-**Part of Speech:** *noun (plural of cue)*  
+**Part of Speech:** *#noun (plural of cue)*  
 **IPA:** /kjuːz/  
 **فارسی:** نشانه‌ها، سیگنال‌ها، اشارات
 
@@ -1349,7 +1344,7 @@
 
 ## rationale
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˌræʃ.əˈnæl/  
 **فارسی:** منطق، استدلال، دلیل بنیادین
 
@@ -1429,7 +1424,7 @@
 - **Active Skills for Reading:** احتمالاً توی متن‌های تحلیلی یا استدلالی یونیت‌های ۲، ۴ یا ۶ ببینی، مثلاً توی بحث‌های مربوط به سیاست‌گذاری، تحقیقات، یا تصمیم‌گیری.
 ## implicate
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ˈɪm.plɪ.keɪt/  
 **فارسی:** دخیل دانستن، متهم کردن، درگیر کردن  
 
@@ -1512,7 +1507,7 @@
 
 ## Inexplicable
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ˌɪn.ɪkˈsplɪk.ə.bəl/  
 **فارسی:** غیرقابل توضیح، نامفهوم  
 
@@ -1536,7 +1531,7 @@
 
 ## Explicit
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ɪkˈsplɪs.ɪt/  
 **فارسی:** صریح، آشکار  
 
@@ -1560,7 +1555,7 @@
 
 ## Pleat
 
-**Part of Speech:** *noun/verb*  
+**Part of Speech:** *#noun #verb*  
 **IPA:** /pliːt/  
 **فارسی:** چین، تا (در لباس)  
 
@@ -1576,7 +1571,7 @@
 
 ## Pliable
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ˈplaɪ.ə.bəl/  
 **فارسی:** انعطاف پذیر، نرم  
 
@@ -1595,7 +1590,7 @@
 
 ## Multiply
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ˈmʌl.tɪ.plaɪ/  
 **فارسی:** ضرب کردن، تکثیر شدن  
 
@@ -1616,7 +1611,7 @@
 
 ## Multiplex
 
-**Part of Speech:** *noun/adjective*  
+**Part of Speech:** *#noun #adjective*  
 **IPA:** /ˈmʌl.tɪ.pleks/  
 **فارسی:** چندگانه، مجتمع  
 
@@ -1632,7 +1627,7 @@
 
 ## Implicit
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ɪmˈplɪs.ɪt/  
 **فارسی:** ضمنی، ناگفته  
 
@@ -1654,7 +1649,7 @@
 # 2.2
 ## polite
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /pəˈlaɪt/  
 **Persian:** مودب، مؤدبانه
 
@@ -1738,7 +1733,7 @@ What's considered polite varies across cultures. For example:
 
 ## rebellious
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /rɪˈbel.i.əs/  
 **Persian:** یاغی، سرکش، طغیانگر  
 
@@ -1840,7 +1835,7 @@ Characterized by or showing a defiant challenge to established authority, conven
 
 ## unconventional
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ˌʌn.kənˈven.ʃən.əl/  
 **Persian:** نامتعارف، غیرمرسوم، سنت‌شکن  
 
@@ -1937,11 +1932,16 @@ Different from what is usual or expected in a particular society or culture, oft
 **نکته پایانی:**  
 این صفت اغلب برای توصیف افرادی به کار می‌رود که خارج از چارچوب فکر می‌کنند و روش‌های جدیدی را امتحان می‌کنند.
 
+## immaculate
+perfectly, clean, tidy
+### SYN:
+ flawless, faultless
+ 
 # 6.1
 
 ## impulse
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈɪm.pʌls/  
 **Persian:** تکانۀ ناگهانی، انگیزۀ آنی  
 
@@ -2043,7 +2043,7 @@ Different from what is usual or expected in a particular society or culture, oft
 
 ## stability
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /stəˈbɪl.ə.ti/  
 **Persian:** ثبات، پایداری، استواری  
 
@@ -2143,7 +2143,7 @@ The capacity to maintain equilibrium and resist sudden changes or disruptions in
 
 ## errand
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈer.ənd/  
 **Persian:** انجام دادن کارهای بیرون، مأموریت کوچک  
 
@@ -2239,7 +2239,7 @@ A small job or task that requires going somewhere to complete it, often part of 
 
 ## tracked down
 
-**Part of Speech:** *phrasal verb* (past tense)  
+**Part of Speech:** *#phrasal_verb* (past tense)  
 **IPA:** /trækt daʊn/  
 **Persian:** ردیابی کردن، پیدا کردن، پیگیری کردن تا یافتن  
 
@@ -2338,7 +2338,7 @@ To successfully locate and identify someone/something that was hidden, lost, or 
 
 ## prone to
 
-**Part of Speech:** *adjective phrase*  
+**Part of Speech:** *#adjective_phrase*  
 **IPA:** /proʊn tuː/  
 **Persian:** مستعد، تمایل داشتن به، آسیب پذیر در برابر  
 
@@ -2435,7 +2435,7 @@ Used to indicate a natural likelihood or susceptibility to particular behaviors,
 
 ## rational
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ˈræʃ.ən.əl/  
 **Persian:** منطقی، عقلانی، معقول  
 
@@ -2532,12 +2532,28 @@ Showing reason or sound judgment; able to think clearly and make decisions based
 **نکته پایانی:**  
 این صفت معمولاً برای توصیف فرآیندهای فکری نظام‌مند به کار می‌رود و در مباحث علمی و تحلیلی اهمیت ویژه‌ای دارد.
 
+#### **Rational** (adjective)
+- **Meaning**: Based on logic, reason, or clear thinking.
+- **Used for**: Describing people, decisions, or thoughts.
+- **Example**: _She's very rational when it comes to making financial decisions._
+
+👉 Think: _"rational = reasonable or logical."_
+#### **Rationale** (noun)
+- **Meaning**: The reasoning or explanation behind something.
+- **Used for**: Explaining why something was done or believed.
+- **Example**: _The rationale behind the new policy was to improve safety._
+
+👉 Think: _"rationale = reason or justification."_
+
+**Quick memory tip**:
+- _Rational_ describes how someone thinks.
+- _Rationale_ explains **why** they think that way.
 
 ## empathy
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈempəθi/  
-**Persian:** همدلی، هماحساسی، درک احساسات دیگران  
+**Persian:** همدلی، هم‌احساسی، درک احساسات دیگران  
 
 ---
 
@@ -2632,7 +2648,7 @@ The capacity to recognize, understand, and share the thoughts and emotions of an
 
 ## restraint
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /rɪˈstreɪnt/  
 **Persian:** خویشتن‌داری، محدودیت، بازدارندگی  
 
@@ -2733,7 +2749,7 @@ The capacity to recognize, understand, and share the thoughts and emotions of an
 
 ## endowed
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ɪnˈdaʊd/  
 **Persian:** برخوردار، مجهز، بهره‌مند  
 
@@ -2830,7 +2846,7 @@ Having been given or inherited certain positive attributes, resources, or charac
 
 ## across the board
 
-**Part of Speech:** *idiom*  
+**Part of Speech:** *#idiom*  
 **IPA:** /əˌkrɒs ðə ˈbɔːrd/ (UK), /əˌkrɔs ðə ˈbɔrd/ (US)  
 **Persian:** سراسری، همه‌جانبه، عمومی  
 
@@ -2918,7 +2934,7 @@ An action, policy, or effect that applies equally and comprehensively to all par
 
 ## astute
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /əˈstjuːt/ (UK), /əˈstuːt/ (US)  
 **Persian:** تیزبین، زیرک، هوشمند  
 
@@ -3016,7 +3032,7 @@ Characterized by an ability to accurately assess situations or people and turn t
 
 ## intensify
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ɪnˈten.sɪ.faɪ/  
 **Persian:** تشدید کردن، تقویت کردن، شدت بخشیدن  
 
@@ -3115,7 +3131,7 @@ To increase in degree, strength, size, or amount; to make more acute, vigorous, 
 
 ## distend
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /dɪˈstɛnd/  
 **Persian:** متورم کردن، باد کردن، گسترش دادن  
 
@@ -3212,7 +3228,7 @@ To expand, stretch, or bulge outward, typically due to being filled with air, li
 
 ## tension
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈten.ʃən/  
 **Persian:** تنش، کشیدگی، فشار روانی
 
@@ -3323,7 +3339,7 @@ Tension refers to a state of stress, nervousness, or unease between people, with
 
 ## pretend
 
-**Part of Speech:** *verb* / *adjective*  
+**Part of Speech:** *#verb* / *#adjective*  
 **IPA:** /prɪˈtɛnd/  
 **Persian:** وانمود کردن، تظاهر کردن، ساختگی
 
@@ -3441,7 +3457,7 @@ To make believe something that is not real, often used in children’s play or i
 
 ## extension
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ɪkˈsten.ʃən/  
 **Persian:** گسترش، تمدید، افزونه، اضافه‌سازی
 
@@ -3558,7 +3574,7 @@ To make believe something that is not real, often used in children’s play or i
 
 ## contend
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /kənˈtend/  
 **Persian:** مقابله کردن، استدلال کردن، رقابت کردن
 
@@ -3673,7 +3689,7 @@ To make believe something that is not real, often used in children’s play or i
 
 ## tendency
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈten.dən.si/  
 **Persian:** گرایش، تمایل، عادت، میل
 
@@ -3791,7 +3807,7 @@ A **tendency** is a leaning or inclination toward a particular kind of thought, 
 
 ## tender
 
-**Part of Speech:** *adjective, noun, verb*  
+**Part of Speech:** *#adjective #noun #verb*  
 **IPA:** /ˈten.dər/  
 **Persian:** (adj) لطیف، حساس، نرم  
 **Persian:** (noun) پیشنهاد قیمت (مناقصه)  
@@ -3805,7 +3821,7 @@ A **tendency** is a leaning or inclination toward a particular kind of thought, 
 > Soft, delicate, and easily damaged OR showing gentleness and concern.  
 > **Persian:** نرم و حساس یا مهربان و دل‌سوز
 
-#### As **noun**:  
+#### As **#noun**:  
 > A formal offer, especially to supply goods or services at a fixed price.  
 > **Persian:** پیشنهاد رسمی قیمت (در مناقصه یا مزایده)
 
@@ -3899,7 +3915,7 @@ A **tendency** is a leaning or inclination toward a particular kind of thought, 
 
 ## conceived
 
-**Part of Speech:** *verb* (past tense and past participle of *conceive*)  
+**Part of Speech:** *#verb* (past tense and past participle of *conceive*)  
 **IPA:** /kənˈsiːvd/  
 **Persian:** تصور کردن، در ذهن پروردن، باردار شدن
 
@@ -4015,7 +4031,7 @@ A **tendency** is a leaning or inclination toward a particular kind of thought, 
 
 ## criteria
 
-**Part of Speech:** *noun (plural)*  
+**Part of Speech:** *#noun (plural)*  
 **Singular:** *criterion*  
 **IPA:** /kraɪˈtɪəriə/  
 **Persian:** معیارها، ملاک‌ها
@@ -4128,7 +4144,7 @@ A **tendency** is a leaning or inclination toward a particular kind of thought, 
 
 ## hypothesis
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **Plural:** hypotheses (/haɪˈpɒθəsiːz/)  
 **IPA:** /haɪˈpɒθəsɪs/  
 **Persian:** فرضیه، گمانه
@@ -4239,7 +4255,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## gifted
 
-**Part of Speech:** *adjective*  
+**Part of Speech:** *#adjective*  
 **IPA:** /ˈɡɪf.tɪd/  
 **Persian:** با استعداد، خوش‌ذوق، دارای موهبت
 
@@ -4347,7 +4363,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## novelty
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈnɒv.əl.ti/  
 **Persian:** تازگی، نوآوری، جدید بودن
 
@@ -4454,7 +4470,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## dynamics
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **Plural:** *dynamics*  
 **IPA:** /daɪˈnæmɪks/  
 **Persian:** دینامیک، پویایی
@@ -4562,7 +4578,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## fine-tune
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ˌfaɪnˈtjuːn/  
 **Persian:** دقیق تنظیم کردن، بهینه‌سازی کردن
 
@@ -4669,8 +4685,8 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## in conjunction with
 
-**Part of Speech:** *prepositional phrase*  
-**IPA:** /ɪn kənˈdʒʌŋkʃən wɪð/  
+**Part of Speech:** *#prepositional_phrase*  
+**IPA:** /ɪn kənˈdʒʌŋkʃən wɪð/ 
 **Persian:** در کنار، به همراه، همزمان با
 
 ---
@@ -4774,7 +4790,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## forefront
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈfɔːrfrʌnt/  
 **Persian:** پیشرو، مقدم، جلوتر از دیگران
 
@@ -4879,7 +4895,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## allude to
 
-**Part of Speech:** *phrasal verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /əˈluːd tuː/  
 **Persian:** اشاره کردن به، کنایه زدن به
 
@@ -4985,7 +5001,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## accept
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /əkˈsɛpt/  
 **Persian:** قبول کردن، پذیرفتن، پذیرا بودن
 
@@ -5093,7 +5109,7 @@ A **hypothesis** is an educated guess or a tentative assumption made to test its
 
 ## intercept
 
-**Part of Speech:** *verb* / *noun*  
+**Part of Speech:** *#verb* *#noun*  
 **IPA:** /ˌɪn.təˈsept/  
 **Persian:** قطع کردن، متوقف کردن، پیش‌گیری کردن
 
@@ -5207,7 +5223,7 @@ The verb "intercept" is used when someone or something is stopped or diverted on
 
 ## recipient
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /rɪˈsɪpiənt/  
 **Persian:** دریافت‌کننده، گیرنده
 
@@ -5312,7 +5328,7 @@ The term "recipient" is used to describe someone who receives something that has
 
 ## anticipate
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ænˈtɪsɪpeɪt/  
 **Persian:** پیش‌بینی کردن، انتظار داشتن، پیش‌فکر کردن
 
@@ -5420,12 +5436,11 @@ The term "recipient" is used to describe someone who receives something that has
 
 ## captivate
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /ˈkæptɪveɪt/  
 **Persian:** جذب کردن، شیفته کردن، فریفتن
 
 ---
-
 ### 1. Definition
 
 > To attract and hold the attention or interest of someone in an intense and charming way.  
@@ -5529,7 +5544,7 @@ The term "recipient" is used to describe someone who receives something that has
 
 ## receive
 
-**Part of Speech:** *verb*  
+**Part of Speech:** *#verb*  
 **IPA:** /rɪˈsiːv/  
 **Persian:** دریافت کردن، گرفتن
 
@@ -5637,7 +5652,7 @@ The term "recipient" is used to describe someone who receives something that has
 
 ## capacity
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /kəˈpæsəti/  
 **Persian:** ظرفیت، گنجایش، توان
 
@@ -5745,7 +5760,7 @@ The term "recipient" is used to describe someone who receives something that has
 
 ## captor
 
-**Part of Speech:** *noun*  
+**Part of Speech:** *#noun*  
 **IPA:** /ˈkæptər/  
 **Persian:** اسیرکننده، دستگیرکننده، بازداشت‌کننده
 
@@ -5848,3 +5863,5 @@ A "captor" is someone who seizes or takes another person against their will, usu
 
 **نکته پایانی:**  
 "Captor" واژه‌ای است که برای اشاره به فردی به کار می‌رود که شخصی را به اسارت می‌برد یا بازداشت می‌کند. این واژه بیشتر در زمینه‌های جرم و جنایت یا موقعیت‌های جنگی استفاده می‌شود.
+
+[^1]: 
