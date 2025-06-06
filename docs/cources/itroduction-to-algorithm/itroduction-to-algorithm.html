@@ -2,15 +2,8 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./style/style.css" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css" rel="stylesheet" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js"></script>
-    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <link rel="import" href="../partials/head.html" />
 
-    <script src="https://unpkg.com/htmlincludejs"></script>
-    <script type="text/javascript" src="js.js"></script>
     <script>
         window.addEventListener('load', function () {
             var d = document.getElementById("library");
@@ -94,7 +87,9 @@ code {
 
 <body>
     
-<include src="navbar.html"></include>
+    <!-- Include Navbar -->
+    <include src="../partials/navbar.html"></include>
+    
 <div class="main-con">
       
     <h1>Unlock the Power of <i style="    background-image: linear-gradient(90deg, rgb(255, 182, 182), rgb(171, 171, 250));

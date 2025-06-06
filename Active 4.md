@@ -5865,3 +5865,94 @@ A "captor" is someone who seizes or takes another person against their will, usu
 "Captor" واژه‌ای است که برای اشاره به فردی به کار می‌رود که شخصی را به اسارت می‌برد یا بازداشت می‌کند. این واژه بیشتر در زمینه‌های جرم و جنایت یا موقعیت‌های جنگی استفاده می‌شود.
 
 [^1]: 
+
+# 8.1
+
+## spectacular
+
+**Part of Speech:** #adjective 
+**IPA:** /spɛkˈtækjələr/  
+**Persian:** شگفت‌انگیز، تماشایی، خیره‌کننده
+
+---
+
+### 1. Definition
+
+> Impressive or striking, especially in a dramatic or eye-catching way.  
+> **Persian:** تأثیرگذار یا چشمگیر، به‌ویژه به شکلی دراماتیک یا جذاب.
+
+**Extended Definition:**  
+"Spectacular" describes something that is visually or emotionally striking, often evoking awe, admiration, or excitement. It is commonly used to describe events, performances, views, or displays that are extraordinary or remarkable in their beauty, scale, or impact.  
+
+**Persian Explanation:**  
+"Spectacular" به چیزی گفته می‌شود که از نظر بصری یا احساسی بسیار تأثیرگذار است و اغلب حس شگفتی، تحسین یا هیجان را برمی‌انگیزد. این واژه معمولاً برای توصیف رویدادها، اجراها، مناظر یا نمایش‌هایی به کار می‌رود که به دلیل زیبایی، مقیاس یا تأثیرشان غیرعادی یا قابل‌توجه هستند.
+
+---
+
+### 2. Example Sentences
+
+- The fireworks display was absolutely **spectacular**.  
+  *(نمایش آتش‌بازی کاملاً خیره‌کننده بود.)*
+
+- The mountain range offered a **spectacular** view at sunrise.  
+  *(رشته‌کوه در زمان طلوع خورشید منظره‌ای شگفت‌انگیز داشت.)*
+
+- Her performance in the play was nothing short of **spectacular**.  
+  *(اجرای او در نمایش چیزی کم از تماشایی نبود.)*
+
+---
+
+### 3. Collocations
+
+| Collocation                  | Example | Persian Translation |
+|-----------------------------|---------|----------------------|
+| **spectacular view**        | The hotel offers a spectacular view of the ocean. | منظره خیره‌کننده |
+| **spectacular performance** | The band gave a spectacular performance at the concert. | اجرای شگفت‌انگیز |
+| **spectacular display**     | The festival ended with a spectacular display of lights. | نمایش تماشایی |
+| **spectacular success**     | The movie was a spectacular success at the box office. | موفقیت چشمگیر |
+
+---
+
+### 4. Word Family
+
+| Word            | Part of Speech | Example | Persian Meaning |
+|-----------------|----------------|---------|-----------------|
+| spectacle       | noun           | The parade was a grand spectacle. | نمایش، منظره |
+| spectacularly   | adverb         | The team performed spectacularly in the finals. | به‌صورت خیره‌کننده |
+| spectator       | noun           | Spectators cheered as the race began. | تماشاگر |
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms:**  
+- stunning  
+- magnificent  
+- breathtaking  
+- impressive  
+
+**Antonyms:**  
+- ordinary  
+- dull  
+- unimpressive  
+- plain  
+
+---
+
+### 6. Usage Notes
+
+- "Spectacular" is often used to describe visual or sensory experiences that stand out due to their grandeur or beauty.
+- It carries a positive connotation and is rarely used for negative situations unless emphasizing scale (e.g., "a spectacular failure").
+- The term is versatile and can describe both natural phenomena (e.g., landscapes) and human-made events (e.g., performances).
+
+---
+
+### 7. Common Errors to Avoid
+
+❌ "The show was **spectacularly** good."  
+✅ "The show was **spectacular**." *(Use the adjective form for descriptions, not the adverb)*
+
+❌ "The **spectacular** was amazing."  
+✅ "The **spectacle** was amazing." *(Use "spectacle" as the noun, not "spectacular")*
+
+---
