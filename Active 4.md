@@ -5956,3 +5956,5986 @@ A "captor" is someone who seizes or takes another person against their will, usu
 ✅ "The **spectacle** was amazing." *(Use "spectacle" as the noun, not "spectacular")*
 
 ---
+## hurtling
+
+**Part of Speech:** #verb (present participle of _hurtle_)  
+**IPA:** /ˈhɜːrtlɪŋ/  
+**Persian:** با شتاب حرکت کردن، به‌سرعت پرتاب شدن
+
+---
+
+### 1. Definition
+
+> Moving or causing to move at great speed, often in a seemingly uncontrolled or forceful way.  
+> **Persian:** حرکت کردن (یا حرکت دادن چیزی) با سرعت زیاد، معمولاً به شکلی پرقدرت یا بی‌مهار.
+
+**Extended Definition:**  
+"Hurtling" implies swift, often forceful motion, usually with a sense of danger, lack of control, or intensity. It can describe vehicles, objects, or even people moving at breakneck speed, sometimes unpredictably.
+
+**Persian Explanation:**  
+"Hurtling" به حرکتی بسیار سریع گفته می‌شود که معمولاً همراه با شدت، قدرت یا بی‌مهاری است. این واژه می‌تواند حرکت وسایل نقلیه، اشیاء یا حتی افراد را در حال حرکت پرشتاب و گاه خطرناک توصیف کند.
+
+---
+
+### 2. Example Sentences
+
+- The train came **hurtling** down the track.  
+    _(قطار با شتاب زیاد در امتداد ریل حرکت کرد.)_
+    
+- A rock came **hurtling** through the air towards us.  
+    _(یک سنگ با سرعت زیاد به سمت ما پرتاب شد.)_
+    
+- She was **hurtling** down the slope on her snowboard.  
+    _(او با اسنوبورد از سراشیبی با شتاب پایین می‌آمد.)_
+    
+
+---
+
+### 3. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**hurtling down**|The car went hurtling down the hill.|پایین آمدن با شتاب|
+|**hurtling towards**|An asteroid was hurtling towards Earth.|به سمت چیزی شتاب گرفتن|
+|**hurtling along**|The bus came hurtling along the road.|با سرعت در امتداد مسیر حرکت کردن|
+
+---
+
+### 4. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- speeding (شتاب‌گرفتن)
+    
+- racing (با سرعت رفتن)
+    
+- rushing (به‌سرعت رفتن)
+    
+- zooming (با سرعت عبور کردن)
+    
+- streaking (خیلی سریع عبور کردن)
+    
+
+**Antonyms (متضادها):**
+
+- crawling (خزیدن / خیلی آهسته رفتن)
+    
+- plodding (آهسته و سنگین حرکت کردن)
+    
+- lingering (درنگ کردن / به‌کُندی ماندن)
+    
+- strolling (آرام راه رفتن)
+    
+## surge
+
+**Part of Speech:** #noun / #verb  
+**IPA:** /sɜːrdʒ/  
+**Persian:** خیز، موج؛ جهش ناگهانی، به‌سرعت زیاد شدن
+
+---
+
+### 1. Definition
+
+> A sudden and powerful forward or upward movement; a strong, fast increase.  
+> **Persian:** حرکت یا افزایش ناگهانی و پرقدرت، معمولاً به شکل موج یا جهش.
+
+**Extended Definition:**  
+As a **noun**, "surge" refers to a sudden strong movement (of people, water, electricity, emotion, etc.) or a sharp rise (in prices, demand, power).  
+As a **verb**, "to surge" means to move forward quickly and powerfully or to increase suddenly and sharply.
+
+**Persian Explanation:**  
+به‌عنوان اسم، "surge" یعنی حرکت یا افزایش ناگهانی (مثل موج دریا، افزایش ناگهانی برق یا جمعیت). به‌عنوان فعل، به معنی "به‌سرعت و با قدرت حرکت کردن" یا "ناگهان زیاد شدن" است.
+
+---
+
+### 2. Example Sentences
+
+- A **surge** of anger rose inside him.  
+    _(موجی از خشم در درونش برخاست.)_
+    
+- There has been a **surge** in demand for electric cars.  
+    _(افزایش ناگهانی در تقاضا برای خودروهای برقی وجود داشته است.)_
+    
+- The crowd **surged** forward when the gates opened.  
+    _(جمعیت وقتی دروازه‌ها باز شد با شتاب به جلو حرکت کرد.)_
+    
+
+---
+
+### 3. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**surge in demand**|A surge in demand for housing.|افزایش ناگهانی تقاضا|
+|**power surge**|The computer was damaged by a power surge.|نوسان/افزایش ناگهانی برق|
+|**surge forward**|The soldiers surged forward.|به جلو هجوم آوردن|
+|**surge of emotion**|She felt a surge of relief.|موجی از احساس|
+
+---
+
+### 4. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- rush (هجوم)
+    
+- wave (موج)
+    
+- escalation (افزایش)
+    
+- boost (افزایش ناگهانی)
+    
+- upsurge (افزایش شدید)
+    
+
+**Antonyms (متضادها):**
+
+- decline (کاهش)
+    
+- decrease (کم‌شدن)
+    
+- drop (افت)
+    
+- plunge (سقوط)
+    
+- stagnation (رکود)
+    
+---
+## disrupting
+
+**Part of Speech:** #verb (present participle of _disrupt_)  
+**IPA:** /dɪsˈrʌptɪŋ/  
+**Persian:** مختل‌کردن، برهم‌زدن
+
+---
+
+### 1. Definition
+
+> Causing something to be interrupted, disturbed, or thrown into disorder.  
+> **Persian:** باعث وقفه، آشفتگی یا اختلال در روند طبیعی چیزی شدن.
+
+**Extended Definition:**  
+As a **verb**, "disrupting" refers to actively causing disturbance or preventing a system, process, event, or situation from continuing normally. It often implies sudden and forceful interference.  
+In a **business/technology context**, "disrupting" is also used positively to describe innovations that significantly change or revolutionize industries.
+
+**Persian Explanation:**  
+"Disrupting" یعنی ایجاد اختلال یا برهم‌زدن یک جریان عادی. می‌تواند هم منفی (مثل اختلال در کلاس یا شبکه) و هم مثبت (مثل یک نوآوری که بازار را متحول می‌کند) باشد.
+
+---
+
+### 2. Example Sentences
+
+- The protestors were **disrupting** the traffic.  
+    _(معترضان در حال مختل‌کردن ترافیک بودند.)_
+    
+- A new startup is **disrupting** the traditional taxi industry.  
+    _(یک استارتاپ جدید صنعت سنتی تاکسی‌رانی را متحول می‌کند.)_
+    
+- The loud noise kept **disrupting** my concentration.  
+    _(صدای بلند مدام تمرکزم را به‌هم می‌زد.)_
+    
+
+---
+
+### 3. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**disrupting traffic**|The accident is disrupting traffic downtown.|مختل کردن ترافیک|
+|**disrupting class**|The student was disrupting class by shouting.|برهم زدن کلاس|
+|**disrupting business**|Digital platforms are disrupting business models.|متحول کردن مدل‌های کسب‌وکار|
+|**disrupting communication**|The storm is disrupting communication lines.|ایجاد اختلال در ارتباطات|
+
+---
+
+### 4. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- disturbing (برهم‌زننده)
+    
+- interrupting (وقفه ایجادکردن)
+    
+- interfering (مداخله‌کردن)
+    
+- unsettling (آشفته‌کردن)
+    
+- revolutionizing (دگرگون‌کردن، در کاربرد مثبت)
+    
+
+**Antonyms (متضادها):**
+
+- maintaining (حفظ‌کردن)
+    
+- supporting (پشتیبانی‌کردن)
+    
+- stabilizing (ثبات‌بخشیدن)
+    
+- continuing (ادامه‌دادن)
+    
+- preserving (نگه‌داشتن)
+    
+
+---
+## entangled
+
+**Part of Speech:** #adjective / #verb (past participle of _entangle_)  
+**IPA:** /ɪnˈtæŋɡəld/  
+**Persian:** گرفتار، درگیر، گره‌خورده
+
+---
+
+### 1. Definition
+
+> Caught or twisted together in a complicated way; involved in a difficult or confusing situation.  
+> **Persian:** درهم‌پیچیده یا گره‌خورده؛ گرفتار شدن در وضعیتی پیچیده یا دشوار.
+
+**Extended Definition:**  
+As an **adjective**, "entangled" describes something physically twisted or knotted together, like ropes or wires. Figuratively, it refers to being deeply involved in a complicated situation, relationship, or problem.  
+As a **verb** (past participle), it means "to have been caught, trapped, or involved in something complicated."
+
+**Persian Explanation:**  
+"Entangled" هم می‌تواند معنای فیزیکی داشته باشد (گره‌خوردن طناب، مو یا شاخه‌ها) و هم معنای استعاری (گرفتارشدن در مشکلات، درگیری‌ها یا روابط پیچیده).
+
+---
+
+### 2. Example Sentences
+
+- The dolphin was found **entangled** in a fishing net.  
+    _(دلفین در یک تور ماهیگیری گرفتار شده بود.)_
+    
+- She became **entangled** in a web of lies.  
+    _(او در شبکه‌ای از دروغ‌ها گرفتار شد.)_
+    
+- His feet got **entangled** in the rope.  
+    _(پاهایش در طناب گیر کرد.)_
+    
+
+---
+
+### 3. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**entangled in/with**|He got entangled in a legal dispute.|گرفتار شدن در دعوای حقوقی|
+|**entangled relationship**|They were in an entangled relationship.|رابطه پیچیده و درهم|
+|**entangled wires/ropes**|The cables are all entangled under the desk.|سیم‌ها همه درهم‌پیچیده‌اند|
+|**entangled web**|She was entangled in a web of corruption.|گرفتار در شبکه‌ای از فساد|
+
+---
+
+### 4. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- twisted (گره‌خورده)
+    
+- knotted (گره‌خورده)
+    
+- ensnared (به دام افتاده)
+    
+- trapped (گرفتار)
+    
+- embroiled (درگیر)
+    
+
+**Antonyms (متضادها):**
+
+- free (آزاد)
+    
+- untangled (گره‌گشوده)
+    
+- released (رهاشده)
+    
+- clear (بی‌دردسر، رها)
+    
+- disengaged (غیر درگیر)
+    
+
+---
+## squashed
+
+**Part of Speech:** #adjective / #verb (past participle of _squash_)  
+**IPA:** /skwɑːʃt/  
+**Persian:** له‌شده، فشرده؛ خرد و متراکم
+
+---
+
+### 1. Definition
+
+> Pressed or crushed into a flat or compact state; made smaller or deformed by pressure.  
+> **Persian:** چیزی که تحت فشار له یا فشرده شده باشد؛ کوچک یا تغییر شکل‌یافته به‌واسطه فشار.
+
+**Extended Definition:**  
+As an **adjective**, "squashed" describes something physically flattened, compressed, or deformed (like fruit, clothes, or bugs). Figuratively, it can describe people or feelings being suppressed, restricted, or cramped (e.g., being squashed in a crowd).  
+As a **verb (past participle)**, it means "to have been pressed, crushed, or forced into a smaller or confined space."
+
+**Persian Explanation:**  
+"Squashed" هم می‌تواند معنای فیزیکی داشته باشد (مثلاً میوه‌ای که له شده) و هم معنای استعاری (مثلاً احساس خفه‌شدن در جمعیت یا سرکوب شدن احساسات).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** توصیف اشیاء یا موجوداتی که تحت فشار له یا فشرده می‌شوند.
+    
+- **Figurative sense (کاربرد استعاری):** توصیف شرایطی که فرد محدود، سرکوب یا تحت فشار اجتماعی/روحی قرار دارد.
+    
+
+---
+
+### 3. Example Sentences
+
+- The sandwich got **squashed** in my bag.  
+    _(ساندویچ داخل کیفم له شد.)_
+    
+- We were all **squashed** together on the bus.  
+    _(همه‌مان در اتوبوس به‌هم فشرده شده بودیم.)_
+    
+- His idea was quickly **squashed** by the manager.  
+    _(ایده‌اش به‌سرعت توسط مدیر سرکوب شد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**squashed fruit**|The squashed strawberries stained the box.|میوه له‌شده|
+|**squashed together**|They were squashed together in the tiny car.|به‌هم فشرده‌شدن|
+|**squashed bug/insect**|I found a squashed bug on the floor.|حشره له‌شده|
+|**squashed idea/plan**|Their proposal was squashed by the board.|ایده/برنامه سرکوب‌شده|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- crushed (له‌شده)
+    
+- flattened (مسطح‌شده)
+    
+- compressed (فشرده‌شده)
+    
+- cramped (تنگ و فشرده)
+    
+- suppressed (سرکوب‌شده)
+    
+
+**Antonyms (متضادها):**
+
+- expanded (گسترده)
+    
+- inflated (بادشده، بزرگ‌شده)
+    
+- free (آزاد)
+    
+- spacious (وسیع، جادار)
+    
+- encouraged (تشویق‌شده، در معنای استعاری)
+    
+---
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها "squashed" رو فقط برای میوه یا غذا به کار می‌برن، درحالی‌که در مورد **آدم‌ها** (مثلاً توی اتوبوس یا آسانسور شلوغ) هم کاربرد داره.
+    
+- ❌ گاهی با "squeeze" قاطی میشه؛ _squash_ بیشتر معنای **له و خراب کردن** رو میده، ولی _squeeze_ معنای **فشردن کنترل‌شده** داره.
+    
+- ❌ "squash" رو با ورزش "squash" (ورزش راکتی) اشتباه می‌گیرن. اینجا معنای فعل و صفت کاملاً متفاوته.
+    
+
+---
+## deployed
+
+**Part of Speech:** #verb (past tense & past participle of _deploy_) / #adjective  
+**IPA:** /dɪˈplɔɪd/  
+**Persian:** مستقرشده، به‌کارگرفته‌شده، اعزام‌شده
+
+---
+
+### 1. Definition
+
+> To have been moved into position for use or action; arranged or utilized effectively.  
+> **Persian:** به‌کار گرفته‌شده یا مستقرشده برای استفاده یا انجام مأموریت.
+
+**Extended Definition:**  
+As a **verb (past participle)**, _deployed_ refers to troops, resources, technology, or strategies that have been sent out, positioned, or put into operation.  
+As an **adjective**, it describes something already placed, arranged, or activated in a functional position.
+
+**Persian Explanation:**  
+"Deployed" هم به معنای فیزیکی (مثل اعزام نیروهای نظامی یا استقرار تجهیزات) و هم به معنای استعاری (مثل استفاده از مهارت‌ها یا به‌کارگیری نرم‌افزار) کاربرد دارد.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** اعزام نیرو، استقرار تجهیزات یا سیستم‌ها در یک مکان واقعی.
+    
+- **Figurative sense (کاربرد استعاری):** به‌کارگیری یک استراتژی، نرم‌افزار، یا حتی استعداد و منابع در یک موقعیت خاص.
+    
+
+---
+
+### 3. Example Sentences
+
+- Thousands of soldiers were **deployed** along the border.  
+    _(هزاران سرباز در امتداد مرز مستقر شدند.)_
+    
+- The new software has been successfully **deployed** across the company.  
+    _(نرم‌افزار جدید با موفقیت در سراسر شرکت به‌کار گرفته شده است.)_
+    
+- He **deployed** his negotiation skills to resolve the conflict.  
+    _(او مهارت‌های مذاکره‌اش را برای حل اختلاف به‌کار گرفت.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**deployed troops**|Deployed troops secured the area.|نیروهای مستقر|
+|**deployed forces**|The country deployed forces overseas.|نیروهای اعزام‌شده|
+|**deployed system/software**|The deployed system is now running.|سیستم/نرم‌افزار مستقرشده|
+|**deployed resources**|Resources were deployed efficiently.|منابع به‌کارگرفته‌شده|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- stationed (مستقرشده)
+    
+- positioned (مکان‌یابی‌شده)
+    
+- utilized (به‌کاررفته)
+    
+- activated (فعال‌شده)
+    
+- dispatched (اعزام‌شده)
+    
+
+**Antonyms (متضادها):**
+
+- withdrawn (پس‌گرفته‌شده)
+    
+- withheld (نگه‌داشته‌شده)
+    
+- inactive (غیرفعال)
+    
+- unused (استفاده‌نشده)
+    
+- retired (کنار گذاشته‌شده)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ خیلی‌ها فکر می‌کنن _deploy_ فقط نظامی هست، درحالی‌که در **IT و بیزنس** هم زیاد استفاده میشه (مثلاً _deploy an app_).
+    
+- ❌ بعضی زبان‌آموزها به‌جای _deploy_ از _install_ استفاده می‌کنن؛ _install_ فقط نصب فنی رو میگه، ولی _deploy_ یعنی "به‌کار انداختن و فعال‌کردن".
+    
+- ❌ گاهی با _employ_ قاطی میشه؛ _employ_ یعنی "استخدام یا استفاده کردن"، درحالی‌که _deploy_ تأکیدش روی **مستقر کردن برای عملکرد مشخص** هست.
+    
+
+---
+## diverted
+
+**Part of Speech:** #verb (past tense & past participle of _divert_) / #adjective  
+**IPA:** /daɪˈvɜːrtɪd/  
+**Persian:** منحرف‌شده، تغییر مسیر داده‌شده، منحرف‌کرده
+
+---
+
+### 1. Definition
+
+> To have been turned aside from a course, path, or direction; to cause something to change from its intended use or route.  
+> **Persian:** تغییر مسیر دادن یا منحرف‌کردن چیزی از مسیر یا هدف اصلی‌اش.
+
+**Extended Definition:**  
+As a **verb (past participle)**, _diverted_ means something (traffic, attention, funds, etc.) has been redirected from its original path or purpose.  
+As an **adjective**, it describes something that has already been rerouted or shifted.
+
+**Persian Explanation:**  
+"Diverted" می‌تواند در معنای فیزیکی (مثل تغییر مسیر جاده یا پرواز) و معنای استعاری (مثل منحرف‌کردن توجه، سرمایه یا انرژی) به‌کار برود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** تغییر مسیر وسایل نقلیه، پروازها، رودخانه‌ها یا جریان‌ها.
+    
+- **Figurative sense (کاربرد استعاری):** منحرف‌کردن توجه، منابع، یا افکار از مسیر اصلی.
+    
+
+---
+
+### 3. Example Sentences
+
+- The flight was **diverted** to another airport due to bad weather.  
+    _(به دلیل هوای بد، پرواز به فرودگاه دیگری تغییر مسیر داد.)_
+    
+- Traffic was **diverted** because of road construction.  
+    _(به‌دلیل ساخت‌وساز جاده، ترافیک تغییر مسیر داده شد.)_
+    
+- Funds meant for education were **diverted** to military spending.  
+    _(بودجه‌ای که برای آموزش در نظر گرفته شده بود، به هزینه‌های نظامی منحرف شد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**diverted flight**|The diverted flight landed safely.|پرواز تغییرمسیر داده‌شده|
+|**diverted traffic**|Diverted traffic caused delays.|ترافیک منحرف‌شده|
+|**diverted funds/resources**|Diverted funds went into another project.|منابع/بودجه منحرف‌شده|
+|**diverted attention**|His joke diverted attention from the issue.|توجه منحرف‌شده|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- rerouted (تغییرمسیر داده‌شده)
+    
+- redirected (بازمسیر‌دهی‌شده)
+    
+- sidetracked (منحرف‌شده)
+    
+- shifted (جابجا شده)
+    
+- deflected (منحرف‌شده)
+    
+
+**Antonyms (متضادها):**
+
+- focused (متمرکز)
+    
+- guided (هدایت‌شده در مسیر درست)
+    
+- straightened (مستقیم‌شده)
+    
+- continued (ادامه‌یافته در مسیر اصلی)
+    
+- aligned (هم‌راستا)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها _diverted_ رو فقط برای **جاده و پرواز** استفاده می‌کنن؛ در حالی که میشه برای **بودجه، توجه یا انرژی ذهنی** هم به کار برد.
+    
+- ❌ گاهی با _converted_ اشتباه گرفته میشه؛ _convert_ یعنی "تبدیل‌کردن" (مثلاً تبدیل ارز)، در حالی که _divert_ یعنی "تغییر مسیر دادن".
+    
+- ❌ بعضی زبان‌آموزها فکر می‌کنن همیشه معنای منفی داره؛ در حالی که _diverted attention_ می‌تونه حتی مثبت هم باشه (مثلاً برای پرت‌کردن حواس کسی از درد).
+    
+
+---
+## catastrophic
+
+**Part of Speech:** #adjective  
+**IPA:** /ˌkætəˈstrɒfɪk/  
+**Persian:** فاجعه‌آمیز، مصیبت‌بار
+
+---
+
+### 1. Definition
+
+> Extremely harmful, disastrous, or causing sudden and great damage.  
+> **Persian:** بسیار زیان‌بار و ویرانگر، موجب خرابی و نابودی گسترده.
+
+**Extended Definition:**  
+"Catastrophic" describes something that results in terrible consequences, large-scale destruction, or a disastrous outcome. It can be used literally (e.g., catastrophic earthquake) or figuratively (e.g., catastrophic mistake in business).
+
+**Persian Explanation:**  
+"Catastrophic" برای اتفاقات یا شرایطی به‌کار می‌رود که پیامدهای سنگین و فاجعه‌باری دارند. این واژه هم برای بلایای طبیعی (زلزله، سیل) و هم برای شرایط انسانی یا اقتصادی (اشتباهات، شکست‌ها) استفاده می‌شود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** توصیف فجایع طبیعی یا بلایای واقعی (مثلاً زلزله، آتش‌سوزی).
+    
+- **Figurative sense (کاربرد استعاری):** توصیف پیامدهای بسیار بد در موقعیت‌های غیرطبیعی (مثلاً تصمیمات اقتصادی یا اشتباهات مدیریتی).
+    
+
+---
+
+### 3. Example Sentences
+
+- The earthquake caused **catastrophic** damage to the city.  
+    _(زلزله خسارت فاجعه‌آمیزی به شهر وارد کرد.)_
+    
+- His decision had **catastrophic** consequences for the company.  
+    _(تصمیم او پیامدهای مصیبت‌بار برای شرکت داشت.)_
+    
+- The failure of the dam would be **catastrophic** for nearby villages.  
+    _(شکست سد برای روستاهای اطراف فاجعه‌آمیز خواهد بود.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**catastrophic event**|The war was a catastrophic event.|رویداد فاجعه‌آمیز|
+|**catastrophic failure**|A catastrophic failure in the system caused a blackout.|خرابی مصیبت‌بار|
+|**catastrophic damage**|The storm left catastrophic damage behind.|خسارت فاجعه‌آمیز|
+|**catastrophic consequences**|The project delay had catastrophic consequences.|پیامدهای فاجعه‌آمیز|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- disastrous (ویرانگر)
+    
+- devastating (ویران‌کننده)
+    
+- ruinous (نابودکننده)
+    
+- calamitous (مصیبت‌بار)
+    
+- tragic (تراژیک، غم‌انگیز)
+    
+
+**Antonyms (متضادها):**
+
+- fortunate (خوشایند، خوش‌شانس)
+    
+- beneficial (سودمند)
+    
+- favorable (مطلوب)
+    
+- positive (مثبت)
+    
+- harmless (بی‌خطر)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _catastrophic_ رو فقط برای **زلزله یا بلایای طبیعی** به‌کار می‌برن؛ در حالی که برای **اشتباهات انسانی یا اقتصادی** هم به کار میره.
+    
+- ❌ گاهی با _catatonic_ اشتباه گرفته میشه (که ربط به حالت پزشکی بی‌حرکتی و شوک داره).
+    
+- ❌ بعضی‌ها فکر می‌کنن همیشه بار احساسی اغراق‌آمیز داره؛ اما در زبان رسمی علمی (مثل مهندسی یا پزشکی) هم به معنای **failure of extreme severity** استفاده میشه.
+    
+
+---
+## mere
+
+**Part of Speech:** #adjective / #noun (rare, literary)  
+**IPA:** /mɪr/  
+**Persian:** صرفاً، فقط؛ محض
+
+---
+
+### 1. Definition
+
+> Used to emphasize how small, unimportant, or insignificant something or someone is.  
+> **Persian:** تنها برای تأکید بر کوچکی یا بی‌اهمیت بودن چیزی به‌کار می‌رود.
+
+**Extended Definition:**  
+As an **adjective**, _mere_ highlights the simplicity, insignificance, or "nothing more than" quality of something — often to minimize its importance.  
+As a **noun** (rare, literary), it means a lake or a pond, but this use is uncommon in modern English.
+
+**Persian Explanation:**  
+"mere" معمولاً به‌صورت صفت برای بیان «فقط» یا «محض» به کار می‌رود، برای نشان‌دادن اینکه چیزی کوچک‌تر یا بی‌اهمیت‌تر از آن است که تصور می‌شود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** به‌ندرت به‌عنوان اسم در متون قدیمی به معنای "دریاچه یا تالاب کوچک".
+    
+- **Figurative sense (کاربرد استعاری):** برای کم‌اهمیت جلوه دادن چیزی: _a mere child_ (فقط یک بچه)، _a mere detail_ (یک جزئیات بی‌اهمیت).
+    
+
+---
+
+### 3. Example Sentences
+
+- It cost a **mere** five dollars.  
+    _(این فقط پنج دلار هزینه داشت.)_
+    
+- He’s a **mere** child, don’t expect too much from him.  
+    _(او تنها یک کودک است، انتظار زیادی از او نداشته باش.)_
+    
+- The suggestion was dismissed as a **mere** detail.  
+    _(آن پیشنهاد به‌عنوان یک جزئیات بی‌اهمیت رد شد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**a mere child**|She was a mere child when she wrote her first poem.|تنها یک کودک|
+|**a mere detail**|That’s a mere detail, don’t worry.|فقط یک جزئیات|
+|**a mere formality**|The interview was a mere formality.|صرفاً یک تشریفات|
+|**mere coincidence**|It was a mere coincidence.|تنها یک تصادف/اتفاق|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- only (فقط)
+    
+- just (تنها)
+    
+- trivial (جزئی، بی‌اهمیت)
+    
+- insignificant (بی‌اهمیت)
+    
+- negligible (قابل صرف‌نظر کردن)
+    
+
+**Antonyms (متضادها):**
+
+- significant (مهم)
+    
+- substantial (قابل‌توجه)
+    
+- considerable (بزرگ/قابل‌توجه)
+    
+- important (مهم)
+    
+- major (اصلی)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _mere_ رو همیشه مثل _only_ استفاده می‌کنن؛ در حالی که _mere_ بار **کم‌اهمیت و کوچک جلوه دادن** داره، اما _only_ فقط محدودکردن رو نشون میده.
+    
+- ❌ بعضی‌ها _mere_ رو با _sheer_ اشتباه می‌گیرن؛ _sheer_ برای تأکید مثبت (مثل sheer beauty = زیبایی خالص) و _mere_ برای کوچک‌کردن اهمیت چیزی استفاده میشه.
+    
+- ❌ گاهی فکر می‌کنن همیشه منفی است؛ اما می‌تونه خنثی باشه، فقط برای تأکید بر «محض بودن».
+    
+
+---
+
+### 7. Register
+
+- **Formal/Literary:** بیشتر در نوشتار رسمی، ادبی یا گفتار تأکیدی استفاده می‌شود.
+    
+- **Everyday Speech:** رایج در مکالمه روزمره هم هست (مثلاً _a mere five minutes_).
+    
+- **Obsolete/Literary (Noun):** به معنای "دریاچه کوچک" تقریباً فقط در متون قدیمی یا شعر دیده می‌شود.
+    
+
+---
+## abrupt
+
+**Part of Speech:** #adjective  
+**IPA:** /əˈbrʌpt/  
+**Persian:** ناگهانی، غیرمنتظره، بی‌مقدمه
+
+---
+
+### 1. Definition
+
+> Sudden and unexpected, often in a way that is unpleasant or disconcerting.  
+> **Persian:** رخداد یا تغییری که به‌طور ناگهانی و غیرمنتظره اتفاق می‌افتد، معمولاً به شکلی ناخوشایند.
+
+**Extended Definition:**  
+"abrupt" describes something that happens quickly without warning or preparation. It can refer to physical changes (an abrupt stop), conversational tone (an abrupt reply), or events (an abrupt end).
+
+**Persian Explanation:**  
+"abrupt" برای توصیف تغییرات ناگهانی، واکنش‌های بی‌مقدمه یا پایان‌های غیرمنتظره به کار می‌رود و معمولاً بار منفی دارد.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** توقف یا تغییر ناگهانی در حرکت، شرایط یا موقعیت.
+    
+- **Figurative sense (کاربرد استعاری):** رفتار یا گفتار ناگهانی، قطع‌کردن بی‌مقدمه یا تغییری غیرمنتظره در وضعیت.
+    
+
+---
+
+### 3. Example Sentences
+
+- The car came to an **abrupt** stop.  
+    _(ماشین به‌طور ناگهانی ایستاد.)_
+    
+- His **abrupt** departure surprised everyone.  
+    _(رفتار ناگهانی او همه را شگفت‌زده کرد.)_
+    
+- She was offended by his **abrupt** reply.  
+    _(او از جواب بی‌مقدمه‌اش ناراحت شد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**abrupt change**|The country faced an abrupt change in leadership.|تغییر ناگهانی|
+|**abrupt end**|The meeting came to an abrupt end.|پایان ناگهانی|
+|**abrupt stop**|The elevator came to an abrupt stop.|توقف ناگهانی|
+|**abrupt manner**|He spoke in an abrupt manner.|رفتار بی‌مقدمه|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- sudden (ناگهانی)
+    
+- unexpected (غیرمنتظره)
+    
+- hasty (شتاب‌زده)
+    
+- curt (بی‌مقدمه، کوتاه)
+    
+- sharp (تیز، ناگهانی)
+    
+
+**Antonyms (متضادها):**
+
+- gradual (تدریجی)
+    
+- smooth (آرام، بدون وقفه)
+    
+- polite (مودبانه)
+    
+- expected (منتظره)
+    
+- gentle (ملایم)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها _abrupt_ رو همیشه مثبت برداشت می‌کنن، در حالی که معمولاً بار **منفی یا ناخوشایند** داره.
+    
+- ❌ گاهی با _sudden_ قاطی میشه؛ _sudden_ خنثی‌تره ولی _abrupt_ معمولاً همراه با **ناراحتی یا بی‌ادبی** هست.
+    
+- ❌ بعضی زبان‌آموزها فکر می‌کنن فقط برای رفتار آدم‌هاست؛ در حالی که برای تغییرات، توقف‌ها و پایان‌ها هم به‌کار میره.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** در متون رسمی و روزمره استفاده می‌شود.
+    
+- **Negative Connotation:** اغلب در بافت‌های منفی (مثل abrupt end, abrupt reply).
+    
+- **Not Slang:** واژه‌ای محاوره‌ای یا غیررسمی نیست.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **abrupt vs. sudden:** هر دو به معنی ناگهانی‌اند، ولی _abrupt_ بیشتر بار منفی یا ناخوشایند دارد (مثل abrupt ending)، در حالی که _sudden_ می‌تواند خنثی یا حتی مثبت باشد (مثل sudden success).
+    
+- **abrupt vs. curt:** _curt_ بیشتر درباره **رفتار یا پاسخ کوتاه و بی‌ادبانه** به‌کار می‌رود، اما _abrupt_ هم برای رفتار و هم برای تغییرات ناگهانی در شرایط.
+    
+- **abrupt vs. unexpected:** _unexpected_ یعنی چیزی که پیش‌بینی نمی‌شد، در حالی که _abrupt_ علاوه‌بر غیرمنتظره بودن، حس **شدت و ناگهانی بودن** رو هم منتقل می‌کنه.
+    
+
+---
+## erupt
+
+**Part of Speech:** #verb  
+**IPA:** /ɪˈrʌpt/  
+**Persian:** فوران کردن، منفجر شدن، بروز کردن
+
+---
+
+### 1. Definition
+
+> To burst out suddenly and violently, often with force or emotion.  
+> **Persian:** ناگهان و با شدت بیرون‌زدن یا منفجرشدن (در معنای فیزیکی یا استعاری).
+
+**Extended Definition:**  
+_Erupt_ can describe **natural events** (like a volcano erupting), **sudden violent actions** (a crowd erupting in anger), or **emotional outbursts** (erupting in laughter). It often conveys a sense of energy, force, and lack of control.
+
+**Persian Explanation:**  
+"erupt" به معنی فوران یا انفجار ناگهانی است. می‌تواند به وقایع طبیعی مثل آتشفشان اشاره کند یا به صورت استعاری برای احساسات، خشم یا خنده‌ی ناگهانی به کار برود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** فوران آتشفشان، جوشش مواد مذاب، یا انفجار.
+    
+- **Figurative sense (کاربرد استعاری):** بروز ناگهانی احساسات، خشونت یا خنده.
+    
+
+---
+
+### 3. Example Sentences
+
+- The volcano **erupted** after lying dormant for years.  
+    _(آتشفشان پس از سال‌ها خاموشی فوران کرد.)_
+    
+- The crowd **erupted** in cheers when the team scored.  
+    _(وقتی تیم گل زد جمعیت ناگهان به شور و شوق افتاد.)_
+    
+- She suddenly **erupted** in anger.  
+    _(او ناگهان از شدت خشم منفجر شد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**volcano erupts**|The volcano erupted violently.|آتشفشان فوران می‌کند|
+|**violence erupted**|Violence erupted after the protest.|خشونت بروز کرد|
+|**laughter erupted**|Laughter erupted in the hall.|خنده ناگهان بلند شد|
+|**conflict erupted**|A conflict erupted between the two groups.|درگیری بروز کرد|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- explode (منفجرشدن)
+    
+- burst out (ناگهان بیرون‌زدن)
+    
+- break out (شروع ناگهانی)
+    
+- gush (فوران‌کردن)
+    
+- flare up (شعله‌ور شدن، بروز کردن)
+    
+
+**Antonyms (متضادها):**
+
+- subside (فروکش کردن)
+    
+- calm down (آرام‌شدن)
+    
+- quieten (ساکت‌شدن)
+    
+- extinguish (خاموش‌کردن)
+    
+- repress (سرکوب‌کردن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها فکر می‌کنن _erupt_ فقط برای آتشفشان به کار میره؛ در حالی که برای احساسات، خشونت و خنده هم رایجه.
+    
+- ❌ گاهی با _interrupt_ اشتباه گرفته میشه؛ _interrupt_ یعنی قطع‌کردن صحبت یا جریان، در حالی که _erupt_ یعنی ناگهان با شدت بیرون‌زدن.
+    
+- ❌ بعضی‌ها تصور می‌کنن همیشه بار منفی داره، اما می‌تونه مثبت هم باشه (مثلاً laughter erupted = خنده بلند شد).
+    
+
+---
+
+### 7. Register
+
+- **Neutral/Formal:** در متون رسمی و علمی (آتشفشان، رویدادهای طبیعی).
+    
+- **Everyday/Emotional:** در مکالمات روزمره برای احساسات و واکنش‌ها.
+    
+- **Scientific:** در زمین‌شناسی و پزشکی (skin eruptions = جوش پوستی).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **erupt vs. explode:** هر دو ناگهانی و شدیدند، اما _erupt_ معمولاً با خروج مواد (lava, feelings) همراهه، در حالی که _explode_ بیشتر به انفجار فیزیکی مربوطه.
+    
+- **erupt vs. break out:** _break out_ برای شروع ناگهانی یک رویداد (جنگ، آتش‌سوزی) به‌کار میره؛ _erupt_ تأکید بیشتری بر فوران و شدت داره.
+    
+- **erupt vs. burst:** _burst_ یعنی ترکیدن یا شکستن چیزی از درون؛ _erupt_ بیشتر برای فوران گسترده یا جمعی.
+    
+
+---
+
+### 9. Word Family
+
+- **eruption (n.)** → فوران، بروز (e.g., volcanic eruption)
+    
+- **eruptive (adj.)** → فورانی، انفجاری (e.g., eruptive activity)
+    
+- **erupting (present participle)** → در حال فوران
+    
+- **erupted (past participle)** → فوران کرده
+    
+
+---
+## bankrupt
+
+**Part of Speech:** #adjective / #noun / #verb  
+**IPA:** /ˈbæŋkrʌpt/  
+**Persian:** ورشکسته، ورشکسته‌شده؛ فرد ورشکسته؛ به ورشکستگی کشاندن
+
+---
+
+### 1. Definition
+
+> Legally declared unable to pay debts; lacking in financial resources, or figuratively, lacking in a particular quality.  
+> **Persian:** از نظر قانونی یا مالی ناتوان در پرداخت بدهی‌ها؛ یا به‌طور استعاری، فاقد یک ویژگی مهم.
+
+**Extended Definition:**
+
+- As an **adjective**, _bankrupt_ means financially ruined and legally insolvent. Figuratively, it may describe a lack of values, morals, or ideas (_morally bankrupt_).
+    
+- As a **noun**, it refers to a person or organization that has been declared insolvent.
+    
+- As a **verb**, it means to cause someone or something to become financially ruined.
+    
+
+**Persian Explanation:**  
+"Bankrupt" می‌تواند به معنای واقعی مالی (ورشکسته‌شدن شرکت یا فرد) و یا به‌صورت استعاری (فقدان اخلاق، ارزش یا ایده) به کار رود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** وضعیت قانونی/مالی یک فرد یا شرکت که توان پرداخت بدهی‌ها را ندارد.
+    
+- **Figurative sense (کاربرد استعاری):** فقدان یک ویژگی یا ارزش مهم (مثل _morally bankrupt_ = از نظر اخلاقی ورشکسته).
+    
+
+---
+
+### 3. Example Sentences
+
+- The company went **bankrupt** after years of poor management.  
+    _(شرکت پس از سال‌ها مدیریت ضعیف ورشکسته شد.)_
+    
+- He was declared a **bankrupt** by the court.  
+    _(او توسط دادگاه ورشکسته اعلام شد.)_
+    
+- The scandal nearly **bankrupted** the organization.  
+    _(آن رسوایی تقریباً سازمان را ورشکسته کرد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**declare bankrupt**|The court declared him bankrupt.|ورشکسته اعلام‌کردن|
+|**morally bankrupt**|The dictator was morally bankrupt.|از نظر اخلاقی ورشکسته|
+|**file for bankruptcy**|The store filed for bankruptcy.|درخواست ورشکستگی دادن|
+|**bankrupt company**|Many bankrupt companies closed down.|شرکت ورشکسته|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- insolvent (ورشکسته، ناتوان در پرداخت بدهی)
+    
+- ruined (ویران‌شده، نابودشده)
+    
+- broke (بی‌پول) [informal]
+    
+- depleted (تهی‌شده)
+    
+- impoverished (فقیرشده)
+    
+
+**Antonyms (متضادها):**
+
+- solvent (دارای توان پرداخت بدهی)
+    
+- wealthy (ثروتمند)
+    
+- prosperous (موفق و پررونق)
+    
+- affluent (مرفه)
+    
+- rich (ثروتمند)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها فکر می‌کنن _bankrupt_ فقط اسم هست؛ در حالی که هم صفت، هم اسم و هم فعل به‌کار میره.
+    
+- ❌ _bankrupt_ رو گاهی با _broke_ یکی می‌گیرن؛ _broke_ محاوره‌ایه و به معنای بی‌پول بودن موقتی، ولی _bankrupt_ معنای قانونی و جدی داره.
+    
+- ❌ بعضی‌ها تصور می‌کنن فقط برای اشخاصه؛ در حالی که شرکت‌ها و سازمان‌ها هم ورشکسته میشن.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Legal:** در بافت‌های حقوقی و مالی (bankruptcy law).
+    
+- **Informal:** گاهی در معنای استعاری یا مبالغه‌ای (I’m bankrupt of ideas = هیچ ایده‌ای ندارم).
+    
+- **Neutral:** برای توصیف شرایط مالی واقعی.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **bankrupt vs. broke:** _broke_ یعنی بی‌پول بودن موقت (محاوره‌ای)، اما _bankrupt_ حالت قانونی و رسمی ورشکستگیه.
+    
+- **bankrupt vs. insolvent:** _insolvent_ اصطلاح دقیق مالیه (یعنی دارایی‌ها کمتر از بدهی‌هاست)، اما _bankrupt_ وقتی استفاده میشه که این وضعیت رسماً اعلام شده باشه.
+    
+- **bankrupt vs. poor:** _poor_ یعنی فقیر (از نظر سطح زندگی)، در حالی که _bankrupt_ یعنی ناتوان در پرداخت بدهی‌های رسمی.
+    
+
+---
+
+### 9. Word Family
+
+- **bankruptcy (n.)** → ورشکستگی  
+    _The company filed for bankruptcy._
+    
+- **bankrupted (v. past participle)** → ورشکسته‌شده  
+    _The war bankrupted the nation._
+    
+- **bankrupting (present participle)** → در حال ورشکسته کردن  
+    _The crisis is bankrupting small businesses._
+    
+
+---
+## incorruptible
+
+**Part of Speech:** #adjective  
+**IPA:** /ˌɪnkəˈrʌptəbl/  
+**Persian:** فسادناپذیر، غیرقابل‌فساد، تغییرناپذیر
+
+---
+
+### 1. Definition
+
+> Incapable of being morally corrupted or bribed; unable to decay or be destroyed.  
+> **Persian:** کسی یا چیزی که قابل فاسدشدن یا رشوه‌پذیری نیست؛ یا چیزی که دچار فساد و خرابی نمی‌شود.
+
+**Extended Definition:**  
+As an adjective, _incorruptible_ can describe:
+
+- **Moral/ethical sense:** A person who cannot be bribed, influenced by corruption, or morally degraded.
+    
+- **Physical sense (rare, literary/religious):** Something that does not decay or perish, often used in spiritual or religious contexts.
+    
+
+**Persian Explanation:**  
+"incorruptible" هم معنای اخلاقی دارد (فردی پاک‌دامن و فسادناپذیر) و هم معنای جسمی/معنوی (چیزی که فاسد یا نابود نمی‌شود، مثل روح یا بدن قدیسان در ادبیات مذهبی).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** اشاره به چیزهایی که از بین نمی‌روند یا فاسد نمی‌شوند (مثل ارواح جاودانه یا اجساد قدیسان).
+    
+- **Figurative sense (کاربرد استعاری):** فردی یا سیستمی که فساد، رشوه یا انحراف رویش تأثیر ندارد.
+    
+
+---
+
+### 3. Example Sentences
+
+- The judge was known as an **incorruptible** figure in the legal system.  
+    _(آن قاضی به‌عنوان فردی فسادناپذیر در سیستم قضایی شناخته می‌شد.)_
+    
+- His reputation for being **incorruptible** earned him the people’s trust.  
+    _(شهرت او به فسادناپذیری اعتماد مردم را جلب کرد.)_
+    
+- The ancient text described the soul as **incorruptible**.  
+    _(متن باستانی روح را فسادناپذیر توصیف می‌کرد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**incorruptible judge**|An incorruptible judge cannot be bribed.|قاضی فسادناپذیر|
+|**incorruptible character**|She has an incorruptible character.|شخصیت فسادناپذیر|
+|**incorruptible nature**|The incorruptible nature of the soul.|ماهیت فسادناپذیر|
+|**incorruptible integrity**|He is admired for his incorruptible integrity.|درستکاری فسادناپذیر|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- honest (صادق)
+    
+- upright (درستکار)
+    
+- incorrupt (فسادناپذیر)
+    
+- unbribable (رشوه‌ناپذیر)
+    
+- imperishable (فناناپذیر، برای اشیا یا ارواح)
+    
+
+**Antonyms (متضادها):**
+
+- corrupt (فاسد)
+    
+- bribable (رشوه‌پذیر)
+    
+- immoral (غیراخلاقی)
+    
+- dishonest (دروغگو)
+    
+- perishable (فاسدشدنی)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها فکر می‌کنن _incorruptible_ فقط برای افراد به کار می‌ره؛ در حالی که برای چیزهای معنوی یا غیرمادی هم کاربرد داره.
+    
+- ❌ گاهی با _infallible_ (خطاناپذیر) اشتباه گرفته میشه؛ _incorruptible_ یعنی فسادناپذیر، نه اشتباه‌ناپذیر.
+    
+- ❌ بعضی‌ها فکر می‌کنن همیشه مذهبیه، در حالی که در سیاست و حقوق هم بسیار استفاده میشه.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Literary:** در متون رسمی، فلسفی، یا مذهبی.
+    
+- **Political/Legal:** برای افراد و سیستم‌هایی که پاک‌دست و فسادناپذیرند.
+    
+- **Everyday Speech:** کمتر رایج در مکالمه روزمره.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **incorruptible vs. incorrupt:** _incorruptible_ حالت صفت رایج‌تر و ادبی‌تره، در حالی که _incorrupt_ کمتر استفاده میشه.
+    
+- **incorruptible vs. unbribable:** _unbribable_ خیلی مستقیم روی «رشوه» تمرکز داره، ولی _incorruptible_ هم رشوه‌ناپذیر و هم اخلاقاً فسادناپذیر رو شامل میشه.
+    
+- **incorruptible vs. infallible:** _infallible_ یعنی «بی‌خطا»، اما _incorruptible_ یعنی «فسادناپذیر».
+    
+
+---
+
+### 9. Word Family
+
+- **corrupt (adj./v.)** → فاسد / فاسدکردن
+    
+- **corruption (n.)** → فساد
+    
+- **corruptible (adj.)** → فسادپذیر
+    
+- **incorruptibility (n.)** → فسادناپذیری
+    
+- **incorruptibly (adv.)** → به‌طور فسادناپذیر
+    
+
+---
+## corrupt
+
+**Part of Speech:** #adjective / #verb  
+**IPA:** /kəˈrʌpt/  
+**Persian:** فاسد، تباه؛ فاسدکردن، تباه‌ساختن
+
+---
+
+### 1. Definition
+
+> Dishonest or immoral, especially involving bribery or abuse of power; or to cause someone/something to become dishonest, damaged, or spoiled.  
+> **Persian:** غیرصادق یا غیراخلاقی، به‌ویژه همراه با رشوه یا سوءاستفاده از قدرت؛ یا فاسد و خراب کردن کسی/چیزی.
+
+**Extended Definition:**
+
+- As an **adjective**, _corrupt_ describes people, systems, or practices that are dishonest, immoral, or illegally influenced. It can also refer to data or materials that are damaged or spoiled.
+    
+- As a **verb**, _to corrupt_ means to make someone or something dishonest, immoral, or spoiled.
+    
+
+**Persian Explanation:**  
+"corrupt" برای توصیف افراد یا سیستم‌هایی که درگیر فساد مالی، اخلاقی یا سیاسی هستند به کار می‌رود. همچنین می‌تواند برای داده‌های خراب‌شده یا فایل‌های آسیب‌دیده هم استفاده شود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** فاسدشدن داده‌ها، فایل‌ها یا مواد (مثلاً a corrupt file).
+    
+- **Figurative sense (کاربرد استعاری):** فساد اخلاقی، مالی یا سیاسی (مثلاً corrupt officials).
+    
+
+---
+
+### 3. Example Sentences
+
+- The politician was accused of being **corrupt**.  
+    _(آن سیاستمدار به فاسد بودن متهم شد.)_
+    
+- Power tends to **corrupt** those who hold it.  
+    _(قدرت معمولاً کسانی را که آن را در دست دارند فاسد می‌کند.)_
+    
+- The document became **corrupt** and could not be opened.  
+    _(سند خراب شد و دیگر قابل بازکردن نبود.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**corrupt official**|The city is run by corrupt officials.|مقام فاسد|
+|**morally corrupt**|The movie portrays a morally corrupt society.|از نظر اخلاقی فاسد|
+|**corrupt system**|They are fighting against a corrupt system.|سیستم فاسد|
+|**corrupt file/data**|I cannot open this corrupt file.|فایل خراب/داده فاسد|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- dishonest (دروغگو)
+    
+- fraudulent (متقلب)
+    
+- depraved (堕落‌کرده)
+    
+- rotten (فاسد)
+    
+- spoiled (خراب‌شده)
+    
+
+**Antonyms (متضادها):**
+
+- honest (صادق)
+    
+- upright (درستکار)
+    
+- moral (اخلاقی)
+    
+- pure (پاک)
+    
+- incorruptible (فسادناپذیر)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _corrupt_ رو فقط برای سیاست‌مدارها استفاده می‌کنن؛ در حالی که برای داده‌ها، فایل‌ها و حتی کودکان (به معنای تباه کردن) هم استفاده میشه.
+    
+- ❌ گاهی با _collapse_ یا _ruin_ اشتباه گرفته میشه؛ _corrupt_ الزاماً به معنای نابودی فیزیکی نیست، بیشتر به معنای **خراب‌شدن از درون**ه.
+    
+- ❌ بعضی‌ها فکر می‌کنن همیشه فعل لازم (intransitive) ـه؛ ولی _corrupt_ می‌تونه مفعول هم بگیره (e.g., Money corrupts people).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** در متون حقوقی، سیاسی و خبری (corrupt practices, corrupt officials).
+    
+- **Technical/IT:** در علوم کامپیوتر برای فایل‌ها و داده‌های خراب (corrupt file).
+    
+- **Everyday Speech:** بیشتر برای سیاست، اخلاق یا سیستم‌ها، کمتر برای مکالمات عادی.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **corrupt vs. spoiled:** _spoiled_ بیشتر برای مواد غذایی یا افراد لوس‌شده استفاده میشه، اما _corrupt_ بار قانونی/اخلاقی یا سیستمی داره.
+    
+- **corrupt vs. rotten:** _rotten_ بیشتر به معنای پوسیده فیزیکی (مثل میوه‌ی خراب)، در حالی که _corrupt_ هم معنای استعاری (سیستم یا افراد فاسد) داره.
+    
+- **corrupt vs. fraudulent:** _fraudulent_ تمرکز روی فریب و تقلب داره، ولی _corrupt_ دامنه‌ی وسیع‌تری شامل رشوه، بی‌اخلاقی و تباهی داره.
+    
+
+---
+
+### 9. Word Family
+
+- **corrupt (adj./v.)** → فاسد، فاسدکردن
+    
+- **corruption (n.)** → فساد
+    
+- **corruptly (adv.)** → به‌طور فاسدانه
+    
+- **corruptible (adj.)** → فسادپذیر
+    
+- **incorruptible (adj.)** → فسادناپذیر
+    
+
+---
+## interrupt
+
+**Part of Speech:** #verb / #noun  
+**IPA:** /ˌɪntəˈrʌpt/  
+**Persian:** قطع‌کردن، مزاحم‌شدن، وقفه
+
+---
+
+### 1. Definition
+
+> To stop the continuous progress of an activity, conversation, or process by causing a break or disturbance.  
+> **Persian:** متوقف‌کردن روند یک فعالیت، مکالمه یا فرایند با ایجاد وقفه یا مزاحمت.
+
+**Extended Definition:**
+
+- As a **verb**, _interrupt_ means to break the flow of speech, activity, or an ongoing event (e.g., interrupt a meeting). It can also refer to temporarily stopping a process (e.g., service was interrupted).
+    
+- As a **noun**, it refers to the actual act of stopping or a break in continuity (e.g., computer interrupts in IT).
+    
+
+**Persian Explanation:**  
+"interrupt" به معنای ایجاد وقفه یا قطع‌شدن ناگهانی جریان یک اتفاق یا گفت‌وگوست. می‌تواند فیزیکی، اجتماعی یا فنی باشد.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** قطع‌شدن جریان برق، سیگنال، خدمات یا نرم‌افزار.
+    
+- **Figurative sense (کاربرد استعاری):** قطع‌کردن حرف کسی، یا مزاحمت در جریان یک رویداد اجتماعی.
+    
+
+---
+
+### 3. Example Sentences
+
+- Please don’t **interrupt** me while I’m speaking.  
+    _(لطفاً وقتی صحبت می‌کنم حرفم را قطع نکن.)_
+    
+- The TV program was **interrupted** by a breaking news report.  
+    _(برنامه تلویزیونی توسط یک خبر فوری قطع شد.)_
+    
+- There was a brief **interrupt** in the power supply.  
+    _(یک وقفه کوتاه در جریان برق به‌وجود آمد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**interrupt a conversation**|She interrupted our conversation.|مکالمه را قطع‌کردن|
+|**interrupt a meeting**|He interrupted the meeting with his question.|جلسه را قطع‌کردن|
+|**service interrupted**|The service was interrupted due to maintenance.|خدمات متوقف‌شده|
+|**constantly interrupted**|I was constantly interrupted while working.|مدام مزاحم‌شدن|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- disturb (مزاحم‌شدن)
+    
+- interfere (مداخله‌کردن)
+    
+- disrupt (مختل‌کردن)
+    
+- cut off (قطع‌کردن)
+    
+- break in (میان صحبت پریدن)
+    
+
+**Antonyms (متضادها):**
+
+- continue (ادامه‌دادن)
+    
+- maintain (حفظ‌کردن)
+    
+- sustain (پایدارنگه‌داشتن)
+    
+- allow (اجازه‌دادن)
+    
+- resume (از سر گرفتن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _interrupt_ رو فقط برای مکالمه می‌دونن؛ در حالی که در حوزه‌های فنی (برق، کامپیوتر، خدمات) هم رایج است.
+    
+- ❌ گاهی با _disturb_ قاطی میشه؛ _disturb_ یعنی مزاحمت کلی، اما _interrupt_ یعنی **قطع جریان چیزی در لحظه**.
+    
+- ❌ بعضی‌ها فکر می‌کنن همیشه بار منفی داره؛ در حالی که می‌تونه خنثی یا حتی لازم باشه (مثلاً interrupt a dangerous process).
+    
+
+---
+
+### 7. Register
+
+- **Everyday/Neutral:** پرکاربرد در مکالمات روزمره.
+    
+- **Formal/Technical:** در علوم کامپیوتر (interrupt = وقفه سیستمی).
+    
+- **Negative Connotation:** معمولاً مزاحمت یا وقفه ناخواسته.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **interrupt vs. disturb:** _disturb_ یعنی مزاحمت ایجادکردن به‌طور کلی، اما _interrupt_ یعنی توقف یا بریدن یک جریان.
+    
+- **interrupt vs. interfere:** _interfere_ یعنی دخالت‌کردن در کاری، در حالی که _interrupt_ یعنی متوقف‌کردن روند جاری.
+    
+- **interrupt vs. disrupt:** _disrupt_ تأکیدش روی برهم‌زدن نظم کلیه، اما _interrupt_ روی ایجاد یک توقف موقت.
+    
+
+---
+
+### 9. Word Family
+
+- **interruption (n.)** → وقفه، مزاحمت  
+    _There was an interruption in the broadcast._
+    
+- **uninterrupted (adj.)** → بدون وقفه  
+    _We enjoyed an uninterrupted view of the sea._
+    
+- **interrupting (present participle)** → قطع‌کردن  
+    _He kept interrupting me during my speech._
+    
+- **interrupted (past participle)** → قطع‌شده
+    
+
+---
+## disruption
+
+**Part of Speech:** #noun  
+**IPA:** /dɪsˈrʌpʃən/  
+**Persian:** اختلال، آشفتگی، وقفه، دگرگونی
+
+---
+
+### 1. Definition
+
+> A disturbance or interruption that breaks the normal flow, order, or process of something.  
+> **Persian:** اختلال یا وقفه‌ای که روند عادی یا نظم چیزی را بر هم می‌زند.
+
+**Extended Definition:**  
+_Disruption_ can refer to:
+
+- **Negative sense:** an interruption or breakdown in systems, services, or activities (e.g., transport disruption, internet disruption).
+    
+- **Positive/Innovative sense (business/tech):** a radical change that significantly transforms an industry or market (e.g., disruptive innovation).
+    
+
+**Persian Explanation:**  
+"disruption" هم می‌تواند معنای منفی داشته باشد (ایجاد اختلال و وقفه در سیستم‌ها) و هم معنای مثبت (نوآوری دگرگون‌کننده در کسب‌وکار یا فناوری).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** اختلال در خدمات، جریان برق، حمل‌ونقل و غیره.
+    
+- **Figurative sense (کاربرد استعاری):** آشفتگی در یک سیستم اجتماعی، اقتصادی یا حتی نوآوری‌های تحول‌آفرین.
+    
+
+---
+
+### 3. Example Sentences
+
+- The strike caused major **disruption** to public transportation.  
+    _(اعتصاب موجب اختلال جدی در حمل‌ونقل عمومی شد.)_
+    
+- Internet **disruptions** affected online classes.  
+    _(اختلال‌های اینترنتی کلاس‌های آنلاین را تحت‌تأثیر قرار داد.)_
+    
+- Smartphones brought a huge **disruption** to the camera industry.  
+    _(گوشی‌های هوشمند تحول بزرگی در صنعت دوربین ایجاد کردند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**cause disruption**|The protest caused disruption in the city.|ایجاد اختلال|
+|**major disruption**|The storm led to major disruption of flights.|اختلال عمده|
+|**service disruption**|We apologize for the service disruption.|اختلال در خدمات|
+|**market disruption**|Market disruption came with new technology.|دگرگونی در بازار|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- disturbance (آشفتگی)
+    
+- interruption (وقفه)
+    
+- disorder (بی‌نظمی)
+    
+- turmoil (آشوب)
+    
+- innovation (نوآوری، در کاربرد مثبت)
+    
+
+**Antonyms (متضادها):**
+
+- order (نظم)
+    
+- stability (ثبات)
+    
+- continuity (تداوم)
+    
+- calm (آرامش)
+    
+- harmony (هماهنگی)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها _disruption_ رو فقط منفی می‌دونن؛ در حالی که در حوزه‌ی **بیزنس و تکنولوژی** بار مثبت هم داره (مثل _disruptive innovation_).
+    
+- ❌ گاهی با _destruction_ قاطی میشه؛ _disruption_ یعنی اختلال یا دگرگونی، نه نابودی کامل.
+    
+- ❌ بعضی زبان‌آموزها فکر می‌کنن مترادف مستقیم _interruption_ هست؛ در حالی که _disruption_ وسیع‌تره و شامل بی‌نظمی و تغییرات بنیادی هم میشه.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** رایج در گزارش‌ها، اخبار و متون رسمی.
+    
+- **Business/Tech:** کاربرد بسیار مهم در دنیای استارتاپ‌ها و نوآوری (e.g., disruptive technology).
+    
+- **Everyday Speech:** بیشتر در معنای اختلال (مثلاً service disruption).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **disruption vs. interruption:** _interruption_ یک وقفه کوتاه و موقتیه؛ _disruption_ می‌تونه گسترده‌تر و بنیادی‌تر باشه.
+    
+- **disruption vs. destruction:** _destruction_ یعنی نابودی کامل، اما _disruption_ صرفاً وقفه یا تغییر ایجاد می‌کنه.
+    
+- **disruption vs. disturbance:** _disturbance_ اغلب کوچک‌تر و فردی‌تره (مثل disturbance in class)، در حالی که _disruption_ سطح گسترده‌تری داره.
+    
+
+---
+
+### 9. Word Family
+
+- **disrupt (v.)** → مختل‌کردن، برهم‌زدن
+    
+- **disruptive (adj.)** → مختل‌کننده، تحول‌آفرین
+    
+- **disruptively (adv.)** → به‌طور مختل‌کننده/دگرگون‌ساز
+    
+- **disrupted (adj./participle)** → مختل‌شده
+    
+
+---
+## rupture
+
+**Part of Speech:** #noun / #verb  
+**IPA:** /ˈrʌptʃər/  
+**Persian:** پارگی، گسیختگی؛ پاره‌کردن، شکافتن
+
+---
+
+### 1. Definition
+
+> A break or tear in something, especially in a material, relationship, or body tissue; or the act of breaking apart.  
+> **Persian:** پارگی یا گسیختگی در چیزی (ماده، رابطه یا بافت بدن)؛ یا عمل پاره‌شدن.
+
+**Extended Definition:**
+
+- As a **noun**, _rupture_ can refer to a physical tear (e.g., a pipe rupture, a rupture of blood vessels) or a figurative break (e.g., a rupture in diplomatic relations).
+    
+- As a **verb**, it means to cause something to break, burst, or tear apart.
+    
+
+**Persian Explanation:**  
+"rupture" هم برای پارگی فیزیکی (مثلاً لوله، بافت بدن) و هم برای جدایی یا شکاف استعاری (مثل روابط سیاسی یا دوستی) به کار می‌رود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** پارگی در بافت بدن، لوله‌ها، یا اشیاء.
+    
+- **Figurative sense (کاربرد استعاری):** جدایی، شکاف یا اختلاف در روابط، توافق‌ها یا گروه‌ها.
+    
+
+---
+
+### 3. Example Sentences
+
+- The patient suffered a **rupture** of the appendix.  
+    _(بیمار دچار پارگی آپاندیس شد.)_
+    
+- A water pipe **ruptured** and flooded the street.  
+    _(یک لوله آب ترکید و خیابان را آب گرفت.)_
+    
+- There was a sudden **rupture** in diplomatic relations.  
+    _(شکاف ناگهانی در روابط دیپلماتیک به‌وجود آمد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**ruptured appendix**|He needed surgery for a ruptured appendix.|آپاندیس پاره‌شده|
+|**rupture of relations**|The scandal led to a rupture of relations.|گسیختگی روابط|
+|**pipe rupture**|The pipe rupture caused severe damage.|پارگی لوله|
+|**internal rupture**|The doctor diagnosed an internal rupture.|پارگی داخلی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- break (شکستگی، پارگی)
+    
+- tear (پارگی)
+    
+- burst (ترکیدن)
+    
+- fracture (شکستگی، گسیختگی)
+    
+- split (شکاف)
+    
+
+**Antonyms (متضادها):**
+
+- connection (ارتباط)
+    
+- union (اتحاد)
+    
+- continuity (تداوم)
+    
+- repair (ترمیم)
+    
+- healing (بهبودی)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _rupture_ رو فقط در پزشکی می‌بینن؛ در حالی که در روابط سیاسی، اجتماعی و صنعتی هم پرکاربرده.
+    
+- ❌ گاهی با _rapture_ (به‌معنای شور و شعف شدید) اشتباه گرفته میشه؛ این دو کاملاً متفاوت‌اند.
+    
+- ❌ بعضی‌ها فکر می‌کنن _rupture_ فقط اسمه؛ در حالی که فعل هم هست (to rupture a pipe).
+    
+
+---
+
+### 7. Register
+
+- **Medical/Technical:** رایج در پزشکی (ruptured appendix, ruptured artery).
+    
+- **Formal/Political:** در روابط بین‌الملل و سیاست (rupture of relations).
+    
+- **Neutral/Everyday:** کمتر در مکالمه عادی استفاده میشه، بیشتر در متون رسمی.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **rupture vs. fracture:** _fracture_ بیشتر در مورد استخوان و اجسام سخت به‌کار میره، _rupture_ برای بافت نرم یا مایعات.
+    
+- **rupture vs. tear:** _tear_ عمومی‌تر و روزمره‌تره، _rupture_ رسمی‌تر و علمی‌تره.
+    
+- **rupture vs. break:** _break_ کلی‌تره (هر نوع شکستگی یا خراب‌شدن)، اما _rupture_ مخصوص گسیختگی و پارگیه.
+    
+
+---
+
+### 9. Word Family
+
+- **rupture (n./v.)** → پارگی، گسیختگی / پاره‌کردن
+    
+- **ruptured (adj.)** → پاره‌شده، ترکیده
+    
+- **rupturing (present participle)** → در حال پاره‌کردن یا ترکیدن
+    
+- **rupturable (adj.)** → قابل‌پارگی یا گسیختگی (کم‌کاربرد، تخصصی)
+    
+
+---
+# 8.2
+## modest
+
+**Part of Speech:** #adjective  
+**IPA:** /ˈmɑːdɪst/  
+**Persian:** فروتن، متواضع؛ متوسط، نه زیاد
+
+---
+
+### 1. Definition
+
+> Having a humble opinion of one’s abilities or achievements; not extreme, large, or showy.  
+> **Persian:** فروتن و بی‌ادعا؛ یا چیزی که متوسط و نه خیلی بزرگ و اغراق‌آمیز است.
+
+**Extended Definition:**
+
+- As a personality trait, _modest_ refers to someone who avoids arrogance and doesn’t boast about their abilities or possessions.
+    
+- In terms of size/amount, _modest_ means small to moderate, not excessive.
+    
+- It can also describe clothing that covers the body and is not revealing.
+    
+
+**Persian Explanation:**  
+"modest" هم برای توصیف افراد فروتن به‌کار می‌رود، هم برای توصیف مقدار متوسط (مثل درآمد متوسط)، و هم برای لباس پوشیده و ساده.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** توصیف لباس ساده یا پوشیده؛ یا خانه/مقدار کوچک.
+    
+- **Figurative sense (کاربرد استعاری):** توصیف شخصیت فروتن یا توقعات کم و بی‌ادعا.
+    
+
+---
+
+### 3. Example Sentences
+
+- She is very **modest** about her achievements.  
+    _(او درباره دستاوردهایش بسیار فروتن است.)_
+    
+- They live in a **modest** house in the suburbs.  
+    _(آنها در یک خانه متوسط در حومه شهر زندگی می‌کنند.)_
+    
+- The company showed **modest** growth this year.  
+    _(شرکت امسال رشد متوسطی داشت.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**modest income**|He earns a modest income.|درآمد متوسط|
+|**modest house**|They bought a modest house.|خانه ساده/متوسط|
+|**modest growth**|The firm reported modest growth.|رشد متوسط|
+|**modest clothing**|The school requires modest clothing.|لباس پوشیده|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- humble (فروتن)
+    
+- unassuming (بی‌ادعا)
+    
+- moderate (متوسط)
+    
+- simple (ساده)
+    
+- decent (مناسب، پوشیده)
+    
+
+**Antonyms (متضادها):**
+
+- arrogant (متکبر)
+    
+- boastful (خودستا)
+    
+- extravagant (افراطی)
+    
+- luxurious (لوکس)
+    
+- immodest (بی‌حیا، خودنما)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _modest_ رو فقط برای آدم‌ها می‌دونن؛ در حالی که برای مقدار، خانه، لباس و حتی رشد اقتصادی هم استفاده میشه.
+    
+- ❌ گاهی با _moderate_ قاطی میشه؛ _moderate_ بیشتر رسمی‌تر و برای کمّیت‌هاست، در حالی که _modest_ هم بار شخصیتی (فروتنی) و هم بار کمّیتی داره.
+    
+- ❌ بعضی‌ها فکر می‌کنن همیشه مثبت است؛ اما در بیزنس، _modest growth_ یعنی رشد **نه چندان زیاد** (گاهی حتی ناامیدکننده).
+    
+
+---
+
+### 7. Register
+
+- **Everyday Speech:** رایج برای توصیف افراد فروتن یا خانه/زندگی ساده.
+    
+- **Formal/Neutral:** در اقتصاد و بیزنس (modest increase, modest growth).
+    
+- **Cultural/Religious:** در مورد لباس پوشیده و ساده.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **modest vs. humble:** هر دو فروتنی می‌دن، ولی _humble_ بیشتر درباره شخصیت یا منش فردیه، _modest_ می‌تونه برای چیزها هم بیاد (modest income).
+    
+- **modest vs. moderate:** _moderate_ دقیق‌تر برای کمیت‌هاست (مثلاً moderate exercise)، در حالی که _modest_ هم معنای فروتنی و هم کم بودن مقدار رو میده.
+    
+- **modest vs. simple:** _simple_ یعنی بدون تجمل و پیچیدگی، در حالی که _modest_ بار فروتنی یا محدود بودن رو هم منتقل می‌کنه.
+    
+
+---
+
+### 9. Word Family
+
+- **modesty (n.)** → فروتنی، سادگی  
+    _Her modesty made her well-respected._
+    
+- **immodest (adj.)** → بی‌حیا، خودستا  
+    _His immodest behavior shocked everyone._
+    
+- **modestly (adv.)** → به‌طور فروتنانه / متوسط  
+    _She modestly accepted the award._
+    
+
+---
+## spans
+
+**Part of Speech:** #noun (plural of _span_) / #verb (3rd person singular of _span_)  
+**IPA:** /spænz/  
+**Persian:** گستره‌ها، فاصله‌ها (اسم جمع)؛ دربرمی‌گیرد، امتداد دارد (فعل)
+
+---
+
+### 1. Definition
+
+> - **Noun:** The full extent, length, or duration of something between two points.
+>     
+> - **Verb:** To extend across, cover, or include a distance, time, or range.  
+>     **Persian:**
+>     
+> - اسم: گستره یا فاصله‌ی میان دو نقطه؛ طول یا مدت.
+>     
+> - فعل: دربرگرفتن، امتداد داشتن، پوشش‌دادن.
+>     
+
+**Extended Definition:**
+
+- As a **noun**, _spans_ refers to physical distances (bridge spans), periods of time (lifespan, attention span), or extents (a span of control).
+    
+- As a **verb**, _spans_ means “covers” or “extends over,” whether in time, space, or abstract domains.
+    
+
+**Persian Explanation:**  
+"spans" می‌تواند به فاصله‌ها یا مدت‌ها اشاره کند (اسم جمع) یا نشان دهد که چیزی محدوده‌ای را پوشش می‌دهد (فعل).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** طول پل، فاصله‌ی بازو، فاصله‌ی زمانی زندگی.
+    
+- **Figurative sense (کاربرد استعاری):** گستره‌ی توجه، دامنه‌ی نفوذ، یا پوشش‌دادن حوزه‌های مختلف.
+    
+
+---
+
+### 3. Example Sentences
+
+- The bridge has three **spans**.  
+    _(پل سه دهانه دارد.)_
+    
+- His career **spans** four decades.  
+    _(حرفه‌ی او چهار دهه را دربرمی‌گیرد.)_
+    
+- The topic **spans** several disciplines.  
+    _(این موضوع چندین رشته را پوشش می‌دهد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**bridge spans**|The bridge spans two rivers.|دهانه‌های پل|
+|**attention span**|Children often have short attention spans.|دامنه توجه|
+|**lifespan**|The average lifespan has increased.|طول عمر|
+|**span of control**|Managers differ in their span of control.|دامنه‌ی کنترل|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- (n.) length (طول)
+    
+- extent (گستره)
+    
+- duration (مدت)
+    
+- interval (فاصله)
+    
+- reach (برد، گستره)
+    
+- (v.) cover (پوشش‌دادن)
+    
+- extend over (امتدادداشتن)
+    
+- stretch across (کشیده‌شدن بر روی)
+    
+- include (شامل‌شدن)
+    
+
+**Antonyms (متضادها):**
+
+- (n.) point (نقطه)
+    
+- moment (لحظه)
+    
+- limitation (محدودیت)
+    
+- (v.) exclude (مستثنی‌کردن)
+    
+- narrow (باریک‌کردن، محدودکردن)
+    
+- confine (محدود کردن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _span_ رو فقط برای زمان به‌کار می‌برن، در حالی که برای فاصله‌ی مکانی و حوزه‌های موضوعی هم کاربرد داره.
+    
+- ❌ گاهی _spans_ رو با _expands_ اشتباه می‌گیرن؛ _span_ یعنی پوشش‌دادن یک محدوده، اما _expand_ یعنی گسترش‌دادن و بزرگ‌تر کردن.
+    
+- ❌ بعضی فکر می‌کنن _spans_ همیشه اسم جمعه؛ در حالی که می‌تونه فعل هم باشه.
+    
+
+---
+
+### 7. Register
+
+- **Neutral/Formal:** رایج در متون علمی، مهندسی، مدیریتی (attention span, lifespan).
+    
+- **Everyday Speech:** به‌صورت ساده برای مدت یا فاصله (e.g., “Her career spans 20 years”).
+    
+- **Technical:** در مهندسی سازه برای طول دهانه‌ی پل یا ساختمان.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **span vs. expand:** _span_ = دربرگرفتن محدوده‌ای موجود؛ _expand_ = افزایش‌دادن اندازه یا گستره.
+    
+- **span vs. length:** _length_ صرفاً طول فیزیکی را نشان می‌دهد، اما _span_ هم مدت، هم فاصله، و هم پوشش معنایی دارد.
+    
+- **span vs. range:** _range_ معمولاً به گستره‌ی تنوع یا دامنه‌ی مقادیر اشاره دارد، در حالی که _span_ به فاصله یا مدت پیوسته.
+    
+
+---
+
+### 9. Word Family
+
+- **span (n./v.)** → گستره، پوشش‌دادن
+    
+- **spanned (v. past)** → پوشش داد، امتداد داشت
+    
+- **spanning (v. participle)** → در حال پوشش‌دادن، امتدادداشتن
+    
+- **spanner (n.)** → آچار (ابزاری برای گرفتن فاصله‌ی پیچ)
+    
+
+---
+## Encircle
+
+**Part of Speech:** #verb (base form) / _Encircling_ (present participle & adjective)  
+**IPA:** /ɪnˈsɜːrkl/ (_encircle_) – /ɪnˈsɜːrklɪŋ/ (_encircling_)  
+**Persian:** احاطه‌کردن، گرداگرد گرفتن
+
+---
+
+### 1. Definition
+
+> To surround something or someone completely, forming a circle or enclosure.  
+> **Persian:** چیزی یا کسی را کاملاً دربرگرفتن یا احاطه‌کردن.
+
+**Extended Definition:**
+
+- As a **verb**, _encircle_ means to form a ring around someone or something, either physically (like soldiers encircling a city) or figuratively (fear encircling the mind).
+    
+- As an *_adjective/participle_ (_encircling_), it describes something that is surrounding in a protective, restrictive, or encompassing way.
+    
+
+**Persian Explanation:**  
+"Encircling" به معنای گرفتن چیزی در دایره یا محدوده‌ای است؛ چه به شکل واقعی (مثل حصار دور قلعه) یا استعاری (مثل احساسات یا خطر که فرد را احاطه می‌کند).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** محاصره یا احاطه فیزیکی یک شهر، مکان یا فرد.
+    
+- **Figurative sense (کاربرد استعاری):** دربرگرفتن یا احاطه‌کردن نمادین (مثل ترس، عشق یا سکوت).
+    
+
+---
+
+### 3. Example Sentences
+
+- The army was **encircling** the enemy’s camp.  
+    _(ارتش در حال محاصره اردوگاه دشمن بود.)_
+    
+- A wall of trees was **encircling** the village.  
+    _(دیوار درختان، روستا را احاطه کرده بود.)_
+    
+- She felt anxiety **encircling** her mind.  
+    _(او احساس کرد اضطراب ذهنش را احاطه کرده است.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**encircling wall**|The castle had an encircling wall.|دیوار احاطه‌کننده|
+|**encircling forces**|Encircling forces cut off the city.|نیروهای محاصره‌کننده|
+|**encircling arms**|He pulled her into his encircling arms.|بازوان احاطه‌کننده|
+|**encircling fear**|An encircling fear gripped the crowd.|ترس فراگیر|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- surround (احاطه‌کردن)
+    
+- enclose (محصورکردن)
+    
+- encompass (در برگرفتن)
+    
+- envelop (در برگرفتن، پیچیدن)
+    
+- besiege (محاصره‌کردن)
+    
+
+**Antonyms (متضادها):**
+
+- release (رهاکردن)
+    
+- free (آزادکردن)
+    
+- exclude (مستثنی‌کردن)
+    
+- uncover (آشکارکردن)
+    
+- open (بازکردن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _encircle_ رو با _circle_ قاطی می‌کنن؛ _circle_ یعنی «چرخیدن به دور چیزی»، ولی _encircle_ یعنی «کاملاً در محاصره گرفتن».
+    
+- ❌ گاهی فکر می‌کنن فقط معنای نظامی داره؛ در حالی که در توصیف طبیعت یا احساسات هم استفاده میشه.
+    
+- ❌ بعضی‌ها به جای _enclose_ از _encircle_ استفاده می‌کنن؛ _enclose_ بیشتر یعنی «داخل چیزی محصور کردن»، _encircle_ یعنی «دور تا دور چیزی گرفتن».
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** در متون رسمی (history, military reports).
+    
+- **Literary:** در ادبیات و شعر برای توصیف احاطه‌ی احساس یا طبیعت.
+    
+- **Everyday Speech:** کمتر استفاده میشه؛ به‌جای آن معمولاً _surround_ به کار میره.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **encircle vs. surround:** _surround_ عمومی و روزمره‌تره، _encircle_ بار تصویری/رسمی بیشتری داره.
+    
+- **encircle vs. enclose:** _enclose_ یعنی چیزی رو داخل یک مرز یا دیوار قرار دادن، اما _encircle_ یعنی دور تا دور گرفتن بدون الزام به بستن کامل.
+    
+- **encircle vs. besiege:** _besiege_ مخصوص محاصره‌ی نظامیه، ولی _encircle_ می‌تونه استعاری یا طبیعی هم باشه.
+    
+
+---
+
+### 9. Word Family
+
+- **encircle (v.)** → احاطه‌کردن، محاصره کردن
+    
+- **encircled (adj./participle)** → احاطه‌شده
+    
+- **encircling (adj./participle)** → احاطه‌کننده
+    
+- **encirclement (n.)** → محاصره، احاطه
+    
+
+---
+
+## Restrain
+
+**Part of Speech:** #verb (base form) / _Restrained_ (past participle & adjective)  
+**IPA:** /rɪˈstreɪn/ (_restrain_) – /rɪˈstreɪnd/ (_restrained_)  
+**Persian:** مهارکردن، خودداری‌کردن، کنترل‌شده
+
+---
+
+### 1. Definition
+
+> - **Verb (restrain):** To hold back, control, or prevent someone or something from acting freely.
+>     
+> - **Adjective (restrained):** Characterized by self-control, moderation, or subtlety.  
+>     **Persian:**
+>     
+> - فعل: مهارکردن یا جلوگیری‌کردن از آزادی حرکت یا عمل.
+>     
+> - صفت: خویشتن‌دار، کنترل‌شده، معتدل.
+>     
+
+**Extended Definition:**
+
+- As a **verb**, it often means physically holding back (restrain a prisoner) or emotionally controlling oneself (restrain anger).
+    
+- As an **adjective**, _restrained_ describes someone’s behavior, style, or emotions as controlled, subtle, or not excessive.
+    
+
+**Persian Explanation:**  
+"Restrained" می‌تواند هم به معنای «مهار‌شده» (فیزیکی یا عاطفی) باشد و هم برای توصیف سبک یا رفتار ساده و غیراغراق‌آمیز.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** مهار فیزیکی یک فرد یا حیوان.
+    
+- **Figurative sense (کاربرد استعاری):** کنترل احساسات، خویشتن‌داری، یا سبک ساده و بی‌اغراق.
+    
+
+---
+
+### 3. Example Sentences
+
+- The police officer **restrained** the suspect.  
+    _(افسر پلیس مظنون را مهار کرد.)_
+    
+- She spoke in a calm, **restrained** voice.  
+    _(او با صدای آرام و کنترل‌شده‌ای صحبت کرد.)_
+    
+- He couldn’t **restrain** his laughter during the meeting.  
+    _(او نتوانست جلوی خنده‌اش را در جلسه بگیرد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**restrained anger**|He expressed his restrained anger quietly.|خشم مهار‌شده|
+|**restrained style**|The design was elegant but restrained.|سبک ساده و کنترل‌شده|
+|**restrained voice**|She answered in a restrained voice.|صدای خویشتن‌دار|
+|**physically restrained**|The suspect was physically restrained.|مهار فیزیکی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- controlled (کنترل‌شده)
+    
+- moderate (معتدل)
+    
+- subdued (فروخورده)
+    
+- restricted (محدود)
+    
+- held back (مهار‌شده)
+    
+
+**Antonyms (متضادها):**
+
+- unrestrained (بی‌مهار)
+    
+- uncontrolled (بی‌کنترل)
+    
+- excessive (افراطی)
+    
+- wild (وحشی)
+    
+- free (آزاد)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها فکر می‌کنن _restrained_ همیشه منفی است؛ در حالی که می‌تونه مثبت هم باشه (مثلاً یک سبک مینیمال و شیک).
+    
+- ❌ گاهی با _constrained_ قاطی میشه؛ _constrained_ یعنی «محدودشده به اجبار»، ولی _restrained_ بیشتر حالت «کنترل‌شده از روی انتخاب یا ادب» داره.
+    
+- ❌ بعضی‌ها تصور می‌کنن فقط فیزیکی است، در حالی که معنای احساسی و سبک هم رایج‌تره.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** پرکاربرد در نوشتار رسمی و توصیفی.
+    
+- **Everyday Speech:** رایج برای احساسات و رفتار (restrained smile, restrained reaction).
+    
+- **Literary/Artistic:** در توصیف سبک هنری یا طراحی (restrained elegance).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **restrained vs. constrained:** _restrained_ = خودداری یا کنترل‌شده (اغلب داوطلبانه یا مثبت). _constrained_ = محدودشده به‌اجبار.
+    
+- **restrained vs. reserved:** _reserved_ بیشتر درباره شخصیت اجتماعی کم‌حرف و محتاط است، _restrained_ درباره کنترل احساسات یا رفتار.
+    
+- **restrained vs. restricted:** _restricted_ یعنی محدودیت فیزیکی یا قانونی، _restrained_ یعنی خودکنترلی یا مهارشده.
+    
+
+---
+
+### 9. Word Family
+
+- **restrain (v.)** → مهارکردن
+    
+- **restrained (adj.)** → کنترل‌شده، مهار‌شده
+    
+- **restraint (n.)** → خویشتن‌داری، مهار
+    
+- **unrestrained (adj.)** → بی‌مهار، افسارگسیخته
+    
+- **restraining (participle)** → مهارکننده
+    
+
+---
+
+## impediments
+
+**Part of Speech:** #noun (plural of _impediment_)  
+**IPA:** /ɪmˈpɛdəmənts/  
+**Persian:** موانع، بازدارنده‌ها، گرفتاری‌ها
+
+---
+
+### 1. Definition
+
+> Things that make progress, movement, or development difficult or slow; obstacles.  
+> **Persian:** عواملی که باعث دشواری یا کندی پیشرفت می‌شوند؛ موانع یا بازدارنده‌ها.
+
+**Extended Definition:**
+
+- _Impediments_ can be **physical barriers** (like a speech impediment, road impediments) or **abstract obstacles** (legal, social, or emotional impediments).
+    
+- It usually refers to something that prevents smooth progress rather than completely blocking it.
+    
+
+**Persian Explanation:**  
+"impediments" یعنی موانعی که پیشرفت، حرکت یا توسعه را سخت‌تر می‌کنند. این موانع می‌توانند فیزیکی، قانونی، اجتماعی یا حتی روانی باشند.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** مانع فیزیکی یا جسمی مثل نقص گفتاری یا مانع در راه.
+    
+- **Figurative sense (کاربرد استعاری):** مشکلات قانونی، فرهنگی یا شخصی که مانع رشد یا موفقیت می‌شوند.
+    
+
+---
+
+### 3. Example Sentences
+
+- Poverty and illiteracy are serious **impediments** to social progress.  
+    _(فقر و بی‌سوادی موانع جدی در پیشرفت اجتماعی هستند.)_
+    
+- He overcame his speech **impediments** with years of practice.  
+    _(او با سال‌ها تمرین بر موانع گفتاری خود غلبه کرد.)_
+    
+- Legal **impediments** delayed the construction project.  
+    _(موانع قانونی باعث تأخیر در پروژه ساخت‌وساز شدند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**speech impediment**|The child has a speech impediment.|اختلال گفتاری|
+|**legal impediments**|Legal impediments blocked the reform.|موانع قانونی|
+|**social impediments**|There are many social impediments to equality.|موانع اجتماعی|
+|**major impediment**|Fear can be a major impediment to success.|مانع بزرگ|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- obstacles (موانع)
+    
+- barriers (سدها)
+    
+- hindrances (بازدارنده‌ها)
+    
+- obstructions (مزاحمت‌ها)
+    
+- difficulties (سختی‌ها)
+    
+
+**Antonyms (متضادها):**
+
+- aids (کمک‌ها)
+    
+- supports (پشتیبانی‌ها)
+    
+- assistance (یاری)
+    
+- advantage (مزیت)
+    
+- benefit (فایده)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _impediments_ رو مترادف کامل _problems_ می‌دونن؛ در حالی که _problem_ عمومی‌تره، _impediment_ دقیقاً به چیزی میگه که جلوی پیشرفت یا حرکت رو می‌گیره.
+    
+- ❌ گاهی با _handicaps_ قاطی میشه؛ _handicap_ بیشتر در زمینه‌های پزشکی یا ورزشی به کار میره، ولی _impediment_ رسمی‌تر و عمومی‌تره.
+    
+- ❌ بعضی فکر می‌کنن همیشه معنای فیزیکی داره، در حالی که بیشتر وقت‌ها استعاری استفاده میشه (مثلاً _legal impediments_).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Academic:** بسیار پرکاربرد در مقالات، حقوق، علوم اجتماعی.
+    
+- **Neutral:** در زبان عمومی هم قابل استفاده است، اما بیشتر در نوشتار رسمی.
+    
+- **Rare in Casual Speech:** در مکالمات روزمره کمتر استفاده میشه، جایگزین‌های ساده‌تر مثل _barriers_ یا _obstacles_ رایج‌ترند.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **impediment vs. obstacle:** هر دو مانع‌اند، ولی _impediment_ رسمی‌تر و اغلب غیرمستقیم‌تره (مثل موانع قانونی).
+    
+- **impediment vs. hindrance:** _hindrance_ یعنی چیزی که سرعت یا راحتی رو کم می‌کنه؛ _impediment_ ممکنه مانع جدی‌تر باشه.
+    
+- **impediment vs. barrier:** _barrier_ بیشتر برای سد فیزیکی یا اجتماعی استفاده میشه، ولی _impediment_ کاربرد قانونی/رسمی هم داره.
+    
+
+---
+
+### 9. Word Family
+
+- **impede (v.)** → مانع‌شدن، بازداشتن  
+    _The snow impeded our progress._
+    
+- **impediment (n.)** → مانع، بازدارنده
+    
+- **impeding (adj./participle)** → مانع‌شونده
+    
+- **unimpeded (adj.)** → بدون مانع
+    
+
+---
+## reside
+
+**Part of Speech:** #verb  
+**IPA:** /rɪˈzaɪd/  
+**Persian:** اقامت داشتن، ساکن بودن، قرار داشتن
+
+---
+
+### 1. Definition
+
+> To live in a place permanently or for an extended period; to be situated or exist in something.  
+> **Persian:** در مکانی به طور دائمی یا طولانی‌مدت زندگی کردن؛ یا در جایی قرار داشتن/مستقر بودن.
+
+**Extended Definition:**
+
+- In the **literal sense**, _reside_ means “to live or dwell” in a place (more formal than _live_).
+    
+- In the **figurative sense**, it can mean that something (like power, responsibility, or authority) exists or is located within a person or institution.
+    
+
+**Persian Explanation:**  
+"reside" بیشتر در زبان رسمی و حقوقی به‌کار می‌رود و به معنای زندگی یا اقامت داشتن در جایی است. همچنین در معنای استعاری، نشان‌دهنده وجود یا تمرکز چیزی در مکانی یا نهادی خاص است.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** زندگی‌کردن در یک خانه، شهر یا کشور.
+    
+- **Figurative sense (کاربرد استعاری):** قرار داشتن قدرت، حق یا مسئولیت در شخص یا سازمانی.
+    
+
+---
+
+### 3. Example Sentences
+
+- She currently **resides** in Paris.  
+    _(او در حال حاضر در پاریس ساکن است.)_
+    
+- The governor **resides** in the official residence downtown.  
+    _(فرماندار در اقامتگاه رسمی مرکز شهر زندگی می‌کند.)_
+    
+- Authority to make decisions **resides** with the board of directors.  
+    _(اختیار تصمیم‌گیری در هیئت‌مدیره قرار دارد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**reside in/at**|He resides in New York.|ساکن بودن در|
+|**reside permanently**|They reside permanently in Canada.|اقامت دائم داشتن|
+|**reside abroad**|Many students reside abroad during their studies.|خارج از کشور ساکن بودن|
+|**power resides in/with**|Power resides with the people.|قدرت در دست مردم است|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- live (زندگی کردن)
+    
+- dwell (اقامت داشتن، رسمی‌تر)
+    
+- inhabit (ساکن بودن)
+    
+- lodge (اقامت‌کردن موقت)
+    
+- exist (وجود داشتن، در معنای استعاری)
+    
+
+**Antonyms (متضادها):**
+
+- leave (ترک کردن)
+    
+- depart (عزیمت کردن)
+    
+- vacate (خالی کردن مکان)
+    
+- move (جابجا شدن)
+    
+- emigrate (مهاجرت کردن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _reside_ رو دقیقاً مثل _live_ استفاده می‌کنن؛ در حالی که _reside_ رسمی‌تره و معمولاً در اسناد، قوانین و نوشتار به کار میره.
+    
+- ❌ گاهی فقط معنای فیزیکی در نظر گرفته میشه؛ در حالی که در معنای استعاری (مثل _power resides in the people_) هم بسیار پرکاربرده.
+    
+- ❌ بعضی‌ها فکر می‌کنن فقط برای اقامت دائم به کار میره؛ اما برای اقامت موقت هم میشه استفاده کرد.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Legal:** در اسناد رسمی و حقوقی (e.g., “He resides at…”).
+    
+- **Neutral/Formal Speech:** رایج در متون دانشگاهی یا خبری.
+    
+- **Everyday Speech:** کمتر استفاده میشه؛ معمولاً مردم در مکالمه از _live_ استفاده می‌کنن.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **reside vs. live:** _live_ رایج و عمومی است، _reside_ رسمی‌تر و بیشتر در متن‌های حقوقی یا آکادمیک.
+    
+- **reside vs. dwell:** _dwell_ ادبی و قدیمی‌تر است، در حالی که _reside_ در زبان مدرن رسمی کاربرد دارد.
+    
+- **reside vs. inhabit:** _inhabit_ برای موجودات یا جمعیت به کار میره (inhabit the earth)، ولی _reside_ بیشتر برای افراد به‌طور شخصی.
+    
+
+---
+
+### 9. Word Family
+
+- **reside (v.)** → اقامت داشتن
+    
+- **residence (n.)** → اقامتگاه، محل سکونت
+    
+- **resident (n./adj.)** → ساکن، مقیم
+    
+- **residency (n.)** → اقامت، یا دوره تخصص پزشکی
+    
+- **residing (adj./participle)** → ساکن
+    
+
+---
+## Startle
+
+**Part of Speech:** #verb / #noun (rare) / #adjective form: _Startling_  
+**IPA:** /ˈstɑːrtl/ (verb) /ˈstɑːrtlɪŋ/ (adj.)  
+**Persian:** ترساندن، مبهوت‌کردن؛ شگفت‌انگیز، تکان‌دهنده
+
+---
+
+### 1. Definition
+
+> To surprise or frighten someone suddenly; as adjective (_startling_): very surprising, astonishing, or alarming.  
+> **Persian:** ناگهان کسی را ترساندن یا مبهوت کردن؛ یا چیزی که بسیار تعجب‌آور یا تکان‌دهنده باشد.
+
+**Extended Definition:**
+
+- As a **verb**, _startle_ means to cause a quick shock of surprise or fear.
+    
+- As an **adjective** (_startling_), it means shocking, unexpected, or surprisingly unusual.
+    
+
+**Persian Explanation:**  
+"Startling" برای توصیف چیزهایی به کار می‌رود که ناگهانی، عجیب یا تکان‌دهنده هستند؛ چه در معنای مثبت (زیبایی شگفت‌انگیز) و چه منفی (خبر تکان‌دهنده).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** ترساندن کسی با یک حرکت یا صدا.
+    
+- **Figurative sense (کاربرد استعاری):** چیزی غیرمنتظره و شوکه‌کننده (مثلاً یک کشف علمی یا یک خبر).
+    
+
+---
+
+### 3. Example Sentences
+
+- The loud noise **startled** the baby.  
+    _(صدای بلند کودک را ترساند.)_
+    
+- She made a **startling** discovery in her research.  
+    _(او کشف شگفت‌انگیزی در پژوهش خود انجام داد.)_
+    
+- The statistics are **startling** and demand immediate action.  
+    _(این آمار تکان‌دهنده است و نیاز به اقدام فوری دارد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**startling news**|We heard some startling news today.|خبر تکان‌دهنده|
+|**startling discovery**|A startling discovery changed history.|کشف شگفت‌انگیز|
+|**startling resemblance**|He has a startling resemblance to his father.|شباهت حیرت‌آور|
+|**startling fact**|It is a startling fact that…|حقیقت تکان‌دهنده|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- surprising (شگفت‌آور)
+    
+- shocking (تکان‌دهنده)
+    
+- astonishing (حیرت‌انگیز)
+    
+- unexpected (غیرمنتظره)
+    
+- striking (چشمگیر، حیرت‌آور)
+    
+
+**Antonyms (متضادها):**
+
+- ordinary (عادی)
+    
+- expected (منتظره)
+    
+- unsurprising (غیرشگفت‌انگیز)
+    
+- common (معمولی)
+    
+- dull (کسل‌کننده)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها _startling_ رو فقط منفی می‌فهمن، در حالی که می‌تونه مثبت هم باشه (مثلاً زیبایی یا کشف شگفت‌انگیز).
+    
+- ❌ گاهی با _startling_ و _stunning_ قاطی میشه؛ _stunning_ بیشتر روی زیبایی و تأثیر مثبت تأکید داره، در حالی که _startling_ لزوماً بار مثبت یا منفی داره.
+    
+- ❌ بعضی زبان‌آموزها فکر می‌کنن _startling_ فقط صفت هست؛ در حالی که از فعل _startle_ میاد.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** در متون علمی، خبری و رسمی (startling discovery, startling statistics).
+    
+- **Everyday Speech:** رایج برای بیان تعجب (That’s startling!).
+    
+- **Literary:** در ادبیات برای ایجاد اثر شوک یا هیجان.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **startling vs. surprising:** _surprising_ عمومی‌تره، _startling_ شدت بیشتری داره و حس شوک یا حیرت رو منتقل می‌کنه.
+    
+- **startling vs. stunning:** _stunning_ بار مثبت (زیبایی/تأثیرگذاری) داره، _startling_ می‌تونه مثبت یا منفی باشه.
+    
+- **startling vs. shocking:** _shocking_ بیشتر بار منفی داره، اما _startling_ خنثی‌تر و متنوع‌تره.
+    
+
+---
+
+### 9. Word Family
+
+- **startle (v.)** → ترساندن، مبهوت‌کردن
+    
+- **startled (adj.)** → ترسیده، مبهوت
+    
+- **startling (adj.)** → تکان‌دهنده، شگفت‌آور
+    
+- **startlingly (adv.)** → به‌طور تکان‌دهنده/حیرت‌آور
+    
+
+---
+## Voracious
+
+**Part of Speech:** #adjective  
+**IPA:** /vɔːˈreɪʃəs/  
+**Persian:** پرولع، سیری‌ناپذیر، حریص
+
+---
+
+### 1. Definition
+
+> Having an eager and insatiable appetite for food, activity, or pursuit.  
+> **Persian:** داشتن میل شدید و سیری‌ناپذیر برای غذا، فعالیت یا پیگیری چیزی.
+
+**Extended Definition:**
+
+- **Literal:** Describes someone who eats a lot with great eagerness (a voracious eater).
+    
+- **Figurative:** Refers to an intense enthusiasm or hunger for non-food things, such as reading, learning, or collecting.
+    
+
+**Persian Explanation:**  
+"Voracious" می‌تواند هم معنای واقعی داشته باشد (اشتها و ولع زیاد برای غذا) و هم معنای استعاری (اشتیاق شدید برای یادگیری، مطالعه یا فعالیت).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** ولع شدید برای خوردن یا نوشیدن.
+    
+- **Figurative sense (کاربرد استعاری):** اشتیاق سیری‌ناپذیر برای دانش، مطالعه، یا فعالیت‌های دیگر.
+    
+
+---
+
+### 3. Example Sentences
+
+- He is a **voracious** eater who never seems to get full.  
+    _(او پرخور است و هیچ‌وقت سیر نمی‌شود.)_
+    
+- She has a **voracious** appetite for books.  
+    _(او اشتیاق سیری‌ناپذیری برای کتاب‌ها دارد.)_
+    
+- The journalist was a **voracious** seeker of the truth.  
+    _(آن روزنامه‌نگار جوینده‌ی سیری‌ناپذیر حقیقت بود.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**voracious appetite**|He had a voracious appetite for pizza.|ولع شدید برای غذا|
+|**voracious reader**|She is a voracious reader of novels.|خواننده پرولع رمان‌ها|
+|**voracious curiosity**|The child showed a voracious curiosity.|کنجکاوی سیری‌ناپذیر|
+|**voracious demand**|There is a voracious demand for new technology.|تقاضای شدید|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- insatiable (سیری‌ناپذیر)
+    
+- ravenous (گرسنه و پرولع)
+    
+- greedy (حریص)
+    
+- avid (مشتاق)
+    
+- eager (مشتاق، پرمیل)
+    
+
+**Antonyms (متضادها):**
+
+- satisfied (راضی)
+    
+- full (سیر)
+    
+- moderate (میانه‌رو)
+    
+- restrained (خویشتن‌دار)
+    
+- uninterested (بی‌علاقه)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها فکر می‌کنن _voracious_ فقط برای غذاست؛ در حالی که می‌تونه برای کتاب‌خواندن، یادگیری یا حتی علاقه به موسیقی هم به کار بره.
+    
+- ❌ گاهی با _ferocious_ قاطی میشه؛ _ferocious_ یعنی وحشی/خشن، ولی _voracious_ یعنی پرولع و سیری‌ناپذیر.
+    
+- ❌ بعضی‌ها تصور می‌کنن همیشه منفی است، در حالی که می‌تونه مثبت هم باشه (مثل voracious learner).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Literary:** بیشتر در نوشتار رسمی، توصیفی و ادبی.
+    
+- **Neutral:** در متون عمومی برای نشان‌دادن اشتیاق زیاد.
+    
+- **Everyday Speech:** کمتر رایجه؛ جایگزین‌های ساده‌تر مثل _really hungry_ یا _big reader_ در مکالمات روزمره استفاده میشه.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **voracious vs. ravenous:** هر دو به معنای خیلی گرسنه‌اند؛ اما _voracious_ هم برای گرسنگی واقعی و هم برای اشتیاق استعاری استفاده میشه، در حالی که _ravenous_ بیشتر برای گرسنگی فیزیکی شدید.
+    
+- **voracious vs. insatiable:** _insatiable_ یعنی سیری‌ناپذیر در کل، ولی _voracious_ تأکیدش روی میل شدید و پرولعانه است.
+    
+- **voracious vs. avid:** _avid_ معمولاً بار مثبت داره (avid reader)، در حالی که _voracious_ می‌تونه بار افراطی یا منفی هم بده.
+    
+
+---
+
+### 9. Word Family
+
+- **voracious (adj.)** → پرولع، سیری‌ناپذیر
+    
+- **voraciously (adv.)** → با ولع زیاد  
+    _She voraciously devoured the book._
+    
+- **voracity (n.)** → ولع، حرص  
+    _The lion’s voracity shocked the hunters._
+    
+
+---
+## Feast
+
+**Part of Speech:** #noun / #verb  
+**IPA:** /fiːst/  
+**Persian:** ضیافت، جشن، مهمانی بزرگ؛ جشن‌گرفتن، سور دادن
+
+---
+
+### 1. Definition
+
+> - **Noun:** A large and elaborate meal, often celebrating a special occasion; also, a festival or lavish event.
+>     
+> - **Verb:** To eat and drink sumptuously or to celebrate with a feast.  
+>     **Persian:**
+>     
+> - اسم: ضیافت یا مهمانی بزرگ با غذاهای فراوان؛ جشن باشکوه.
+>     
+> - فعل: برپاکردن ضیافت یا مفصل خوردن و جشن گرفتن.
+>     
+
+**Extended Definition:**
+
+- Literally, _feast_ is about abundant food and drink served for celebration (weddings, religious holidays).
+    
+- Figuratively, it can describe anything that offers great delight (a feast for the eyes/ears = چیزی دیدنی یا شنیدنی بسیار لذت‌بخش).
+    
+
+**Persian Explanation:**  
+"Feast" بیشتر برای ضیافت‌های بزرگ مذهبی، فرهنگی یا خانوادگی به کار می‌رود و در معنای استعاری، به تجربه‌ای پر از لذت و زیبایی اشاره می‌کند.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** یک ضیافت با غذا و نوشیدنی فراوان.
+    
+- **Figurative sense (کاربرد استعاری):** هرچیزی که لذت فراوان فراهم کند (مثل feast for the eyes).
+    
+
+---
+
+### 3. Example Sentences
+
+- The wedding included a huge **feast** with hundreds of guests.  
+    _(عروسی شامل ضیافت بزرگی با صدها مهمان بود.)_
+    
+- They **feasted** on turkey and desserts during the holiday.  
+    _(آنها در تعطیلات روی بوقلمون و دسرها سور دادند.)_
+    
+- The fireworks were a **feast for the eyes**.  
+    _(آتش‌بازی جشنی برای چشم‌ها بود.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**wedding feast**|They prepared a wedding feast.|ضیافت عروسی|
+|**religious feast**|Christmas is an important religious feast.|جشن مذهبی|
+|**feast day**|The town celebrates its feast day.|روز جشن مذهبی/محلی|
+|**feast for the eyes**|The scenery is a feast for the eyes.|دیدنی شگفت‌انگیز|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- banquet (ضیافت رسمی)
+    
+- celebration (جشن)
+    
+- festival (جشنواره)
+    
+- gala (جشن باشکوه)
+    
+- treat (لذت، خوراکی خوشایند)
+    
+
+**Antonyms (متضادها):**
+
+- fast (روزه)
+    
+- famine (قحطی)
+    
+- scarcity (کمبود)
+    
+- deprivation (محرومیت)
+    
+- abstinence (پرهیز)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها فکر می‌کنن _feast_ فقط معنای مذهبی داره؛ در حالی که برای جشن‌های عادی هم به کار میره.
+    
+- ❌ گاهی با _festival_ یکی گرفته میشه؛ _festival_ یک رویداد یا جشنواره است، ولی _feast_ بیشتر روی غذا و ضیافت تأکید داره.
+    
+- ❌ بعضی زبان‌آموزها فکر می‌کنن همیشه جمع (feasts) باید استفاده بشه، در حالی که شکل مفرد هم بسیار رایج است.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** رایج در متون فرهنگی، تاریخی، مذهبی.
+    
+- **Everyday Speech:** بیشتر در معنای استعاری (a feast for the eyes).
+    
+- **Religious/Literary:** کاربرد زیاد در کتاب‌های مذهبی و متون ادبی.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **feast vs. banquet:** هر دو ضیافت هستند، اما _banquet_ رسمی‌تر و در محیط‌های تشریفاتی به کار میره.
+    
+- **feast vs. festival:** _festival_ رویداد فرهنگی/جشنواره است؛ _feast_ بیشتر به غذای فراوان و مهمانی اشاره دارد.
+    
+- **feast vs. party:** _party_ می‌تونه کوچک یا بزرگ باشد، اما _feast_ حتماً پر از غذا و شکوه است.
+    
+
+---
+
+### 9. Word Family
+
+- **feast (n.)** → ضیافت، جشن
+    
+- **feast (v.)** → ضیافت دادن، جشن گرفتن
+    
+- **feasting (participle/n.)** → سور دادن، جشن‌گرفتن
+    
+- **feast day (n.)** → روز جشن مذهبی یا محلی
+    
+
+---
+
+## Fling
+
+**Part of Speech:** #verb / #noun  
+**IPA:** /flɪŋ/  
+**Persian:** پرت‌کردن، انداختن با شدت؛ هوس یا رابطه کوتاه‌مدت
+
+---
+
+### 1. Definition
+
+> - **Verb:** To throw or push something/someone suddenly and with force.
+>     
+> - **Noun:** A short, casual experience or relationship, often without seriousness.  
+>     **Persian:**
+>     
+> - فعل: پرتاب‌کردن یا انداختن چیزی با شدت.
+>     
+> - اسم: تجربه‌ای کوتاه‌مدت یا رابطه‌ای زودگذر و غیرجدی.
+>     
+
+**Extended Definition:**
+
+- As a **verb**, _fling_ implies forceful, careless, or impulsive throwing (different from a controlled throw).
+    
+- As a **noun**, _a fling_ often refers to a brief, casual romance, or any short, intense involvement.
+    
+
+**Persian Explanation:**  
+"Fling" هم معنای فیزیکی دارد (پرتاب‌کردن چیزی با شدت یا بی‌دقتی) و هم معنای استعاری (تجربه کوتاه، رابطه زودگذر، یا سرگرمی موقت).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** پرت‌کردن چیزی با شدت یا بی‌دقتی.
+    
+- **Figurative sense (کاربرد استعاری):** رابطه یا تجربه کوتاه‌مدت، یا درگیرشدن ناگهانی در کاری.
+    
+
+---
+
+### 3. Example Sentences
+
+- He angrily **flung** the book across the room.  
+    _(او با عصبانیت کتاب را به آن طرف اتاق پرتاب کرد.)_
+    
+- They had a summer **fling**, but nothing serious.  
+    _(آنها یک رابطه تابستانی کوتاه داشتند، اما جدی نبود.)_
+    
+- She **flung** herself into her work after the breakup.  
+    _(او پس از جدایی خود را با شدت در کار غرق کرد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**fling something**|He flung the door open.|چیزی را با شدت باز/پرتاب کردن|
+|**a brief fling**|It was just a brief fling.|یک رابطه کوتاه|
+|**a summer fling**|They enjoyed a summer fling.|رابطه تابستانی کوتاه|
+|**fling oneself into**|She flung herself into writing.|خود را غرق در کاری کردن|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- (v.) throw (پرتاب‌کردن)
+    
+- toss (انداختن)
+    
+- hurl (پرتاب با شدت)
+    
+- cast (پرتاب‌کردن)
+    
+- launch (پرتاب‌کردن)
+    
+- (n.) affair (رابطه کوتاه)
+    
+- romance (عشق کوتاه‌مدت)
+    
+- adventure (ماجرای زودگذر)
+    
+- dalliance (رابطه سطحی)
+    
+
+**Antonyms (متضادها):**
+
+- (v.) catch (گرفتن)
+    
+- place (گذاشتن)
+    
+- set down (زمین گذاشتن به‌آرامی)
+    
+- (n.) commitment (تعهد)
+    
+- long-term relationship (رابطه طولانی‌مدت)
+    
+- stability (ثبات)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها فکر می‌کنن _fling_ همون _throw_ ساده است؛ در حالی که _fling_ بار **شدت، ناگهانی و بی‌دقت بودن** داره.
+    
+- ❌ گاهی فقط معنای «پرتاب‌کردن» در نظر گرفته میشه و معنای استعاری «رابطه یا تجربه زودگذر» فراموش میشه.
+    
+- ❌ در اسم، بعضی‌ها فکر می‌کنن همیشه منفی است؛ در حالی که می‌تونه یک تجربه هیجان‌انگیز و مثبت هم باشه.
+    
+
+---
+
+### 7. Register
+
+- **Everyday/Neutral:** برای پرتاب‌کردن چیزی با شدت.
+    
+- **Informal:** برای روابط زودگذر (summer fling).
+    
+- **Literary/Expressive:** برای غرق‌شدن ناگهانی در کاری (_fling oneself into_).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **fling vs. throw:** _throw_ کلی‌تر و خنثی است؛ _fling_ حالت ناگهانی، شدید و بی‌ملاحظه دارد.
+    
+- **fling vs. hurl:** _hurl_ یعنی پرتاب خیلی پرقدرت، _fling_ می‌تواند هم پرقدرت و هم بی‌دقت باشد.
+    
+- **fling vs. affair:** _affair_ رابطه عاشقانه جدی‌تر و طولانی‌تر از _fling_ است.
+    
+
+---
+
+### 9. Word Family
+
+- **fling (v.)** → پرت‌کردن
+    
+- **flung (past participle)** → پرتاب‌شده
+    
+- **flinging (participle)** → در حال پرتاب‌کردن / غرق‌شدن
+    
+- **fling (n.)** → رابطه کوتاه، تجربه زودگذر
+    
+
+---
+## Congregate
+
+**Part of Speech:** #verb  
+**IPA:** /ˈkɑːŋɡrɪˌɡeɪt/  
+**Persian:** گردآمدن، تجمع کردن
+
+---
+
+### 1. Definition
+
+> To come together in a group, crowd, or assembly.  
+> **Persian:** در یک مکان گرد آمدن یا تشکیل جمعیت دادن.
+
+**Extended Definition:**
+
+- As a **verb**, _congregate_ means that people (or sometimes animals) gather in one place, often for a specific purpose (social, religious, political, etc.).
+    
+- The word is slightly formal and often used in public, religious, or official contexts.
+    
+
+**Persian Explanation:**  
+"Congregate" به معنای گردهم‌آمدن افراد در یک مکان است، چه برای عبادت، چه برای اعتراض یا حتی ملاقات اجتماعی.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** تجمع فیزیکی افراد در یک مکان (مانند میدان شهر یا کلیسا).
+    
+- **Figurative sense (کاربرد استعاری):** گردهم‌آمدن ایده‌ها، منابع یا نیروها در یک نقطه یا موقعیت.
+    
+
+---
+
+### 3. Example Sentences
+
+- The students **congregated** in the hall for the assembly.  
+    _(دانش‌آموزان برای مراسم در سالن تجمع کردند.)_
+    
+- Birds often **congregate** near the lake in the evening.  
+    _(پرندگان معمولاً عصرها نزدیک دریاچه جمع می‌شوند.)_
+    
+- Protesters **congregated** in front of the parliament building.  
+    _(معترضان جلوی ساختمان مجلس تجمع کردند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**congregate in/at**|People congregated in the square.|در مکانی تجمع کردن|
+|**congregate for worship**|They congregated for worship every Sunday.|برای عبادت گرد آمدن|
+|**large congregations**|Large groups congregated at the festival.|گروه‌های بزرگ تجمع کردند|
+|**congregate around**|Fans congregated around the celebrity.|اطراف کسی جمع شدن|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- gather (جمع شدن)
+    
+- assemble (گردآمدن)
+    
+- convene (جلسه تشکیل دادن)
+    
+- cluster (خوشه‌وار جمع شدن)
+    
+- rally (تجمع کردن)
+    
+
+**Antonyms (متضادها):**
+
+- disperse (پراکنده شدن)
+    
+- scatter (پخش شدن)
+    
+- separate (جدا شدن)
+    
+- divide (تقسیم شدن)
+    
+- isolate (منزوی کردن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _congregate_ رو فقط در معنای مذهبی (مثل کلیسا) می‌فهمن، در حالی که در همه نوع تجمع به کار میره.
+    
+- ❌ گاهی با _aggregate_ قاطی میشه؛ _aggregate_ یعنی جمع‌آوری یا کل‌کردن، اما _congregate_ یعنی تجمع فیزیکی افراد یا موجودات.
+    
+- ❌ بعضی‌ها فکر می‌کنن فقط برای انسان‌هاست؛ در حالی که برای حیوانات هم استفاده میشه (مثلاً پرندگان).
+    
+
+---
+
+### 7. Register
+
+- **Formal:** بیشتر در نوشتار رسمی و اخبار (e.g., “Citizens congregated in the streets”).
+    
+- **Religious:** در بافت‌های مذهبی بسیار رایج (congregate for worship).
+    
+- **Everyday Speech:** کمتر استفاده میشه؛ جایگزین‌های ساده‌تر مثل _gather_ یا _meet_ رایج‌ترند.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **congregate vs. gather:** _gather_ عمومی و روزمره‌تره؛ _congregate_ رسمی‌تر و اغلب برای گروه‌های بزرگ استفاده میشه.
+    
+- **congregate vs. assemble:** هر دو رسمی‌اند، ولی _assemble_ بیشتر برای جلسات یا کار رسمی، _congregate_ برای تجمع عمومی یا اجتماعی.
+    
+- **congregate vs. convene:** _convene_ به‌طور خاص برای جلسه رسمی (مجلس، دادگاه) به کار میره، _congregate_ عمومی‌تره.
+    
+
+---
+
+### 9. Word Family
+
+- **congregate (v.)** → گردآمدن، تجمع کردن
+    
+- **congregation (n.)** → جماعت، گروه، اجتماع (اغلب مذهبی)
+    
+- **congregational (adj.)** → مربوط به جماعت یا اجتماع (مخصوصاً مذهبی)
+    
+- **congregating (participle)** → در حال تجمع کردن
+    
+
+---
+## Prospect
+
+**Part of Speech:** #noun / #verb (rare, formal)  
+**IPA:** /ˈprɑːspekt/ (noun), /prəˈspekt/ (verb)  
+**Persian:** چشم‌انداز، دورنما، امید، انتظار
+
+---
+
+### 1. Definition
+
+> - **Noun:** The possibility or likelihood of a future event happening; opportunities for success or advancement.
+>     
+> - **Verb (rare):** To search or explore for valuable resources (e.g., gold prospecting).  
+>     **Persian:**
+>     
+> - اسم: امکان یا احتمال وقوع چیزی در آینده؛ فرصت‌ها یا امید به موفقیت.
+>     
+> - فعل: جست‌وجو کردن برای منابع ارزشمند (کم‌کاربرد).
+>     
+
+**Extended Definition:**
+
+- As a **noun**, _prospect_ often refers to expected outcomes (job prospects, career prospects) or potential future situations (the prospect of rain, the prospect of success).
+    
+- As a **verb**, it’s mostly technical or old-fashioned, used in contexts like _prospecting for minerals_.
+    
+
+**Persian Explanation:**  
+"Prospect" یعنی چشم‌انداز یا احتمال وقوع اتفاقی در آینده. در زبان روزمره بیشتر به شکل جمع _prospects_ (فرصت‌ها، چشم‌اندازها) استفاده می‌شود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** در معنای قدیمی، به معنای چشم‌انداز واقعی یا منظره (landscape prospect).
+    
+- **Figurative sense (کاربرد استعاری):** به معنای فرصت‌ها، احتمالات یا آینده‌ی پیش‌رو.
+    
+
+---
+
+### 3. Example Sentences
+
+- She is excited about her career **prospects**.  
+    _(او درباره چشم‌انداز شغلی‌اش هیجان‌زده است.)_
+    
+- The **prospect** of rain ruined our plans.  
+    _(احتمال بارش باران برنامه‌های ما را خراب کرد.)_
+    
+- They went to Alaska to **prospect** for gold.  
+    _(آنها به آلاسکا رفتند تا دنبال طلا بگردند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**career prospects**|Graduates have good career prospects.|چشم‌انداز شغلی|
+|**job prospects**|Job prospects are improving in the tech industry.|فرصت‌های شغلی|
+|**economic prospects**|The country’s economic prospects look better.|چشم‌انداز اقتصادی|
+|**prospect of (something)**|The prospect of failure worried him.|احتمال چیزی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- opportunities (فرصت‌ها)
+    
+- chances (شانس‌ها)
+    
+- outlook (چشم‌انداز)
+    
+- possibilities (امکانات، احتمالات)
+    
+- expectations (انتظارات)
+    
+
+**Antonyms (متضادها):**
+
+- hopelessness (ناامیدی)
+    
+- impossibility (ناممکن بودن)
+    
+- doubt (تردید)
+    
+- uncertainty (ابهام شدید)
+    
+- dead end (بن‌بست)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _prospect_ رو فقط معنای "منظره" می‌گیرن؛ در حالی که معنای اصلی امروزی‌اش "چشم‌انداز آینده / فرصت" است.
+    
+- ❌ گاهی با _perspective_ اشتباه گرفته میشه؛ _prospect_ یعنی چشم‌انداز آینده، _perspective_ یعنی دیدگاه یا زاویه‌دید.
+    
+- ❌ بعضی فکر می‌کنن _prospects_ همیشه مثبت است؛ در حالی که می‌تونه منفی هم باشه (poor prospects).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** پرکاربرد در تجارت، اقتصاد و تحصیل (career prospects, economic prospects).
+    
+- **Everyday Speech:** در مکالمات هم استفاده میشه، اما بیشتر در زمینه‌های رسمی‌تر.
+    
+- **Technical/Old-fashioned (verb):** کاربرد محدود در معدن و زمین‌شناسی (prospecting for minerals).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **prospect vs. perspective:** _prospect_ = احتمال/چشم‌انداز آینده؛ _perspective_ = دیدگاه.
+    
+- **prospect vs. possibility:** _possibility_ = امکان ساده، _prospect_ = انتظار آینده (اغلب با بار مثبت یا منفی).
+    
+- **prospect vs. opportunity:** _opportunity_ = موقعیت واقعی برای عمل؛ _prospect_ = احتمال یا امیدی که ممکن است تحقق یابد.
+    
+
+---
+
+### 9. Word Family
+
+- **prospect (n.)** → چشم‌انداز، احتمال
+    
+- **prospective (adj.)** → بالقوه، احتمالی  
+    _Prospective students visited the campus._
+    
+- **prospector (n.)** → جوینده (معمولاً طلا یا منابع)
+    
+- **prospecting (n./v.)** → جست‌وجوی منابع
+    
+
+---
+## Bleak
+
+**Part of Speech:** #adjective  
+**IPA:** /bliːk/  
+**Persian:** سرد و غم‌انگیز، بی‌روح، نومیدکننده
+
+---
+
+### 1. Definition
+
+> Cold, empty, and without hope; lacking warmth, cheer, or positive prospects.  
+> **Persian:** سرد، بی‌روح، افسرده‌کننده؛ یا بدون امید و چشم‌انداز مثبت.
+
+**Extended Definition:**
+
+- **Literal:** Describes weather, landscapes, or places that are cold, bare, and unpleasant.
+    
+- **Figurative:** Refers to situations, futures, or outlooks that are depressing, discouraging, or hopeless.
+    
+
+**Persian Explanation:**  
+"Bleak" می‌تواند برای توصیف مکان یا شرایط جوی (مثلاً زمستان سرد و بی‌روح) و نیز برای بیان شرایط زندگی، آینده یا اوضاع مأیوس‌کننده به کار برود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** مناظر یا آب‌وهوای سرد، خشک و بی‌روح.
+    
+- **Figurative sense (کاربرد استعاری):** آینده‌ی ناامیدکننده، اوضاع بد اقتصادی یا روحیه‌ی افسرده.
+    
+
+---
+
+### 3. Example Sentences
+
+- The landscape looked **bleak** under the gray sky.  
+    _(منظره زیر آسمان خاکستری بی‌روح به نظر می‌رسید.)_
+    
+- The company is facing a **bleak** future after heavy losses.  
+    _(شرکت پس از ضررهای سنگین با آینده‌ای تاریک و مأیوس‌کننده روبه‌روست.)_
+    
+- His expression was **bleak**, showing little hope.  
+    _(چهره‌اش غمگین و بی‌روح بود و امیدی نشان نمی‌داد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**bleak future**|Many fear a bleak future.|آینده‌ی مأیوس‌کننده|
+|**bleak landscape**|We saw a bleak, barren desert.|چشم‌انداز خشک و بی‌روح|
+|**bleak outlook**|The economic outlook is bleak.|دورنمای ناامیدکننده|
+|**bleak winter**|It was a long and bleak winter.|زمستانی سرد و غم‌انگیز|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- desolate (ویران و بی‌روح)
+    
+- dreary (کسل‌کننده)
+    
+- gloomy (تیره و تار)
+    
+- hopeless (ناامیدکننده)
+    
+- barren (خشک و بی‌ثمر)
+    
+
+**Antonyms (متضادها):**
+
+- hopeful (امیدبخش)
+    
+- bright (روشن، درخشان)
+    
+- promising (نویدبخش)
+    
+- cheerful (شاد و امیدوارکننده)
+    
+- fertile (پرثمر، بارور)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _bleak_ رو فقط برای هوا و منظره می‌دونن؛ در حالی که برای آینده یا موقعیت‌های انسانی هم به کار میره.
+    
+- ❌ گاهی با _weak_ قاطی میشه؛ _bleak_ ربطی به «ضعیف» نداره.
+    
+- ❌ بعضی فکر می‌کنن همیشه بار منفی مطلق داره؛ اما در ادبیات می‌تونه صرفاً معنای «سرد و بی‌روح» بدون قضاوت شدید باشه.
+    
+
+---
+
+### 7. Register
+
+- **Literary/Formal:** پرکاربرد در متون ادبی، روزنامه‌نگاری و تحلیل‌های سیاسی.
+    
+- **Everyday Speech:** کمتر استفاده میشه، جایگزین‌هایی مثل _hopeless_ یا _gloomy_ در مکالمه رایج‌ترند.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **bleak vs. gloomy:** هر دو به معنای افسرده‌کننده‌اند، اما _gloomy_ بیشتر برای حالات روحی یا نور کم، و _bleak_ برای مکان‌ها یا آینده.
+    
+- **bleak vs. desolate:** _desolate_ بیشتر برای مکان‌های خالی و ویران، _bleak_ می‌تونه استعاری هم باشه (مثل bleak future).
+    
+- **bleak vs. hopeless:** _hopeless_ مستقیماً روی ناامیدی تأکید داره، _bleak_ بار تصویری‌تر و توصیفی‌تر داره.
+    
+
+---
+
+### 9. Word Family
+
+- **bleak (adj.)** → بی‌روح، ناامیدکننده
+    
+- **bleakly (adv.)** → به‌طور ناامیدانه/بی‌روح  
+    _He stared bleakly at the horizon._
+    
+- **bleakness (n.)** → سردی، تاریکی، ناامیدی  
+    _The bleakness of the landscape depressed us._
+    
+
+---
+## Void
+
+**Part of Speech:** #noun / #adjective / #verb  
+**IPA:** /vɔɪd/  
+**Persian:** تهی، خلأ، بی‌اعتبار؛ باطل کردن
+
+---
+
+### 1. Definition
+
+> - **Noun:** An empty space, emptiness, or feeling of nothingness.
+>     
+> - **Adjective:** Not valid; empty, lacking content or effect.
+>     
+> - **Verb:** To cancel, nullify, or make something legally invalid.  
+>     **Persian:**
+>     
+> - اسم: خلأ، تهی، پوچی.
+>     
+> - صفت: خالی، بی‌اثر، باطل.
+>     
+> - فعل: باطل کردن، بی‌اعتبار ساختن.
+>     
+
+**Extended Definition:**
+
+- As a **noun**, _void_ often refers to physical emptiness (space void) or emotional emptiness (a void in her heart).
+    
+- As an **adjective**, it describes something invalid or lacking (void contract, void of meaning).
+    
+- As a **verb**, _to void_ means to cancel or legally nullify something (void a check, void a contract).
+    
+
+**Persian Explanation:**  
+"Void" هم معنای فیزیکی (خلأ و تهی)، هم معنای حقوقی (باطل و بی‌اعتبار) و هم معنای احساسی (احساس پوچی) دارد.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** خلأ در فضا، یا فضای خالی در چیزی.
+    
+- **Figurative sense (کاربرد استعاری):** پوچی درونی، فقدان معنا، یا بی‌اعتباری قانونی.
+    
+
+---
+
+### 3. Example Sentences
+
+- He felt a deep **void** after his friend’s death.  
+    _(او پس از مرگ دوستش احساس خلأ عمیقی کرد.)_
+    
+- The contract was declared **void** by the court.  
+    _(قرارداد توسط دادگاه باطل اعلام شد.)_
+    
+- The company decided to **void** the agreement.  
+    _(شرکت تصمیم گرفت توافق را باطل کند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**legal void**|The law left a legal void.|خلأ قانونی|
+|**feeling of void**|She tried to fill the void in her life.|احساس پوچی|
+|**declare void**|The judge declared the contract void.|باطل اعلام‌کردن|
+|**void of meaning**|His words were void of meaning.|تهی از معنا|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- (n.) emptiness (خلأ، تهی)
+    
+- vacuum (خلأ)
+    
+- nothingness (هیچ‌چیزی)
+    
+- gap (شکاف)
+    
+- absence (نبود)
+    
+- (adj./v.) invalid (باطل)
+    
+- null (بی‌اعتبار)
+    
+- canceled (لغو شده)
+    
+- hollow (خالی)
+    
+- meaningless (بی‌معنا)
+    
+
+**Antonyms (متضادها):**
+
+- (n.) fullness (پر بودن)
+    
+- presence (حضور)
+    
+- existence (وجود)
+    
+- (adj./v.) valid (معتبر)
+    
+- effective (مؤثر)
+    
+- lawful (قانونی)
+    
+- binding (الزام‌آور)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها فکر می‌کنن _void_ فقط اسم هست؛ در حالی که صفت و فعل هم کاربرد فراوان داره.
+    
+- ❌ گاهی با _avoid_ قاطی میشه؛ _avoid_ یعنی اجتناب کردن، اما _void_ یعنی تهی یا باطل.
+    
+- ❌ بعضی‌ها فکر می‌کنن فقط در حقوق استفاده میشه؛ در حالی که در فیزیک (void space) و احساسات (a void in my heart) هم رایجه.
+    
+
+---
+
+### 7. Register
+
+- **Legal/Formal:** بسیار رایج در متون حقوقی (void contract, declare void).
+    
+- **Scientific/Neutral:** در فیزیک و نجوم (void in space).
+    
+- **Literary:** در ادبیات برای بیان پوچی و خلأ درونی.
+    
+- **Everyday Speech:** کمتر استفاده میشه؛ بیشتر در معنای استعاری (fill the void).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **void vs. empty:** _empty_ یعنی خالی ساده؛ _void_ رسمی‌تر و اغلب معنای عمیق‌تر (خلأ یا بی‌اعتباری).
+    
+- **void vs. null:** _null_ بیشتر اصطلاح حقوقی/ریاضی است؛ _void_ گسترده‌تر و در ادبیات هم میاد.
+    
+- **void vs. vacuum:** _vacuum_ علمی‌تر (خلأ فیزیکی)، _void_ هم علمی، هم حقوقی، هم احساسی.
+    
+
+---
+
+### 9. Word Family
+
+- **void (n./adj./v.)** → خلأ، باطل، باطل‌کردن
+    
+- **voided (adj./participle)** → باطل‌شده
+    
+- **voiding (n./participle)** → در حال باطل‌کردن
+    
+- **voidance (n.)** → ابطال، خالی‌شدن (کم‌کاربرد)
+    
+- **voidable (adj.)** → قابل ابطال (در حقوق)
+    
+
+---
+## Devoid
+
+**Part of Speech:** #adjective  
+**IPA:** /dɪˈvɔɪd/  
+**Persian:** خالی از، عاری از، بی‌چیز
+
+---
+
+### 1. Definition
+
+> Completely lacking or free from something.  
+> **Persian:** کاملاً خالی یا عاری بودن از چیزی.
+
+**Extended Definition:**
+
+- _Devoid_ is always followed by **“of”** (devoid of something).
+    
+- It emphasizes the **complete absence** of a quality, feeling, or feature.
+    
+
+**Persian Explanation:**  
+"Devoid" یعنی عاری بودن از یک ویژگی یا خصوصیت. این واژه معمولاً در متون رسمی یا ادبی برای تأکید بر فقدان کامل چیزی به کار می‌رود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** عاری از چیزهای ملموس (مثلاً زمین devoid of vegetation).
+    
+- **Figurative sense (کاربرد استعاری):** خالی از احساسات، اخلاق یا کیفیت‌های انسانی (مثلاً devoid of hope).
+    
+
+---
+
+### 3. Example Sentences
+
+- His speech was completely **devoid of** meaning.  
+    _(سخنرانی او کاملاً عاری از معنا بود.)_
+    
+- The desert is almost **devoid of** water.  
+    _(بیابان تقریباً خالی از آب است.)_
+    
+- She is not **devoid of** charm.  
+    _(او بی‌جذابیت نیست.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**devoid of life**|The abandoned house was devoid of life.|عاری از حیات|
+|**devoid of meaning**|The text seemed devoid of meaning.|عاری از معنا|
+|**devoid of hope**|He looked devoid of hope.|عاری از امید|
+|**devoid of emotion**|Her voice was devoid of emotion.|خالی از احساس|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- lacking (فاقد)
+    
+- without (بدون)
+    
+- empty of (خالی از)
+    
+- barren (بی‌ثمر)
+    
+- absent (غایب)
+    
+
+**Antonyms (متضادها):**
+
+- full of (پر از)
+    
+- abundant (فراوان)
+    
+- replete with (سرشار از)
+    
+- overflowing with (پر لبریز از)
+    
+- rich in (غنی از)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ همیشه باید با **“of”** بیاد (_devoid of_)؛ بعضی زبان‌آموزها اشتباه بدون _of_ استفاده می‌کنن.
+    
+- ❌ گاهی با _avoid_ قاطی میشه؛ _avoid_ یعنی اجتناب‌کردن، ولی _devoid_ یعنی عاری بودن.
+    
+- ❌ بعضی فکر می‌کنن فقط در معنای منفی به کار میره؛ در حالی که می‌تونه به‌صورت مثبت هم باشه (مثلاً not devoid of talent = بی‌استعداد نیست).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Literary:** رایج در نوشتار رسمی، ادبیات و مقالات.
+    
+- **Everyday Speech:** کمتر در مکالمه روزمره؛ جایگزین‌های ساده‌تر مثل _lacking_ یا _without_ رایج‌ترند.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **devoid vs. void:** _void_ می‌تونه اسم (خلأ)، صفت (باطل/خالی) یا فعل باشه؛ _devoid_ فقط صفت و همیشه با “of” میاد.
+    
+- **devoid vs. lacking:** _lacking_ ساده‌تر و غیررسمی‌تره، _devoid_ رسمی‌تر و اغلب برای تأکید.
+    
+- **devoid vs. barren:** _barren_ بیشتر برای زمین یا فرد نازا؛ _devoid_ برای هر چیزی (عاطفه، معنا، زندگی).
+    
+
+---
+
+### 9. Word Family
+
+- **devoid (adj.)** → عاری از
+    
+- _(هیچ فعل یا اسم مستقیمی از این واژه ساخته نشده، اما به‌طور معنایی با واژه‌ی **void** مرتبط است.)_
+    
+
+---
+## Evacuate
+
+**Part of Speech:** #verb  
+**IPA:** /ɪˈvækjueɪt/  
+**Persian:** تخلیه کردن، بیرون بردن، خارج کردن
+
+---
+
+### 1. Definition
+
+> To remove people (or sometimes things) from a dangerous or unsafe place; to empty a place for safety.  
+> **Persian:** خارج کردن افراد یا اشیاء از مکانی خطرناک یا ناامن؛ خالی‌کردن مکان برای حفظ امنیت.
+
+**Extended Definition:**
+
+- Primarily used in **emergencies** (fires, floods, wars, earthquakes).
+    
+- Can also mean **emptying the bowels** in medical/biological contexts (specialized use).
+    
+- More generally, to make an area or building empty of people.
+    
+
+**Persian Explanation:**  
+"Evacuate" یعنی تخلیه‌کردن مکان یا بیرون‌بردن افراد (معمولاً برای نجات و امنیت). همچنین در پزشکی به معنای تخلیه روده یا معده به‌کار می‌رود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کاربرد فیزیکی):** تخلیه ساختمان، شهر یا منطقه در زمان خطر.
+    
+- **Figurative/Technical sense (کاربرد استعاری/تخصصی):** تخلیه بدن در پزشکی یا انتقال نیرو/ساکنین.
+    
+
+---
+
+### 3. Example Sentences
+
+- Residents were **evacuated** after the earthquake.  
+    _(ساکنان پس از زلزله تخلیه شدند.)_
+    
+- The authorities ordered people to **evacuate** the building.  
+    _(مقامات دستور دادند مردم ساختمان را تخلیه کنند.)_
+    
+- The hospital staff **evacuated** the patients during the fire.  
+    _(کادر بیمارستان بیماران را هنگام آتش‌سوزی تخلیه کردند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**evacuate the building**|Everyone evacuated the building safely.|تخلیه ساختمان|
+|**evacuate civilians**|Soldiers helped evacuate civilians.|تخلیه غیرنظامیان|
+|**emergency evacuation**|The school practiced an emergency evacuation drill.|تخلیه اضطراری|
+|**evacuate the area**|People were told to evacuate the area.|تخلیه منطقه|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- empty (خالی‌کردن)
+    
+- clear out (تخلیه کردن)
+    
+- remove (بیرون بردن)
+    
+- withdraw (خارج کردن)
+    
+- vacate (تخلیه کردن)
+    
+
+**Antonyms (متضادها):**
+
+- occupy (اشغال کردن)
+    
+- stay (ماندن)
+    
+- fill (پرکردن)
+    
+- inhabit (ساکن شدن)
+    
+- enter (وارد شدن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _evacuate_ رو با _escape_ قاطی می‌کنن؛ _escape_ یعنی فرار کردن، _evacuate_ یعنی تخلیه‌کردن (معمولاً با برنامه و دستور).
+    
+- ❌ فکر می‌کنن همیشه فاعل "people" هست؛ در حالی که میشه _evacuate a place_ (تخلیه یک مکان).
+    
+- ❌ گاهی با _vacate_ اشتباه میشه؛ _vacate_ یعنی ترک‌کردن یک مکان، _evacuate_ معنای اضطراری و نجاتی داره.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** پرکاربرد در اخبار، متون رسمی و نظامی.
+    
+- **Everyday Speech:** بیشتر در مواقع اضطراری.
+    
+- **Technical/Medical:** معنای تخصصی "تخلیه بدن".
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **evacuate vs. vacate:** _vacate_ یعنی مکان رو ترک‌کردن (معمولاً عادی)، _evacuate_ یعنی تخلیه اضطراری و خطرناک.
+    
+- **evacuate vs. escape:** _escape_ حرکت شخصی برای فرار، _evacuate_ فرآیند سازمان‌یافته برای خروج.
+    
+- **evacuate vs. withdraw:** _withdraw_ بیشتر نظامی (عقب‌نشینی نیروها)، _evacuate_ برای مردم یا ساختمان‌ها.
+    
+
+---
+
+### 9. Word Family
+
+- **evacuate (v.)** → تخلیه کردن
+    
+- **evacuation (n.)** → تخلیه، بیرون‌بردن  
+    _The evacuation took three hours._
+    
+- **evacuated (adj./participle)** → تخلیه‌شده
+    
+- **evacuating (participle)** → در حال تخلیه
+    
+
+---
+## Vacant
+
+**Part of Speech:** #adjective  
+**IPA:** /ˈveɪkənt/  
+**Persian:** خالی، تهی، بی‌متصدی
+
+---
+
+### 1. Definition
+
+> Empty, unoccupied, or not filled; lacking contents, activity, or expression.  
+> **Persian:** خالی یا بدون استفاده؛ فاقد محتوا یا متصدی.
+
+**Extended Definition:**
+
+- **Physical:** A place, seat, or building that is empty and unused (a vacant room).
+    
+- **Occupational:** A job position that is unfilled (a vacant post).
+    
+- **Emotional/figurative:** An expression showing absence of thought or feeling (a vacant stare).
+    
+
+**Persian Explanation:**  
+"Vacant" هم برای مکان‌ها (اتاق یا خانه خالی)، هم برای موقعیت‌های شغلی (جای خالی)، و هم برای حالات روحی (نگاه بی‌روح) استفاده می‌شود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** خانه، اتاق، صندلی یا مکان خالی.
+    
+- **Figurative sense:** جایگاه شغلی خالی، یا حالت ذهنی بی‌فکر و بی‌احساس.
+    
+
+---
+
+### 3. Example Sentences
+
+- The hotel has several **vacant** rooms.  
+    _(هتل چند اتاق خالی دارد.)_
+    
+- There are many **vacant** positions in the company.  
+    _(در شرکت جایگاه‌های شغلی خالی زیادی وجود دارد.)_
+    
+- She gave him a **vacant** look.  
+    _(او به او نگاهی بی‌روح انداخت.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**vacant room**|We stayed in a vacant room.|اتاق خالی|
+|**vacant position**|The company advertised a vacant position.|جایگاه شغلی خالی|
+|**vacant house**|The street had many vacant houses.|خانه‌های خالی|
+|**vacant expression/stare**|He had a vacant expression on his face.|چهره/نگاه بی‌روح|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- empty (خالی)
+    
+- unoccupied (اشغال‌نشده)
+    
+- available (در دسترس)
+    
+- unfilled (پرنشده)
+    
+- expressionless (بی‌روح، بی‌حالت)
+    
+
+**Antonyms (متضادها):**
+
+- occupied (اشغال‌شده)
+    
+- filled (پرشده)
+    
+- engaged (مشغول)
+    
+- expressive (بیانگر، پرمعنی)
+    
+- inhabited (مسکونی)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها فکر می‌کنن _vacant_ فقط برای اتاق یا خانه است؛ در حالی که برای شغل و نگاه هم استفاده میشه.
+    
+- ❌ گاهی با _available_ قاطی میشه؛ _available_ به معنای «در دسترس بودن» است، در حالی که _vacant_ بیشتر روی «خالی بودن» تأکید داره.
+    
+- ❌ بعضی‌ها تصور می‌کنن همیشه مثبت است (یعنی فرصت یا مکان خالی)، اما می‌تونه منفی هم باشه (نگاه بی‌روح).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** رایج در متون اداری و تجاری (vacant post, vacant land).
+    
+- **Everyday Speech:** به‌کار میره، به‌ویژه برای مکان‌ها (vacant room).
+    
+- **Literary:** برای توصیف حالات چهره یا ذهن بی‌روح.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **vacant vs. empty:** _empty_ عمومی‌تره؛ _vacant_ رسمی‌تر و اغلب برای اتاق‌ها، شغل‌ها یا چهره‌ها.
+    
+- **vacant vs. available:** _available_ روی «در دسترس بودن» تأکید می‌کنه؛ _vacant_ فقط «خالی بودن» رو بیان می‌کنه.
+    
+- **vacant vs. unoccupied:** _unoccupied_ دقیق‌تر و فنی‌تره، _vacant_ رایج‌تر و پرکاربردتره.
+    
+
+---
+
+### 9. Word Family
+
+- **vacant (adj.)** → خالی
+    
+- **vacancy (n.)** → جای خالی، موقعیت خالی  
+    _There are two job vacancies in the firm._
+    
+- **vacantly (adv.)** → به‌طور بی‌روح/خالی  
+    _He stared vacantly at the wall._
+    
+
+---
+## Vanish
+
+**Part of Speech:** #verb  
+**IPA:** /ˈvænɪʃ/  
+**Persian:** ناپدید شدن، محو شدن
+
+---
+
+### 1. Definition
+
+> To disappear suddenly and completely from sight, existence, or memory.  
+> **Persian:** ناگهان و به‌طور کامل از نظر، وجود یا حافظه محو شدن.
+
+**Extended Definition:**
+
+- **Literal:** When something or someone disappears so it can no longer be seen (The magician made the coin vanish).
+    
+- **Figurative:** When feelings, opportunities, or hopes disappear or fade away (Her fear vanished).
+    
+
+**Persian Explanation:**  
+"Vanish" یعنی ناپدید یا محو شدن، چه به‌صورت واقعی (شیء یا فرد) و چه به‌صورت استعاری (امید، ترس یا فرصت).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** ناپدیدشدن ناگهانی اشیاء یا اشخاص.
+    
+- **Figurative sense:** محو شدن احساسات، خاطرات یا شانس‌ها.
+    
+
+---
+
+### 3. Example Sentences
+
+- The rabbit **vanished** into its hole.  
+    _(خرگوش در سوراخش ناپدید شد.)_
+    
+- All her worries suddenly **vanished**.  
+    _(تمام نگرانی‌هایش ناگهان محو شد.)_
+    
+- The documents **vanished** without a trace.  
+    _(مدارک بدون هیچ اثری ناپدید شدند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**vanish without a trace**|The thief vanished without a trace.|بی‌هیچ اثری ناپدید شدن|
+|**vanish suddenly**|He vanished suddenly from the room.|ناگهانی ناپدید شدن|
+|**vanish completely**|The pain has vanished completely.|کاملاً محو شدن|
+|**vanish into thin air**|The money seemed to vanish into thin air.|مثل دود هوا شدن|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- disappear (ناپدید شدن)
+    
+- fade (محو شدن)
+    
+- evaporate (بخار شدن، محو شدن)
+    
+- dissolve (حل/محو شدن)
+    
+- dematerialize (غیب شدن)
+    
+
+**Antonyms (متضادها):**
+
+- appear (ظاهر شدن)
+    
+- emerge (پدیدار شدن)
+    
+- materialize (به‌وجود آمدن)
+    
+- remain (باقی ماندن)
+    
+- stay (ماندن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _vanish_ و _banish_ رو قاطی می‌کنن؛ _banish_ یعنی تبعیدکردن، ولی _vanish_ یعنی ناپدیدشدن.
+    
+- ❌ فکر می‌کنن _vanish_ فقط برای اشیا فیزیکیه؛ در حالی که برای احساسات، صدا، بو و فرصت‌ها هم استفاده میشه.
+    
+- ❌ بعضی‌ها تصور می‌کنن همیشه ناگهانیه؛ در حالی که می‌تونه تدریجی هم باشه (e.g., The smile vanished slowly).
+    
+
+---
+
+### 7. Register
+
+- **Neutral/Formal:** پرکاربرد در نوشتار و گفتار معمولی.
+    
+- **Literary:** بسیار رایج برای ایجاد تصویر در داستان‌ها (The castle vanished in the mist).
+    
+- **Everyday Speech:** رایج، مخصوصاً در معنای استعاری (My fear vanished).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **vanish vs. disappear:** _disappear_ عمومی‌تره، _vanish_ بار تصویری و ناگهانی‌تری داره.
+    
+- **vanish vs. fade:** _fade_ معمولاً تدریجی، _vanish_ می‌تونه ناگهانی باشه.
+    
+- **vanish vs. evaporate:** _evaporate_ علمی‌تر و بیشتر برای مایعات، _vanish_ استعاری‌تر و ادبی‌تر.
+    
+
+---
+
+### 9. Word Family
+
+- **vanish (v.)** → ناپدید شدن
+    
+- **vanished (adj.)** → ناپدیدشده، محو شده
+    
+- **vanishing (adj./participle)** → در حال محو شدن
+    
+- **vanishingly (adv.)** → به‌طور بسیار کم/ناچیز (vanishingly small)
+    
+
+---
+## Avoid
+
+**Part of Speech:** #verb  
+**IPA:** /əˈvɔɪd/  
+**Persian:** اجتناب کردن، پرهیز کردن، دوری کردن
+
+---
+
+### 1. Definition
+
+> To keep away from something or someone; to prevent something from happening by taking action.  
+> **Persian:** دوری‌گزیدن یا پرهیزکردن از چیزی/کسی؛ جلوگیری از رخداد چیزی با اقدام.
+
+**Extended Definition:**
+
+- **Literal:** To stay away from physical danger, harm, or unpleasant things (_avoid accidents_).
+    
+- **Figurative:** To keep away from people, habits, or responsibilities (_avoid confrontation_, _avoid responsibility_).
+    
+
+**Persian Explanation:**  
+"Avoid" به معنای اجتناب و پرهیز است؛ چه از خطرات واقعی، چه از موقعیت‌ها یا مسئولیت‌ها.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** اجتناب از مکان یا موقعیت خطرناک.
+    
+- **Figurative sense:** پرهیز از مشکلات، احساسات، یا رویارویی با دیگران.
+    
+
+---
+
+### 3. Example Sentences
+
+- You should **avoid** fatty foods if you want to lose weight.  
+    _(اگر می‌خواهی وزن کم کنی باید از غذاهای چرب پرهیز کنی.)_
+    
+- He tried to **avoid** eye contact with her.  
+    _(او سعی کرد از تماس چشمی با او اجتناب کند.)_
+    
+- Careful driving helps **avoid** accidents.  
+    _(رانندگی بااحتیاط به جلوگیری از تصادف کمک می‌کند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**avoid conflict**|He always tries to avoid conflict.|اجتناب از درگیری|
+|**avoid mistakes**|Proofreading helps avoid mistakes.|پرهیز از اشتباهات|
+|**avoid responsibility**|She tends to avoid responsibility.|فرار از مسئولیت|
+|**avoid danger**|They avoided danger by leaving early.|اجتناب از خطر|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- evade (طفره رفتن، دوری کردن)
+    
+- escape (گریختن از)
+    
+- dodge (جا خالی دادن، طفره رفتن)
+    
+- shun (گریز کردن از)
+    
+- prevent (جلوگیری کردن از)
+    
+
+**Antonyms (متضادها):**
+
+- face (روبرو شدن)
+    
+- confront (مواجه شدن)
+    
+- meet (دیدار کردن یا روبه‌رو شدن)
+    
+- seek (جست‌وجو کردن)
+    
+- pursue (دنبال کردن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها _avoid_ رو با _prevent_ یکی می‌گیرن؛ _avoid_ یعنی اجتناب شخصی یا رفتاری، ولی _prevent_ یعنی جلوگیری از رخداد چیزی برای همه.
+    
+- ❌ گاهی با _escape_ اشتباه میشه؛ _escape_ یعنی فرار از چیزی بعد از ورود، _avoid_ یعنی کلاً نزدیکش نشدن.
+    
+- ❌ برخی تصور می‌کنن همیشه بار منفی داره، اما می‌تونه مثبت هم باشه (avoid stress = پرهیز از استرس).
+    
+
+---
+
+### 7. Register
+
+- **Neutral/Formal:** در متون آکادمیک و رسمی رایج (avoid errors, avoid risks).
+    
+- **Everyday Speech:** بسیار رایج در گفتار روزمره (avoid people, avoid junk food).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **avoid vs. prevent:** _avoid_ یعنی خود فرد مانع مواجهه بشه؛ _prevent_ یعنی رخداد یک اتفاق را متوقف کنیم.
+    
+- **avoid vs. evade:** _evade_ بار منفی داره (فرار از مالیات، قانون)، _avoid_ خنثی‌تر و عمومی‌تره.
+    
+- **avoid vs. escape:** _avoid_ = پیشگیری از مواجهه؛ _escape_ = فرار پس از گرفتار شدن.
+    
+
+---
+
+### 9. Word Family
+
+- **avoid (v.)** → اجتناب کردن
+    
+- **avoidable (adj.)** → قابل اجتناب  
+    _The mistake was avoidable._
+    
+- **unavoidable (adj.)** → اجتناب‌ناپذیر  
+    _Some risks are unavoidable._
+    
+- **avoidance (n.)** → اجتناب، پرهیز  
+    _His avoidance of responsibility caused problems._
+    
+
+---
+## Vacation
+
+**Part of Speech:** #noun / #verb (chiefly US)  
+**IPA:** /veɪˈkeɪʃn/ (US) – /vəˈkeɪʃn/ (UK, less common)  
+**Persian:** تعطیلات، مرخصی، سفر تفریحی
+
+---
+
+### 1. Definition
+
+> - **Noun:** A period of time spent away from work, school, or duties, usually for rest, travel, or recreation.
+>     
+> - **Verb (US informal):** To take a holiday or travel for leisure.  
+>     **Persian:**
+>     
+> - اسم: دوره‌ای از استراحت یا سفر برای تفریح، به‌ویژه تعطیلات کاری یا تحصیلی.
+>     
+> - فعل: به تعطیلات رفتن، سفر کردن.
+>     
+
+**Extended Definition:**
+
+- In **American English**, _vacation_ = holiday.
+    
+- In **British English**, _holiday_ رایج‌تره، و _vacation_ بیشتر در زمینه‌های رسمی/دانشگاهی استفاده میشه (summer vacation).
+    
+- Can refer to both long trips (vacation abroad) and short breaks (weekend vacation).
+    
+
+**Persian Explanation:**  
+"Vacation" یعنی تعطیلات یا مرخصی، که معمولاً برای استراحت، سفر یا تفریح استفاده می‌شود.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** سفر یا استراحت واقعی (go on vacation).
+    
+- **Figurative sense:** حالت رهاشدن یا فاصله‌گرفتن از مسئولیت (my brain is on vacation).
+    
+
+---
+
+### 3. Example Sentences
+
+- We’re planning a summer **vacation** in Italy.  
+    _(ما برای تعطیلات تابستانی در ایتالیا برنامه‌ریزی می‌کنیم.)_
+    
+- The students are on **vacation** until September.  
+    _(دانش‌آموزان تا سپتامبر در تعطیلات هستند.)_
+    
+- They love to **vacation** in the mountains. _(US)_  
+    _(آنها عاشق این هستند که در کوهستان تعطیلاتشان را بگذرانند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**summer vacation**|Kids enjoy summer vacation.|تعطیلات تابستانی|
+|**family vacation**|They went on a family vacation.|تعطیلات خانوادگی|
+|**vacation destination**|Paris is a popular vacation destination.|مقصد تعطیلات|
+|**vacation time**|Employees get two weeks of vacation time.|زمان مرخصی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- holiday (عموماً در انگلیسی بریتانیایی)
+    
+- break (وقفه، استراحت)
+    
+- leave (مرخصی)
+    
+- recess (تعطیلات کوتاه مدرسه)
+    
+- getaway (سفر کوتاه تفریحی)
+    
+
+**Antonyms (متضادها):**
+
+- work (کار)
+    
+- duty (وظیفه)
+    
+- business (مشغله)
+    
+- school term (دوره تحصیلی)
+    
+- occupation (اشتغال)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ در **British English** نمیگن _I’m on vacation_؛ میگن _I’m on holiday_.
+    
+- ❌ بعضی‌ها فکر می‌کنن vacation فقط سفر خارجیه؛ در حالی که می‌تونه استراحت در خانه هم باشه (staycation).
+    
+- ❌ بعضی زبان‌آموزها با _vocation_ (شغل/رسالت) قاطی می‌کنن؛ تلفظش شبیهه ولی معنیش فرق داره.
+    
+
+---
+
+### 7. Register
+
+- **US English (Neutral/Common):** رایج در گفتار روزمره.
+    
+- **UK English (Formal/Academic):** بیشتر برای تعطیلات رسمی یا دانشگاهی (summer vacation).
+    
+- **Informal:** در معنای استعاری (my brain is on vacation).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **vacation vs. holiday:** _vacation_ آمریکایی، _holiday_ بریتانیایی.
+    
+- **vacation vs. break:** _break_ کوتاه‌تر و غیررسمی‌تره؛ _vacation_ معمولاً طولانی‌تر.
+    
+- **vacation vs. leave:** _leave_ اصطلاح اداری/حقوقی برای مرخصیه؛ _vacation_ عمومی‌تر و تفریحی‌تر.
+    
+
+---
+
+### 9. Word Family
+
+- **vacation (n.)** → تعطیلات
+    
+- **vacation (v.)** → به تعطیلات رفتن
+    
+- **vacationer (n.)** → کسی که در تعطیلات است (مسافر تفریحی)
+    
+- **vacational (adj.)** → مربوط به تعطیلات (کم‌کاربرد)
+    
+- **staycation (n., informal)** → تعطیلات در خانه یا شهر خود
+    
+
+---
+## Vacuous
+
+**Part of Speech:** #adjective  
+**IPA:** /ˈvækjuəs/  
+**Persian:** پوچ، بی‌معنا، تهی، بی‌فکر
+
+---
+
+### 1. Definition
+
+> Lacking thought, intelligence, or meaning; empty-headed or showing a lack of purpose.  
+> **Persian:** فاقد اندیشه، معنا یا هوش؛ تهی و بی‌مغز.
+
+**Extended Definition:**
+
+- Used to describe **people** (especially expressions, comments, or personalities) that seem unintelligent or superficial.
+    
+- Can also describe **actions, remarks, or looks** that show emptiness or lack of depth.
+    
+
+**Persian Explanation:**  
+"Vacuous" بیشتر برای انتقاد از افراد یا حرف‌هایی به کار می‌رود که سطحی، بی‌فکر یا بی‌معنا هستند.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense (کم‌تر):** ظاهر خالی و بی‌روح (a vacuous stare = نگاه بی‌روح).
+    
+- **Figurative sense:** حرف‌ها یا رفتارهای پوچ و سطحی که نشان از کم‌عمقی دارد.
+    
+
+---
+
+### 3. Example Sentences
+
+- She gave him a **vacuous** smile.  
+    _(او لبخندی پوچ و بی‌معنا به او زد.)_
+    
+- The politician’s speech was full of **vacuous** promises.  
+    _(سخنرانی سیاستمدار پر از وعده‌های پوچ بود.)_
+    
+- He felt trapped in a **vacuous** life with no purpose.  
+    _(او در زندگی پوچی بدون هدف گرفتار بود.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**vacuous expression**|She wore a vacuous expression on her face.|حالت چهره‌ی پوچ|
+|**vacuous smile**|He gave a vacuous smile.|لبخند بی‌معنا|
+|**vacuous remark**|The talk was filled with vacuous remarks.|گفته‌های پوچ|
+|**vacuous promises**|They were tired of vacuous promises.|وعده‌های توخالی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- empty (خالی)
+    
+- meaningless (بی‌معنا)
+    
+- superficial (سطحی)
+    
+- inane (بی‌خرد، پوچ)
+    
+- silly (احمقانه)
+    
+
+**Antonyms (متضادها):**
+
+- meaningful (پرمعنا)
+    
+- thoughtful (عمیق و اندیشمند)
+    
+- intelligent (باهوش)
+    
+- profound (عمیق)
+    
+- sensible (عاقلانه)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _vacuous_ رو با _vacant_ قاطی می‌کنن؛ _vacant_ یعنی «خالی یا بدون متصدی»، ولی _vacuous_ بار معنایی «سطحی و بی‌فکر» داره.
+    
+- ❌ فکر می‌کنن همیشه برای افراد استفاده میشه؛ در حالی که برای حرف‌ها، لبخند یا حتی زندگی هم به‌کار میره.
+    
+- ❌ گاهی با _vicious_ اشتباه گرفته میشه (به‌خاطر شباهت ظاهری).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Literary:** پرکاربرد در متون انتقادی، ادبی یا فلسفی.
+    
+- **Everyday Speech:** کمتر استفاده میشه؛ جایگزین‌های ساده‌تر مثل _silly_ یا _stupid_ رایج‌ترند.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **vacuous vs. vacant:** _vacant_ یعنی خالی (اتاق یا نگاه بی‌روح)؛ _vacuous_ بار منفی‌تری داره و به «بی‌فکری» اشاره می‌کنه.
+    
+- **vacuous vs. inane:** هر دو به معنای پوچ و بی‌فکرند، اما _inane_ بیشتر برای حرف و رفتار، _vacuous_ برای چهره، شخصیت و وعده‌ها.
+    
+- **vacuous vs. meaningless:** _meaningless_ فقط «بی‌معنا»، ولی _vacuous_ علاوه بر بی‌معنایی، بار «احمقانه و سطحی» هم داره.
+    
+
+---
+
+### 9. Word Family
+
+- **vacuous (adj.)** → پوچ، بی‌معنا
+    
+- **vacuously (adv.)** → به‌طور پوچ/بی‌معنا  
+    _He smiled vacuously._
+    
+- **vacuousness (n.)** → پوچی، تهی‌بودن ذهن یا حرف
+    
+- **vacuum (n.)** → خلأ (ریشه مشترک)
+    
+
+---
+
+# 10.1
+## Divergence
+
+**Part of Speech:** #noun  
+**IPA:** /daɪˈvɜːrdʒəns/  
+**Persian:** واگرایی، انشعاب، اختلاف مسیر/نظر
+
+---
+
+### 1. Definition
+
+> The process or state of moving or developing in different directions from a common point; a difference or disagreement.  
+> **Persian:** روند یا حالت جدا شدن و حرکت در مسیرهای متفاوت؛ اختلاف یا تفاوت.
+
+**Extended Definition:**
+
+- In a **literal sense**, it describes things (roads, paths, lines) splitting apart or moving away from each other.
+    
+- In a **figurative sense**, it means differences in opinions, interests, behaviors, or outcomes.
+    
+- In **science/math**, it refers to a technical concept (e.g., genetic divergence, divergence in calculus).
+    
+
+**Persian Explanation:**  
+"Divergence" یعنی فاصله‌گرفتن، چه در مسیر واقعی (مثل دو جاده) و چه در معنا و نظر (مثل اختلاف دیدگاه‌ها).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** جداشدن مسیرها یا خطوط.
+    
+- **Figurative sense:** تفاوت یا اختلاف نظر، رفتار یا نتایج.
+    
+
+---
+
+### 3. Example Sentences
+
+- The **divergence** of the two roads confused the travelers.  
+    _(واگرایی دو جاده مسافران را سردرگم کرد.)_
+    
+- There is a growing **divergence** of opinion within the party.  
+    _(اختلاف نظر فزاینده‌ای درون حزب وجود دارد.)_
+    
+- The scientist studied the genetic **divergence** of the species.  
+    _(دانشمند واگرایی ژنتیکی گونه‌ها را مطالعه کرد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**divergence of opinion**|A divergence of opinion emerged.|اختلاف نظر|
+|**divergence from tradition**|The new style shows divergence from tradition.|واگرایی از سنت|
+|**genetic divergence**|Genetic divergence occurs over time.|واگرایی ژنتیکی|
+|**economic divergence**|Economic divergence between nations has widened.|واگرایی اقتصادی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- difference (تفاوت)
+    
+- deviation (انحراف)
+    
+- separation (جدایی)
+    
+- disagreement (اختلاف)
+    
+- variance (تفاوت، ناهماهنگی)
+    
+
+**Antonyms (متضادها):**
+
+- convergence (همگرایی)
+    
+- agreement (توافق)
+    
+- similarity (شباهت)
+    
+- union (اتحاد)
+    
+- harmony (هماهنگی)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _divergence_ رو فقط در ریاضی می‌دونن؛ در حالی که در سیاست، اقتصاد و گفتگوهای روزمره هم استفاده میشه.
+    
+- ❌ گاهی با _difference_ قاطی میشه؛ _difference_ ساده‌تره، _divergence_ رسمی‌تر و عمیق‌تره (نوعی فاصله‌گیری بنیادین).
+    
+- ❌ برخی فکر می‌کنن همیشه منفی است؛ در حالی که می‌تونه مثبت هم باشه (divergence from old traditions = نوآوری).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Academic:** بسیار پرکاربرد در علم، اقتصاد، سیاست و ریاضیات.
+    
+- **Neutral Speech:** در مکالمات روزمره کمتر استفاده میشه؛ اغلب جایگزین ساده‌تر مثل _difference_ رایج‌تره.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **divergence vs. difference:** _difference_ عمومی‌تره، _divergence_ به معنی واگرایی عمیق‌تر یا روند جدایی.
+    
+- **divergence vs. deviation:** _deviation_ انحراف از یک مسیر/استاندارد؛ _divergence_ جدا شدن به سمت مسیر متفاوت.
+    
+- **divergence vs. variance:** _variance_ بیشتر آماری/فنی، _divergence_ گسترده‌تر و استعاری‌تر.
+    
+
+---
+
+### 9. Word Family
+
+- **diverge (v.)** → جدا شدن، واگرا شدن
+    
+- **divergent (adj.)** → واگرا، متفاوت
+    
+- **divergently (adv.)** → به صورت واگرا/متفاوت
+    
+- **divergence (n.)** → واگرایی، اختلاف
+    
+
+---
+## Converge
+
+**Part of Speech:** #verb (base form) / _Converging_ (present participle & adjective)  
+**IPA:** /kənˈvɜːrdʒ/ (_converge_) – /kənˈvɜːrdʒɪŋ/ (_converging_)  
+**Persian:** همگرا شدن، به‌هم رسیدن، هم‌سو شدن
+
+---
+
+### 1. Definition
+
+> To come together from different directions and meet at a point; to become more similar or aligned.  
+> **Persian:** از جهات مختلف به یک نقطه رسیدن؛ یا هم‌سو و مشابه شدن.
+
+**Extended Definition:**
+
+- **Literal:** Physical movement toward the same location (roads converging, rivers converging).
+    
+- **Figurative:** Becoming more similar in ideas, goals, or outcomes (opinions converging, converging interests).
+    
+- **Technical/Scientific:** In math/physics, a series or process converges when it approaches a limit or common result.
+    
+
+**Persian Explanation:**  
+"Converging" یعنی به هم نزدیک‌شدن یا هم‌سو شدن؛ هم می‌تواند فیزیکی باشد (مثل جاده‌ها) و هم معنوی/استعاری (مثل عقاید یا منافع).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** دو یا چند مسیر یا جریان به یک نقطه برسند.
+    
+- **Figurative sense:** همگرایی اندیشه‌ها، اهداف یا روندها.
+    
+
+---
+
+### 3. Example Sentences
+
+- The two rivers are **converging** at the valley.  
+    _(دو رودخانه در دره به هم می‌رسند.)_
+    
+- Scientists’ views are **converging** on the need for urgent action.  
+    _(دیدگاه دانشمندان در مورد نیاز به اقدام فوری همگرا می‌شود.)_
+    
+- People from different cultures are **converging** in this city.  
+    _(مردمان از فرهنگ‌های مختلف در این شهر گرد هم می‌آیند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**converging lines**|The artist drew converging lines.|خطوط همگرا|
+|**converging interests**|The nations have converging interests.|منافع هم‌سو|
+|**converging paths**|Converging paths led to the village.|مسیرهای همگرا|
+|**converging opinions**|There are converging opinions on the matter.|نظرات همگرا|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- meet (به‌هم رسیدن)
+    
+- unite (متحد شدن)
+    
+- merge (ادغام شدن)
+    
+- align (هم‌سو شدن)
+    
+- come together (گرد آمدن)
+    
+
+**Antonyms (متضادها):**
+
+- diverge (واگرا شدن)
+    
+- separate (جدا شدن)
+    
+- split (انشعاب پیدا کردن)
+    
+- branch out (انشعاب یافتن)
+    
+- deviate (منحرف شدن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها فکر می‌کنن _converge_ فقط برای فیزیک/ریاضی استفاده میشه؛ در حالی که در سیاست، فرهنگ و اقتصاد هم رایجه.
+    
+- ❌ گاهی با _merge_ یکی گرفته میشه؛ _merge_ یعنی ادغام کامل، اما _converge_ یعنی هم‌سو یا نزدیک شدن بدون لزوماً یکی‌شدن کامل.
+    
+- ❌ بعضی‌ها تصور می‌کنن متضادش _separate_ هست؛ در حالی که دقیق‌ترین متضادش _diverge_ است.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Academic:** بسیار پرکاربرد در علم، اقتصاد، سیاست.
+    
+- **Neutral/Everyday:** در معنای ساده‌ی "به هم رسیدن" (e.g., paths converging).
+    
+- **Technical:** در ریاضیات (series convergence) و فیزیک (light converging lenses).
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **converge vs. merge:** _merge_ = ادغام کامل؛ _converge_ = نزدیک‌شدن یا هم‌سو شدن.
+    
+- **converge vs. unite:** _unite_ بار سیاسی/اجتماعی دارد؛ _converge_ عمومی‌تر و علمی‌تر است.
+    
+- **converge vs. align:** _align_ روی هماهنگی و ترتیب تأکید دارد، _converge_ روی حرکت به سمت یک نقطه.
+    
+
+---
+
+### 9. Word Family
+
+- **converge (v.)** → همگرا شدن
+    
+- **converging (adj./participle)** → همگرا، نزدیک‌شونده
+    
+- **convergence (n.)** → همگرایی
+    
+- **convergent (adj.)** → همگرا
+    
+- **convergently (adv.)** → به‌صورت همگرا
+    
+
+---
+## On the Brink of
+
+**Part of Speech:** #idiom / #phrase  
+**IPA:** /ɒn ðə brɪŋk əv/  
+**Persian:** در آستانهٔ، نزدیک به
+
+---
+
+### 1. Definition
+
+> Very close to experiencing or doing something, especially something important, dangerous, or extreme.  
+> **Persian:** در آستانهٔ وقوع یا انجام چیزی بودن، به‌ویژه چیزی مهم، خطرناک یا شدید.
+
+**Extended Definition:**
+
+- _On the brink of_ suggests being at a critical point where even a small push could cause a major change.
+    
+- It can be used in **negative contexts** (on the brink of war, collapse) or **positive ones** (on the brink of success, discovery).
+    
+
+**Persian Explanation:**  
+این عبارت برای لحظات حساس به کار می‌رود؛ یعنی درست در مرز وقوع یک اتفاق مهم یا بحرانی بودن.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** لب مرز یا لبه چیزی بودن (brink of a cliff).
+    
+- **Figurative sense:** در آستانهٔ یک رویداد مهم، چه مثبت چه منفی.
+    
+
+---
+
+### 3. Example Sentences
+
+- The country is **on the brink of** war.  
+    _(کشور در آستانهٔ جنگ است.)_
+    
+- She was **on the brink of** tears.  
+    _(او در آستانهٔ گریه بود.)_
+    
+- Scientists are **on the brink of** a major discovery.  
+    _(دانشمندان در آستانهٔ یک کشف بزرگ هستند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**on the brink of war**|The nations are on the brink of war.|در آستانه جنگ|
+|**on the brink of collapse**|The company is on the brink of collapse.|در آستانه فروپاشی|
+|**on the brink of disaster**|They were on the brink of disaster.|در آستانه فاجعه|
+|**on the brink of success**|He is on the brink of success.|در آستانه موفقیت|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- on the verge of (در آستانه)
+    
+- about to (در شرف)
+    
+- close to (نزدیک به)
+    
+- nearly (تقریباً)
+    
+- at the edge of (در مرز)
+    
+
+**Antonyms (متضادها):**
+
+- far from (دور از)
+    
+- safely away from (ایمن از)
+    
+- beyond (فراتر از)
+    
+- distant from (فاصله داشتن از)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها فکر می‌کنن همیشه منفی است؛ در حالی که می‌تونه مثبت هم باشه (on the brink of success).
+    
+- ❌ گاهی با _edge_ به تنهایی قاطی میشه؛ _brink_ تأکید بیشتری روی "لحظه بحرانی/کلیدی" داره.
+    
+- ❌ بعضی‌ها اشتباه به جای _brink of_ میگن _brink to_. ساختار درست همیشه **on the brink of + noun/gerund** است.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** رایج در اخبار، متون تحلیلی و علمی (on the brink of collapse).
+    
+- **Everyday Speech:** استفاده میشه، مخصوصاً در معنای استعاری (I was on the brink of laughing).
+    
+- **Literary:** در متون ادبی برای لحظات بحرانی یا دراماتیک.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **on the brink of vs. on the verge of:** تقریباً مترادف‌اند؛ _verge_ کمی خنثی‌تره، _brink_ بار دراماتیک و بحرانی بیشتری داره.
+    
+- **on the brink of vs. about to:** _about to_ ساده‌تر و روزمره‌تره؛ _on the brink of_ رسمی‌تر و قوی‌تره.
+    
+- **on the brink of vs. edge of:** _edge_ می‌تونه فیزیکی‌تر باشه (edge of the table)، _brink_ بیشتر استعاری.
+    
+
+---
+
+### 9. Word Family
+
+- **brink (n.)** → لبه، آستانه
+    
+- **brinkmanship (n.)** → سیاست آستانه‌ای (به‌ویژه در سیاست: ریسک‌کردن تا مرز جنگ)
+    
+
+---
+## Colloquial
+
+**Part of Speech:** #adjective  
+**IPA:** /kəˈloʊkwiəl/  
+**Persian:** محاوره‌ای، عامیانه
+
+---
+
+### 1. Definition
+
+> Used in ordinary or familiar conversation rather than in formal speech or writing.  
+> **Persian:** واژه یا بیانی که در گفت‌وگوی روزمره و محاوره‌ای استفاده می‌شود و رسمی نیست.
+
+**Extended Definition:**
+
+- _Colloquial_ refers to the informal style of language that people use when talking casually with friends, family, or in everyday settings.
+    
+- It often includes slang, contractions, or regional expressions that may not be suitable for formal contexts.
+    
+
+**Persian Explanation:**  
+"Colloquial" به زبان و واژه‌هایی اشاره دارد که در محاوره روزمره به کار می‌رود؛ غیررسمی است و بیشتر در گفتار عادی دیده می‌شود تا نوشتار رسمی.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Literal use:** توصیف سبک زبانی (colloquial expression = عبارت محاوره‌ای).
+    
+- **Figurative use:** به‌ندرت استعاری استفاده می‌شود؛ بیشتر به خودِ زبان مربوط است.
+    
+
+---
+
+### 3. Example Sentences
+
+- The teacher explained the difference between **colloquial** and formal English.  
+    _(معلم تفاوت بین انگلیسی محاوره‌ای و رسمی را توضیح داد.)_
+    
+- “Gonna” is a **colloquial** form of “going to.”  
+    _(«Gonna» شکل محاوره‌ای «going to» است.)_
+    
+- He prefers writing in a **colloquial** style to make his articles more relatable.  
+    _(او ترجیح می‌دهد مقالاتش را به سبک محاوره‌ای بنویسد تا قابل‌فهم‌تر شوند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**colloquial expression**|“Wanna” is a colloquial expression.|عبارت محاوره‌ای|
+|**colloquial speech**|The play used colloquial speech.|گفتار محاوره‌ای|
+|**colloquial language**|Colloquial language is used in everyday conversation.|زبان محاوره‌ای|
+|**colloquial style**|The book is written in a colloquial style.|سبک محاوره‌ای|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- informal (غیررسمی)
+    
+- conversational (محاوره‌ای)
+    
+- everyday (روزمره)
+    
+- familiar (صمیمی، خودمانی)
+    
+- idiomatic (اصطلاحی)
+    
+
+**Antonyms (متضادها):**
+
+- formal (رسمی)
+    
+- literary (ادبی)
+    
+- academic (آکادمیک)
+    
+- proper (مناسب و رسمی)
+    
+- elevated (فخیم، سطح بالا)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _colloquial_ رو با _local_ قاطی می‌کنن؛ _colloquial_ یعنی محاوره‌ای، نه «محلی».
+    
+- ❌ فکر می‌کنن _colloquial_ همیشه برابر با _slang_ است؛ در حالی که _slang_ خیلی غیررسمی‌تره و همیشه محاوره‌ای نیست.
+    
+- ❌ بعضی‌ها تصور می‌کنن فقط برای کلمات به کار میره؛ در حالی که می‌تونه سبک نوشتار یا گفتار هم باشه.
+    
+
+---
+
+### 7. Register
+
+- **Linguistic/Academic:** در توصیف سبک زبان به کار می‌رود (colloquial vs. formal).
+    
+- **Neutral:** در آموزش زبان و تحلیل ادبیات بسیار رایج.
+    
+- **Everyday Speech:** کمتر استفاده می‌شود؛ معمولاً افراد ساده‌تر می‌گویند “informal.”
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **colloquial vs. informal:** _informal_ گسترده‌تره (رفتار، لباس، زبان)؛ _colloquial_ فقط مربوط به زبان محاوره‌ای است.
+    
+- **colloquial vs. slang:** _slang_ اصطلاحات خیلی غیررسمی یا خاص گروه‌هاست؛ _colloquial_ عمومی‌تر و کمتر محدود به گروه خاص.
+    
+- **colloquial vs. conversational:** هر دو شبیه‌اند، اما _conversational_ بیشتر به لحن گفتاری نزدیکه، _colloquial_ بار علمی/توصیفی دارد.
+    
+
+---
+
+### 9. Word Family
+
+- **colloquial (adj.)** → محاوره‌ای
+    
+- **colloquially (adv.)** → به‌طور محاوره‌ای  
+    _It’s colloquially known as “cell.”_
+    
+- **colloquialism (n.)** → اصطلاح یا واژه محاوره‌ای  
+    _“Y’all” is a Southern colloquialism._
+    
+
+---
+## Encompass
+
+**Part of Speech:** #verb  
+**IPA:** /ɪnˈkʌmpəs/  
+**Persian:** دربرگرفتن، شامل بودن، احاطه کردن
+
+---
+
+### 1. Definition
+
+> To include or contain something within a range or scope; to surround or encircle.  
+> **Persian:** دربرگرفتن یا شامل شدن در محدوده‌ای؛ یا احاطه کردن.
+
+**Extended Definition:**
+
+- **General use:** To cover a wide range of things, areas, or ideas (_The course encompasses many subjects_).
+    
+- **Spatial use:** To surround or encircle (_Mountains encompass the valley_).
+    
+- **Abstract use:** To involve or embrace both tangible and intangible elements (_His speech encompassed hope and determination_).
+    
+
+**Persian Explanation:**  
+"Encompass" یعنی چیزی را در محدوده خود گرفتن، چه به شکل واقعی (مثل کوه‌ها که دره را می‌گیرند) و چه به شکل معنوی یا انتزاعی (مثلاً یک موضوعی که چندین جنبه را شامل می‌شود).
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** احاطه فیزیکی یک مکان یا ناحیه.
+    
+- **Figurative sense:** شامل بودن، پوشش دادن موضوعات یا جنبه‌های مختلف.
+    
+
+---
+
+### 3. Example Sentences
+
+- The park **encompasses** over 100 acres of land.  
+    _(پارک بیش از ۱۰۰ هکتار زمین را دربرمی‌گیرد.)_
+    
+- The project **encompasses** research, training, and community service.  
+    _(پروژه شامل تحقیق، آموزش و خدمات اجتماعی است.)_
+    
+- Mountains **encompass** the small village.  
+    _(کوه‌ها روستای کوچک را احاطه کرده‌اند.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**encompass a range**|The course encompasses a wide range of topics.|دامنه‌ای را دربرمی‌گیرد|
+|**encompass an area**|The forest encompasses the lake.|منطقه‌ای را احاطه می‌کند|
+|**encompass aspects**|The plan encompasses all aspects of safety.|جنبه‌ها را دربرمی‌گیرد|
+|**encompass activities**|The event encompasses various activities.|فعالیت‌های مختلف را شامل می‌شود|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- include (شامل بودن)
+    
+- cover (پوشش دادن)
+    
+- embrace (در برگرفتن، پذیرفتن)
+    
+- comprise (متشکل بودن از)
+    
+- surround (احاطه کردن)
+    
+
+**Antonyms (متضادها):**
+
+- exclude (مستثنی کردن)
+    
+- omit (حذف کردن)
+    
+- limit (محدود کردن)
+    
+- release (آزاد کردن)
+    
+- uncover (آشکار کردن، بی‌پوشش گذاشتن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها _encompass_ را فقط به معنای «محاصره کردن» می‌دانند؛ در حالی که «شامل شدن» مهم‌ترین کاربرد آن است.
+    
+- ❌ گاهی با _include_ قاطی می‌شود؛ _include_ خنثی‌تر است، _encompass_ بار گستردگی و جامعیت بیشتری دارد.
+    
+- ❌ بعضی زبان‌آموزها تصور می‌کنند فقط برای مکان‌هاست؛ در حالی که برای موضوعات انتزاعی هم بسیار رایج است.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Academic:** پرکاربرد در متون دانشگاهی، گزارش‌ها، و نوشتار رسمی.
+    
+- **Neutral:** در گفتار عادی کمتر استفاده می‌شود؛ جایگزین ساده‌تر _include_ بیشتر رایج است.
+    
+- **Literary:** برای توصیف احاطه یا جامعیت در متون ادبی.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **encompass vs. include:** _include_ ساده و خنثی؛ _encompass_ یعنی شامل‌شدن به‌طور کامل و جامع.
+    
+- **encompass vs. cover:** _cover_ گستره یا مسئولیت را پوشش می‌دهد؛ _encompass_ بیشتر حس جامعیت و احاطه دارد.
+    
+- **encompass vs. embrace:** _embrace_ بار عاطفی/مثبت دارد (پذیرفتن)، _encompass_ خنثی‌تر و رسمی‌تر.
+    
+
+---
+
+### 9. Word Family
+
+- **encompass (v.)** → دربرگرفتن، شامل بودن
+    
+- **encompassing (adj./participle)** → دربرگیرنده، جامع
+    
+- **encompassment (n., rare)** → دربرگیری، احاطه
+    
+
+---
+## Intelligible
+
+**Part of Speech:** #adjective  
+**IPA:** /ɪnˈtɛlɪdʒəbl/  
+**Persian:** قابل فهم، روشن، مفهوم
+
+---
+
+### 1. Definition
+
+> Able to be understood; clear enough to be comprehended.  
+> **Persian:** چیزی که بتوان آن را درک یا فهمید؛ روشن و قابل فهم.
+
+**Extended Definition:**
+
+- Describes language, speech, or writing that is clear enough to be understood by most people.
+    
+- Opposite of _unintelligible_, which means confusing, unclear, or impossible to understand.
+    
+
+**Persian Explanation:**  
+"Intelligible" برای بیان قابل‌فهم‌بودن کلام، متن یا صدا به کار می‌رود، چه به لحاظ زبانی، چه از نظر وضوح و روشنی.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** صدایی یا گفتاری که به‌وضوح شنیده و درک می‌شود.
+    
+- **Figurative sense:** مفهومی یا توضیحی که به‌سادگی برای ذهن روشن است.
+    
+
+---
+
+### 3. Example Sentences
+
+- His speech was barely **intelligible** over the noise.  
+    _(سخنرانی او به‌سختی در میان سر و صدا قابل فهم بود.)_
+    
+- The teacher explained the theory in an **intelligible** way.  
+    _(معلم نظریه را به شکلی قابل فهم توضیح داد.)_
+    
+- The letter was written in clear and **intelligible** language.  
+    _(نامه به زبانی روشن و قابل فهم نوشته شده بود.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**intelligible speech**|The child’s speech became intelligible.|گفتار قابل فهم|
+|**intelligible explanation**|She gave an intelligible explanation.|توضیح روشن|
+|**clearly intelligible**|The message was clearly intelligible.|کاملاً قابل فهم|
+|**barely intelligible**|His words were barely intelligible.|به‌سختی قابل فهم|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- understandable (قابل فهم)
+    
+- comprehensible (قابل درک)
+    
+- clear (روشن)
+    
+- lucid (شفاف، روشن)
+    
+- articulate (واضح بیان‌شده)
+    
+
+**Antonyms (متضادها):**
+
+- unintelligible (غیرقابل فهم)
+    
+- incomprehensible (نفهمیدنی)
+    
+- unclear (نامفهوم)
+    
+- obscure (مبهم)
+    
+- confusing (گیج‌کننده)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _intelligible_ رو با _intelligent_ قاطی می‌کنن؛ _intelligent_ یعنی باهوش، ولی _intelligible_ یعنی قابل فهم.
+    
+- ❌ فکر می‌کنن فقط برای متن نوشتاری به‌کار میره؛ در حالی که برای صدا، لهجه، یا حتی توضیحات شفاهی هم استفاده میشه.
+    
+- ❌ گاهی به‌جای _clear_ استفاده میشه؛ اما _intelligible_ تأکید بر «قابل درک بودن برای ذهن» داره.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** پرکاربرد در متون دانشگاهی، آموزشی و تحلیلی.
+    
+- **Everyday Speech:** کمتر استفاده میشه؛ معمولاً جایگزین‌های ساده‌تر مثل _clear_ یا _understandable_ استفاده می‌شن.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **intelligible vs. intelligent:** _intelligible_ = قابل فهم؛ _intelligent_ = باهوش.
+    
+- **intelligible vs. understandable:** تقریباً مترادف، اما _intelligible_ رسمی‌تره.
+    
+- **intelligible vs. comprehensible:** _comprehensible_ روی توانایی درک تأکید داره؛ _intelligible_ روی وضوح پیام یا گفتار.
+    
+- **intelligible vs. lucid:** _lucid_ یعنی کاملاً روشن و شفاف، _intelligible_ فقط حداقل میزان وضوح برای فهمیدن رو نشون میده.
+    
+
+---
+
+### 9. Word Family
+
+- **intelligible (adj.)** → قابل فهم
+    
+- **intelligibly (adv.)** → به‌طور قابل فهم  
+    _He spoke intelligibly despite his accent._
+    
+- **intelligibility (n.)** → قابلیت فهم  
+    _The intelligibility of the text was questioned._
+    
+- **unintelligible (adj.)** → غیرقابل فهم
+    
+
+---
+## Dwindle
+
+**Part of Speech:** #verb  
+**IPA:** /ˈdwɪndl/  
+**Persian:** کاهش یافتن، رفته‌رفته کمتر شدن، تحلیل رفتن
+
+---
+
+### 1. Definition
+
+> To gradually become smaller, weaker, or less in number, size, or strength.  
+> **Persian:** به‌تدریج کمتر، ضعیف‌تر یا کوچکتر شدن.
+
+**Extended Definition:**
+
+- Implies a **slow and steady decline** rather than a sudden drop.
+    
+- Can be used for **concrete things** (money, population, resources) and **abstract things** (hope, energy, influence).
+    
+
+**Persian Explanation:**  
+"Dwindle" یعنی چیزی به‌مرور زمان کمتر یا ضعیف‌تر شود، چه از نظر تعداد و مقدار، چه از نظر قدرت یا اهمیت.
+
+---
+
+### 2. Usage: Physical vs. Figurative
+
+- **Physical sense:** کاهش یافتن منابع، جمعیت یا اشیاء.
+    
+- **Figurative sense:** کاهش امید، علاقه یا تأثیر.
+    
+
+---
+
+### 3. Example Sentences
+
+- The town’s population has **dwindled** over the years.  
+    _(جمعیت شهر در طول سال‌ها کاهش یافته است.)_
+    
+- His savings **dwindled** to almost nothing.  
+    _(پس‌اندازهایش تقریباً به هیچ کاهش یافت.)_
+    
+- As time passed, her enthusiasm **dwindled**.  
+    _(با گذشت زمان، اشتیاق او کمتر شد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**dwindling population**|The village suffers from a dwindling population.|جمعیت رو به کاهش|
+|**dwindling resources**|Dwindling resources caused concern.|منابع در حال کاهش|
+|**dwindling hope**|Their dwindling hope was clear.|امید رو به کاهش|
+|**dwindling interest**|There is dwindling interest in the topic.|علاقه در حال کاهش|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- decrease (کاهش یافتن)
+    
+- diminish (کم شدن)
+    
+- decline (افول کردن)
+    
+- lessen (کم شدن)
+    
+- shrink (کوچک شدن)
+    
+
+**Antonyms (متضادها):**
+
+- increase (افزایش یافتن)
+    
+- grow (رشد کردن)
+    
+- rise (بالا رفتن)
+    
+- expand (گسترش یافتن)
+    
+- flourish (شکوفا شدن)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _dwindle_ رو با _vanish_ یکی می‌دونن؛ _dwindle_ کاهش تدریجی، _vanish_ ناپدیدی ناگهانی.
+    
+- ❌ گاهی با _shrink_ قاطی میشه؛ _shrink_ بیشتر برای اندازه فیزیکی، _dwindle_ برای مقدار یا اهمیت.
+    
+- ❌ تصور می‌کنن همیشه برای چیزهای فیزیکی استفاده میشه؛ در حالی که برای مفاهیم انتزاعی (hope, interest) هم رایجه.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** رایج در نوشتار خبری، تحلیلی و آکادمیک.
+    
+- **Everyday Speech:** استفاده میشه، اما بیشتر در متون رسمی دیده میشه.
+    
+- **Literary:** پرکاربرد برای توصیف کاهش امید یا نیرو.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **dwindle vs. decrease:** _decrease_ عمومی‌تر؛ _dwindle_ روی کاهش تدریجی و پیوسته تأکید دارد.
+    
+- **dwindle vs. diminish:** هر دو مشابه‌اند؛ اما _diminish_ گاهی معنای «کم‌اهمیت شدن» هم میدهد.
+    
+- **dwindle vs. shrink:** _shrink_ بیشتر برای اندازه فیزیکی، _dwindle_ برای مقدار یا عدد.
+    
+- **dwindle vs. decline:** _decline_ بار رسمی‌تر و اغلب برای روندهای اجتماعی/اقتصادی.
+    
+
+---
+
+### 9. Word Family
+
+- **dwindle (v.)** → کاهش یافتن
+    
+- **dwindling (adj./participle)** → رو به کاهش  
+    _A dwindling number of volunteers remained._
+    
+- _(این واژه اسم مشتق‌شده رایج ندارد.)_
+    
+
+---
+## Suppression
+
+**Part of Speech:** #noun  
+**IPA:** /səˈprɛʃən/  
+**Persian:** سرکوب، مهار، فروخوردگی
+
+---
+
+### 1. Definition
+
+> The act of stopping, controlling, or putting an end to something, often by force or authority.  
+> **Persian:** عمل متوقف‌کردن یا مهار چیزی، معمولاً با زور یا اقتدار.
+
+**Extended Definition:**
+
+- **Political/Social:** Preventing people from expressing ideas, protests, or movements (_suppression of dissent_).
+    
+- **Emotional/Psychological:** Holding back or repressing feelings or memories (_suppression of anger_).
+    
+- **Medical/Technical:** Stopping or reducing a natural function (_immune suppression_).
+    
+
+**Persian Explanation:**  
+"Suppression" می‌تواند هم در معنای اجتماعی/سیاسی (سرکوب اعتراض‌ها)، هم در روان‌شناسی (فروخوردگی احساسات) و هم در پزشکی (مهار عملکرد بدن) به کار رود.
+
+---
+
+### 2. Usage: Contexts
+
+- **Political:** سرکوب جنبش‌ها، آزادی‌ها یا اعتراض‌ها.
+    
+- **Emotional:** فروخوردگی خشم، احساسات یا خاطرات.
+    
+- **Medical/Scientific:** مهار سیستم یا فعالیت‌های بدنی/طبیعی.
+    
+
+---
+
+### 3. Example Sentences
+
+- The government was accused of the **suppression** of free speech.  
+    _(دولت به سرکوب آزادی بیان متهم شد.)_
+    
+- His constant **suppression** of emotions led to stress.  
+    _(سرکوب مداوم احساساتش به استرس منجر شد.)_
+    
+- The drug causes the **suppression** of the immune system.  
+    _(این دارو باعث مهار سیستم ایمنی می‌شود.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**suppression of dissent**|There was violent suppression of dissent.|سرکوب مخالفت‌ها|
+|**suppression of freedom**|The suppression of freedom is alarming.|سرکوب آزادی|
+|**emotional suppression**|Emotional suppression can harm health.|فروخوردگی احساسات|
+|**immune suppression**|The patient suffers from immune suppression.|مهار سیستم ایمنی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- repression (سرکوب)
+    
+- restraint (مهار)
+    
+- control (کنترل)
+    
+- stifling (خفه‌کردن)
+    
+- quelling (سرکوب‌کردن)
+    
+
+**Antonyms (متضادها):**
+
+- expression (بیان)
+    
+- release (رهاسازی)
+    
+- freedom (آزادی)
+    
+- encouragement (تشویق)
+    
+- stimulation (تحریک)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی‌ها _suppression_ رو فقط سیاسی می‌دونن؛ در حالی که در روان‌شناسی و پزشکی هم کاربرد زیاد داره.
+    
+- ❌ گاهی با _repression_ یکی گرفته میشه؛ هر دو به معنای سرکوب‌اند، اما _repression_ اغلب روان‌شناختی‌تر و درونی‌تره.
+    
+- ❌ با _oppression_ هم قاطی میشه؛ _oppression_ یعنی ظلم سیستماتیک، _suppression_ یعنی متوقف‌کردن فعالانه چیزی.
+    
+
+---
+
+### 7. Register
+
+- **Formal/Academic:** رایج در متون سیاسی، روان‌شناسی و پزشکی.
+    
+- **Neutral Speech:** در گفتار عادی کمتر به کار میره؛ جایگزین‌های ساده‌تر مثل _control_ یا _holding back_ رایج‌ترند.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **suppression vs. repression:** _suppression_ = مهار آگاهانه یا با زور؛ _repression_ = فروخوردگی ناخودآگاه یا طولانی‌مدت.
+    
+- **suppression vs. oppression:** _oppression_ = ظلم و فشار سیستماتیک بر یک گروه؛ _suppression_ = متوقف‌کردن یا سرکوب فعالانه یک عمل یا احساس.
+    
+- **suppression vs. restraint:** _restraint_ بیشتر به معنای کنترل خودخواسته است، _suppression_ می‌تواند تحمیلی و قهری باشد.
+    
+
+---
+
+### 9. Word Family
+
+- **suppress (v.)** → سرکوب‌کردن، مهارکردن
+    
+- **suppression (n.)** → سرکوب، مهار
+    
+- **suppressive (adj.)** → سرکوبگر، مهارکننده
+    
+- **suppressant (n.)** → داروی مهارکننده (e.g., cough suppressant)
+    
+
+---
+## Resilience
+
+**Part of Speech:** #noun  
+**IPA:** /rɪˈzɪliəns/  
+**Persian:** انعطاف‌پذیری، تاب‌آوری، قدرت بازیابی
+
+---
+
+### 1. Definition
+
+> The capacity to recover quickly from difficulties, adapt to change, or withstand challenges.  
+> **Persian:** توانایی بازگشت سریع از مشکلات، سازگاری با تغییرات، یا مقاومت در برابر سختی‌ها.
+
+**Extended Definition:**
+
+- **Psychological:** The ability to cope with stress, trauma, or hardship and bounce back stronger.
+    
+- **Physical/Material:** The ability of an object to return to its original shape after being bent or stretched.
+    
+- **Social/Economic:** The strength of communities or systems to adapt and recover after crises.
+    
+
+**Persian Explanation:**  
+"Resilience" هم برای افراد (تاب‌آوری روحی و روانی)، هم برای اشیاء (خاصیت ارتجاعی)، و هم برای جوامع و اقتصاد (توانایی بازیابی بعد از بحران) استفاده می‌شود.
+
+---
+
+### 2. Usage: Contexts
+
+- **Human/Psychological:** توانایی تحمل و بازیابی روحی.
+    
+- **Material/Scientific:** خاصیت فیزیکی مثل انعطاف یا ارتجاع.
+    
+- **Social/Economic:** قدرت یک جامعه یا سیستم برای مقابله با بحران‌ها.
+    
+
+---
+
+### 3. Example Sentences
+
+- She showed great **resilience** after losing her job.  
+    _(او پس از از دست دادن شغلش تاب‌آوری زیادی نشان داد.)_
+    
+- Rubber has high **resilience** and quickly returns to its shape.  
+    _(لاستیک انعطاف‌پذیری بالایی دارد و سریع به شکل اولیه بازمی‌گردد.)_
+    
+- The community demonstrated **resilience** after the earthquake.  
+    _(جامعه پس از زلزله قدرت بازیابی خود را نشان داد.)_
+    
+
+---
+
+### 4. Collocations
+
+|Collocation|Example|Persian Translation|
+|---|---|---|
+|**emotional resilience**|Children need emotional resilience.|تاب‌آوری عاطفی|
+|**psychological resilience**|Therapy can build psychological resilience.|تاب‌آوری روانی|
+|**resilience of materials**|The resilience of steel makes it useful.|انعطاف‌پذیری مواد|
+|**economic resilience**|The country showed economic resilience.|تاب‌آوری اقتصادی|
+
+---
+
+### 5. Synonyms & Antonyms
+
+**Synonyms (مترادف‌ها):**
+
+- toughness (سختی، استحکام)
+    
+- flexibility (انعطاف‌پذیری)
+    
+- adaptability (سازگاری)
+    
+- endurance (تحمل)
+    
+- elasticity (کشش‌پذیری)
+    
+
+**Antonyms (متضادها):**
+
+- fragility (شکنندگی)
+    
+- weakness (ضعف)
+    
+- rigidity (خشکی، عدم انعطاف)
+    
+- vulnerability (آسیب‌پذیری)
+    
+- brittleness (شکنندگی)
+    
+
+---
+
+### 6. Common Mistakes (اشتباهات رایج)
+
+- ❌ بعضی زبان‌آموزها _resilience_ رو فقط برای اشیاء می‌دونن؛ در حالی که برای روان، جوامع و اقتصاد هم کاربرد داره.
+    
+- ❌ گاهی با _resistance_ قاطی میشه؛ _resistance_ یعنی مقاومت در برابر تغییر، ولی _resilience_ یعنی توانایی سازگاری و بازیابی بعد از تغییر.
+    
+- ❌ بعضی‌ها فکر می‌کنن فقط معنای مثبت داره؛ در حالی که می‌تونه خنثی باشه (مثل خاصیت مواد).
+    
+
+---
+
+### 7. Register
+
+- **Formal/Neutral:** بسیار پرکاربرد در روان‌شناسی، جامعه‌شناسی، اقتصاد و علوم طبیعی.
+    
+- **Everyday Speech:** کمتر استفاده میشه؛ جایگزین‌های ساده‌تر مثل _strength_ یا _toughness_ رایج‌ترند.
+    
+
+---
+
+### 8. Difference with Similar Words
+
+- **resilience vs. resistance:** _resilience_ = بازگشت و بازیابی؛ _resistance_ = مقابله و جلوگیری از تغییر.
+    
+- **resilience vs. flexibility:** _flexibility_ یعنی توانایی خم‌شدن یا تغییر؛ _resilience_ یعنی برگشت‌پذیری و دوام بعد از تغییر.
+    
+- **resilience vs. endurance:** _endurance_ یعنی توان تحمل طولانی؛ _resilience_ یعنی توان برگشت سریع.
+    
+
+---
+
+### 9. Word Family
+
+- **resilience (n.)** → تاب‌آوری، انعطاف‌پذیری
+    
+- **resilient (adj.)** → تاب‌آور، انعطاف‌پذیر  
+    _She is resilient in the face of challenges._
+    
+- **resiliently (adv.)** → به‌طور تاب‌آورانه
+    
+- **non-resilient (adj.)** → غیرتاب‌آور
+    
+
+---
