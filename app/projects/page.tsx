@@ -2,102 +2,11 @@
 
 import * as React from "react";
 import { Header } from "@/components/header";
-import { Button } from "@/components/ui/button";
-import { Play, RotateCcw, ExternalLink, Network, Code, Sparkles, Layers, ShieldCheck, Terminal, BookOpen } from "lucide-react";
+import { ExternalLink, Network, Code, Sparkles, BookOpen, Terminal, Shield, Bot, Globe } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export default function ProjectsPage() {
-  const [activeTab, setActiveTab] = React.useState<"all" | "simulations" | "networking" | "software">("all");
-
-  // Physics Simulation State
-  const [velocity, setVelocity] = React.useState(50);
-  const [angle, setAngle] = React.useState(45);
-  const [gravity, setGravity] = React.useState(9.8);
-  const [simRunning, setSimRunning] = React.useState(true);
-
-  const canvasRef = React.useRef<HTMLCanvasElement>(null);
-
-  // Projectile Motion Simulation Effect
-  React.useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const ctx = canvas.getContext("2d");
-    if (!ctx) return;
-
-    let animationId: number;
-    let t = 0;
-    const width = (canvas.width = canvas.offsetWidth);
-    const height = (canvas.height = canvas.offsetHeight);
-
-    const rad = (angle * Math.PI) / 180;
-    const vx = velocity * Math.cos(rad) * 0.8;
-    const vy = velocity * Math.sin(rad) * 0.8;
-
-    const points: { x: number; y: number }[] = [];
-
-    const draw = () => {
-      ctx.clearRect(0, 0, width, height);
-
-      // Draw coordinate grid
-      ctx.strokeStyle = "rgba(100, 116, 139, 0.1)";
-      ctx.lineWidth = 1;
-      for (let x = 0; x < width; x += 30) {
-        ctx.beginPath();
-        ctx.moveTo(x, 0);
-        ctx.lineTo(x, height);
-        ctx.stroke();
-      }
-      for (let y = 0; y < height; y += 30) {
-        ctx.beginPath();
-        ctx.moveTo(0, y);
-        ctx.lineTo(width, y);
-        ctx.stroke();
-      }
-
-      // Compute physics position
-      if (simRunning) {
-        t += 0.15;
-      }
-      const x = 30 + vx * t;
-      const y = height - 30 - (vy * t - 0.5 * gravity * t * t);
-
-      if (y <= height - 30 && x <= width - 30) {
-        points.push({ x, y });
-      } else if (simRunning) {
-        // Loop simulation
-        t = 0;
-        points.length = 0;
-      }
-
-      // Draw trajectory path
-      if (points.length > 1) {
-        ctx.beginPath();
-        ctx.moveTo(points[0].x, points[0].y);
-        for (let i = 1; i < points.length; i++) {
-          ctx.lineTo(points[i].x, points[i].y);
-        }
-        ctx.strokeStyle = "#6366f1";
-        ctx.lineWidth = 2.5;
-        ctx.stroke();
-      }
-
-      // Draw projectile sphere
-      const currentPos = points[points.length - 1] || { x: 30, y: height - 30 };
-      ctx.beginPath();
-      ctx.arc(currentPos.x, currentPos.y, 8, 0, Math.PI * 2);
-      ctx.fillStyle = "#10b981";
-      ctx.fill();
-      ctx.strokeStyle = "#ffffff";
-      ctx.lineWidth = 2;
-      ctx.stroke();
-
-      animationId = requestAnimationFrame(draw);
-    };
-
-    draw();
-
-    return () => cancelAnimationFrame(animationId);
-  }, [velocity, angle, gravity, simRunning]);
+  const [activeTab, setActiveTab] = React.useState<"all" | "networking" | "software" | "academic">("all");
 
   return (
     <div className="flex flex-col min-h-screen">
@@ -123,7 +32,7 @@ export default function ProjectsPage() {
             { id: "all", label: "All Projects" },
             { id: "networking", label: "Networking & Tunnels" },
             { id: "software", label: "Web & Full-Stack" },
-            { id: "simulations", label: "Physics Simulators" },
+            { id: "academic", label: "Academic & Physics" },
           ].map((tab) => (
             <button
               key={tab.id}
@@ -226,6 +135,91 @@ export default function ProjectsPage() {
           </section>
         )}
 
+        {/* SECTION 1b: More Networking Projects */}
+        {(activeTab === "all" || activeTab === "networking") && (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {/* Spoof Tunnel */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Shield className="size-5 text-emerald-500" />
+                    <h3 className="font-bold text-md">Spoof Tunnel</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-emerald-500/10 text-emerald-500 border border-emerald-500/20">Go</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Layer 3/4 tunneling proxy that bypasses DPI through mutual bidirectional IP spoofing. Decouples logical sessions from physical network addresses by forging Source IP at both endpoints.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Go, Raw Sockets, DPI Bypass</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/spoof-tunnel" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+
+            {/* Pardeh */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Shield className="size-5 text-amber-500" />
+                    <h3 className="font-bold text-md">Pardeh — Bale E2E Extension</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-amber-500/10 text-amber-500 border border-amber-500/20">JavaScript</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Chrome extension adding experimental end-to-end encryption to Bale Messenger using manual ECDH P-256 handshake and AES-GCM. Injects UI indicator and manages key exchange in-browser.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Chrome Extension, ECDH, AES-GCM</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/pardeh" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+
+            {/* x-ui_bot */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Bot className="size-5 text-sky-500" />
+                    <h3 className="font-bold text-md">Telegram VPN Sales Bot</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-sky-500/10 text-sky-500 border border-sky-500/20">Python</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Telegram bot for selling VPN accounts with admin approval flow and SQLite storage. Handles orders, receipt forwarding, X-UI API provisioning, and subscription link delivery.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Python, Telegram Bot, X-UI API</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/x-ui_bot" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+
+            {/* govim */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Terminal className="size-5 text-indigo-500" />
+                    <h3 className="font-bold text-md">govim — Terminal Playground</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-indigo-500/10 text-indigo-500 border border-indigo-500/20">Go</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Minimalist Vim-inspired terminal playground written in Go. Navigate a block cursor across an 80×24 grid and write characters on a virtual canvas.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Go, Terminal UI</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/govim" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* SECTION 2: Real Software Projects Grid */}
         {(activeTab === "all" || activeTab === "software") && (
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -280,102 +274,203 @@ export default function ProjectsPage() {
               </div>
             </div>
 
+            {/* School Management */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Code className="size-5 text-indigo-500" />
+                    <h3 className="font-bold text-md">School Management System</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-indigo-500/10 text-indigo-500 border border-indigo-500/20">Python / React</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Full-stack school management system built with Django and React. Handles student records, teacher management, course scheduling, and administrative workflows.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Django, React, SQLite</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/school-managment" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+
+            {/* WonderLand */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Bot className="size-5 text-emerald-500" />
+                    <h3 className="font-bold text-md">WonderLand — LLM Chat Platform</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-emerald-500/10 text-emerald-500 border border-emerald-500/20">Python / TS</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Django backend with WebSocket-based real-time LLM chat platform. Supports streaming responses via Django Channels, JWT auth, and OpenRouter integration. React + Vite frontend.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Django Channels, WebSocket, React, Vite</span>
+                <div className="flex gap-3">
+                  <a href="https://github.com/Abulfadl-Ahmadi/wonderland-backend" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">Backend <ExternalLink className="size-3" /></a>
+                  <a href="https://github.com/Abulfadl-Ahmadi/wonderland-frontend" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">Frontend <ExternalLink className="size-3" /></a>
+                </div>
+              </div>
+            </div>
+
+            {/* Financial-v2 */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <Code className="size-5 text-amber-500" />
+                    <h3 className="font-bold text-md">Accounting System</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-amber-500/10 text-amber-500 border border-amber-500/20">Python / Django</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Industrial accounting system for managing employers, employees, workhouse operations (cuts, models), warehouse (cloth rolls, interlining), and financial receipts/payments. Built with Django and PostgreSQL.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Django, PostgreSQL</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/Financial-v2" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+
+            {/* backend-Django Social Media */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <BookOpen className="size-5 text-sky-500" />
+                    <h3 className="font-bold text-md">Social Media Platform</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-sky-500/10 text-sky-500 border border-sky-500/20">Django / DRF</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Social media application built with Django REST Framework. Features user profiles, posts, interactions, and a JavaScript frontend.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Django, DRF, JavaScript</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/backend-Django" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+
+            {/* University DB */}
+            <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+              <div className="flex flex-col gap-2">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2">
+                    <BookOpen className="size-5 text-indigo-500" />
+                    <h3 className="font-bold text-md">University Database System</h3>
+                  </div>
+                  <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-indigo-500/10 text-indigo-500 border border-indigo-500/20">Python / Django</span>
+                </div>
+                <p className="text-xs text-muted-foreground leading-relaxed">
+                  Comprehensive university database system managing students, teachers, and courses. Built with Django and SQLite. Telegram bot integration at @University_db.
+                </p>
+              </div>
+              <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                <span className="font-mono text-[10px] text-muted-foreground">Django, SQLite, Telegram Bot</span>
+                <a href="https://github.com/Abulfadl-Ahmadi/Univesity" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+              </div>
+            </div>
+
           </div>
         )}
 
-        {/* SECTION 3: Interactive Kinematics Physics Simulator */}
-        {(activeTab === "all" || activeTab === "simulations") && (
-          <section className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col gap-6">
-            <div className="flex items-center justify-between border-b border-border/50 pb-4">
-              <div>
-                <h2 className="font-bold text-lg flex items-center gap-2">
-                  <Sparkles className="size-5 text-indigo-500" />
-                  Kinematics Trajectory Physics Simulator
-                </h2>
-                <p className="text-xs text-muted-foreground">Interactive numerical simulation of 2D projectile motion with variable velocity ($v_0$), angle ($\\theta$), and gravitational acceleration ($g$).</p>
-              </div>
-              <div className="flex items-center gap-2">
-                <Button
-                  size="sm"
-                  variant="outline"
-                  onClick={() => setSimRunning(!simRunning)}
-                  className="font-mono text-xs gap-1.5"
-                >
-                  <Play className="size-3.5" />
-                  {simRunning ? "Pause" : "Play"}
-                </Button>
-                <Button
-                  size="sm"
-                  variant="ghost"
-                  onClick={() => {
-                    setVelocity(50);
-                    setAngle(45);
-                    setGravity(9.8);
-                  }}
-                  className="font-mono text-xs gap-1.5"
-                >
-                  <RotateCcw className="size-3.5" />
-                  Reset
-                </Button>
-              </div>
+        {/* SECTION 3: Academic & Physics Projects */}
+        {(activeTab === "all" || activeTab === "academic") && (
+          <div className="flex flex-col gap-6">
+            <div className="flex items-center gap-2 border-b border-border pb-3">
+              <Sparkles className="size-5 text-indigo-500" />
+              <h2 className="font-bold text-lg">Academic & Physics Projects</h2>
             </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-              {/* Canvas viewport */}
-              <div className="lg:col-span-2 h-72 rounded-xl bg-black/5 dark:bg-black/30 border border-border overflow-hidden relative">
-                <canvas ref={canvasRef} className="w-full h-full block" />
-              </div>
-
-              {/* Sliders */}
-              <div className="flex flex-col justify-center gap-5 p-4 rounded-xl border border-border bg-muted/20">
-                <div className="flex flex-col gap-1.5">
-                  <div className="flex justify-between text-xs font-mono">
-                    <span>Initial Velocity ($v_0$)</span>
-                    <span className="font-bold text-indigo-500">{velocity} m/s</span>
+              {/* Physics Lab 4 */}
+              <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+                <div className="flex flex-col gap-2">
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-2">
+                      <BookOpen className="size-5 text-emerald-500" />
+                      <h3 className="font-bold text-md">Physics Lab IV — Modern Physics</h3>
+                    </div>
+                    <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-emerald-500/10 text-emerald-500 border border-emerald-500/20">TeX / Python</span>
                   </div>
-                  <input
-                    type="range"
-                    min="10"
-                    max="100"
-                    value={velocity}
-                    onChange={(e) => setVelocity(Number(e.target.value))}
-                    className="w-full accent-indigo-500 cursor-pointer"
-                  />
+                  <p className="text-xs text-muted-foreground leading-relaxed">
+                    Complete lab reports for 10 modern physics experiments: Hall Effect, Franck-Hertz, Photoelectric Effect, Rydberg Constant, Electron Diffraction, Black Body Radiation, and more. Full Python statistical analysis with LaTeX typesetting.
+                  </p>
                 </div>
-
-                <div className="flex flex-col gap-1.5">
-                  <div className="flex justify-between text-xs font-mono">
-                    <span>Launch Angle ($\theta$)</span>
-                    <span className="font-bold text-indigo-500">{angle}°</span>
-                  </div>
-                  <input
-                    type="range"
-                    min="5"
-                    max="85"
-                    value={angle}
-                    onChange={(e) => setAngle(Number(e.target.value))}
-                    className="w-full accent-indigo-500 cursor-pointer"
-                  />
-                </div>
-
-                <div className="flex flex-col gap-1.5">
-                  <div className="flex justify-between text-xs font-mono">
-                    <span>Gravity ($g$)</span>
-                    <span className="font-bold text-indigo-500">{gravity} m/s²</span>
-                  </div>
-                  <input
-                    type="range"
-                    min="1.6"
-                    max="20"
-                    step="0.1"
-                    value={gravity}
-                    onChange={(e) => setGravity(Number(e.target.value))}
-                    className="w-full accent-indigo-500 cursor-pointer"
-                  />
+                <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                  <span className="font-mono text-[10px] text-muted-foreground">Python, LaTeX, OLS Regression</span>
+                  <a href="https://github.com/Abulfadl-Ahmadi/physics_lab4" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
                 </div>
               </div>
+
+              {/* AM2 Second Brain */}
+              <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+                <div className="flex flex-col gap-2">
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-2">
+                      <Bot className="size-5 text-indigo-500" />
+                      <h3 className="font-bold text-md">AM II — AI Second Brain</h3>
+                    </div>
+                    <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-indigo-500/10 text-indigo-500 border border-indigo-500/20">Obsidian / AI</span>
+                  </div>
+                  <p className="text-xs text-muted-foreground leading-relaxed">
+                    AI-powered study assistant for Analytical Mechanics II. Features custom agent workflows for step-by-step problem-solving constrained to class materials, with trap detection and exam-quality solutions in academic Persian.
+                  </p>
+                </div>
+                <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                  <span className="font-mono text-[10px] text-muted-foreground">Obsidian, Prompt Engineering, Physics</span>
+                  <a href="https://github.com/Abulfadl-Ahmadi/AM2" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+                </div>
+              </div>
+
+              {/* Experimental Physics */}
+              <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+                <div className="flex flex-col gap-2">
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-2">
+                      <BookOpen className="size-5 text-amber-500" />
+                      <h3 className="font-bold text-md">Experimental Physics Notes</h3>
+                    </div>
+                    <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-amber-500/10 text-amber-500 border border-amber-500/20">Obsidian</span>
+                  </div>
+                  <p className="text-xs text-muted-foreground leading-relaxed">
+                    Interconnected notes and mind maps for Semester 4 Experimental Physics. Covers vacuum technology, cryogenics, thermometry, optics & spectroscopy, and particle/photon detection.
+                  </p>
+                </div>
+                <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                  <span className="font-mono text-[10px] text-muted-foreground">Obsidian, Physics, Notes</span>
+                  <a href="https://github.com/Abulfadl-Ahmadi/Experimental-Physics-Spring-2026" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+                </div>
+              </div>
+
+              {/* Greenhouse Effect */}
+              <div className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4 hover:border-indigo-500/30 transition-colors">
+                <div className="flex flex-col gap-2">
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center gap-2">
+                      <Globe className="size-5 text-emerald-500" />
+                      <h3 className="font-bold text-md">Greenhouse Effect — Thermodynamics</h3>
+                    </div>
+                    <span className="px-2 py-0.5 rounded text-[10px] font-mono bg-emerald-500/10 text-emerald-500 border border-emerald-500/20">LaTeX</span>
+                  </div>
+                  <p className="text-xs text-muted-foreground leading-relaxed">
+                    Scientific article on thermodynamic principles underlying the greenhouse effect. Covers blackbody emission, Planck's law, Stefan-Boltzmann law, radiative balance, and climate feedback mechanisms.
+                  </p>
+                </div>
+                <div className="flex items-center justify-between pt-3 border-t border-border/50 text-xs">
+                  <span className="font-mono text-[10px] text-muted-foreground">LaTeX, Thermodynamics, Climate</span>
+                  <a href="https://github.com/Abulfadl-Ahmadi/Greenhouse-Effect" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-indigo-500 hover:underline">View Repo <ExternalLink className="size-3" /></a>
+                </div>
+              </div>
+
             </div>
-          </section>
+          </div>
         )}
 
       </main>
