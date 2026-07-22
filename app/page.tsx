@@ -88,7 +88,7 @@ export default function Home() {
       {/* Ambient background — masked to the top, non-interactive */}
       <div
         aria-hidden
-        className="pointer-events-none fixed inset-0 -z-10 opacity-60 transform-gpu [mask-image:linear-gradient(to_bottom,black,transparent_70%)]"
+        className="pointer-events-none fixed inset-0 -z-10 opacity-60 [mask-image:linear-gradient(to_bottom,black,transparent_70%)]"
       >
         <EtherealShadow
           color="rgba(99,102,241,0.22)"
