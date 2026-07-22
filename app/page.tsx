@@ -65,6 +65,16 @@ const lab = [
 export default function Home() {
   const reduce = useReducedMotion();
 
+  // Client-only viewport check — tune the ambient effect for small screens.
+  const [isMobile, setIsMobile] = React.useState(false);
+  React.useEffect(() => {
+    const mq = window.matchMedia("(max-width: 640px)");
+    const update = () => setIsMobile(mq.matches);
+    update();
+    mq.addEventListener("change", update);
+    return () => mq.removeEventListener("change", update);
+  }, []);
+
   // One orchestrated load reveal: container staggers its children.
   const container: Variants = {
     hidden: {},
@@ -85,15 +95,19 @@ export default function Home() {
 
   return (
     <div className="relative flex min-h-dvh flex-col">
-      {/* Ambient background — masked to the top, non-interactive */}
+      {/* Ambient background — masked to top & hero area, non-interactive */}
       <div
         aria-hidden
-        className="pointer-events-none fixed inset-0 -z-10 opacity-60 [mask-image:linear-gradient(to_bottom,black,transparent_70%)]"
+        className="pointer-events-none fixed inset-0 -z-10 opacity-85 transition-opacity duration-500 sm:opacity-90 [mask-image:linear-gradient(to_bottom,black_30%,transparent_85%)]"
       >
         <EtherealShadow
-          color="rgba(99,102,241,0.22)"
-          animation={reduce ? { scale: 0, speed: 0 } : { scale: 72, speed: 42 }}
-          noise={{ opacity: 0.35, scale: 1.4 }}
+          color="rgba(99,102,241,0.42)"
+          animation={
+            reduce
+              ? { scale: 0, speed: 0 }
+              : { scale: isMobile ? 52 : 76, speed: isMobile ? 55 : 62 }
+          }
+          noise={{ opacity: 0.3, scale: 1.2 }}
           style={{ width: "100%", height: "100%" }}
         />
       </div>
