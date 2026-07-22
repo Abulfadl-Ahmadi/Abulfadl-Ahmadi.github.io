@@ -1,0 +1,81 @@
+---
+title: "Experimental Physics: Vacuum, Cryogenics & Detection"
+category: "Experimental Physics"
+date: "2026-07-13"
+description: "Interconnected notes covering vacuum technology, cryogenics, thermometry, optics & spectroscopy, and particle/photon detection for the Semester 4 Experimental Physics exam."
+---
+
+## Vacuum Technology
+
+### Vacuum Generation
+
+Vacuum systems are categorized by pressure range:
+
+| Regime | Pressure Range | Typical Pump |
+|--------|---------------|---------------|
+| Rough Vacuum | $10^3$ – $1 \, \text{Pa}$ | Rotary vane |
+| Medium Vacuum | $1$ – $10^{-3} \, \text{Pa}$ | Turbomolecular |
+| High Vacuum | $10^{-3}$ – $10^{-7} \, \text{Pa}$ | Diffusion / Turbo |
+| Ultra-High Vacuum | $< 10^{-7} \, \text{Pa}$ | Ion pump + Ti sublimation |
+
+### Pressure Measurement
+
+The mean free path of gas molecules relates to pressure:
+
+$$ \lambda = \frac{k_B T}{\sqrt{2} \pi d^2 P} $$
+
+where $d$ is the molecular diameter and $P$ is pressure.
+
+## Cryogenics
+
+### Gas Liquefaction
+
+The Joule-Thomson coefficient determines whether a gas cools or heats upon expansion:
+
+$$ \mu_{JT} = \left(\frac{\partial T}{\partial P}\right)_H $$
+
+For gases below their inversion temperature, $\mu_{JT} > 0$ and expansion causes cooling.
+
+### Superfluidity
+
+Liquid helium-4 undergoes a phase transition at the lambda point ($T_\lambda = 2.17 \, \text{K}$), entering a superfluid state with zero viscosity.
+
+## Thermometry
+
+### Resistance Thermometers
+
+The resistance of platinum follows the Callendar-Van Dusen equation:
+
+$$ R(T) = R_0 \left[1 + A T + B T^2 + C(T-100)T^3\right] $$
+
+for $T < 0°\text{C}$, where $R_0 = 100 \, \Omega$ for a Pt100 sensor.
+
+## Optics & Spectroscopy
+
+### Laser Fundamentals
+
+Population inversion is the key condition for lasing:
+
+$$ N_2 > N_1 $$
+
+where $N_2$ and $N_1$ are populations of the upper and lower laser states.
+
+### Atomic Spectra
+
+The energy levels of hydrogen-like atoms:
+
+$$ E_n = -\frac{13.6 \, \text{eV}}{n^2} \cdot Z^2 $$
+
+## Particle & Photon Detection
+
+### Photomultiplier Tubes
+
+PMTs achieve single-photon detection through cascading secondary electron emission. The gain is:
+
+$$ G = \delta^n $$
+
+where $\delta$ is the secondary emission coefficient per dynode and $n$ is the number of dynode stages (typically 8–14).
+
+## Source
+
+Notes structured as an Obsidian vault with cross-linked concepts. Available on [GitHub](https://github.com/Abulfadl-Ahmadi/Experimental-Physics-Spring-2026).
