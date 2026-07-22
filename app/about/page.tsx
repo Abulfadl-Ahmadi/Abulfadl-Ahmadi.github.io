@@ -3,9 +3,11 @@
 import * as React from "react";
 import Image from "next/image";
 import { Header } from "@/components/header";
-import { User, GraduationCap, Award, Briefcase, FileText, Mail, Send, Download, Globe } from "lucide-react";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { GraduationCap, Code, Terminal, ShieldCheck, Mail, Send, Globe } from "lucide-react";
+import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+
+const BUILD_YEAR = process.env.NEXT_PUBLIC_BUILD_YEAR ?? "2026";
 
 function GithubIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
@@ -36,59 +38,59 @@ function OrcidIcon(props: React.SVGProps<SVGSVGElement>) {
 
 const timelineEvents = [
   {
-    year: "2024 - Present",
-    title: "Secretary & Active Member",
-    institution: "Physics Scientific Association, Sharif University of Technology",
-    icon: Award,
-    color: "text-amber-500",
-    bgColor: "bg-amber-500/10",
-    borderColor: "border-amber-500/20",
-    description: "Organizing physics workshops, academic seminars, and collaborative computational physics research at Sharif University.",
-  },
-  {
-    year: "2023 - Present",
-    title: "Go Network Protocols Developer",
-    institution: "Open Source & Security Research",
-    icon: Briefcase,
+    year: "2025 — Present",
+    title: "Go (Golang) & Network Tunneling",
+    institution: "Self-taught · Security & Networking",
+    icon: Terminal,
     color: "text-emerald-500",
     bgColor: "bg-emerald-500/10",
     borderColor: "border-emerald-500/20",
-    description: "Developed Hyper-Tunnel and DS-tunnel, high-performance asymmetric transport layers combining DNS resolving and IP spoofing to bypass DPI drops.",
+    description:
+      "Started learning Go in 2025. During the internet blackouts of the Iran–Israel–US conflict it became indispensable — I used it to build VPN and tunneling tools to keep connectivity alive.",
   },
   {
-    year: "2022 - Present",
-    title: "Physics & Programming Instructor",
-    institution: "High School & Academy Courses",
+    year: "Sep 2024 — Present",
+    title: "B.Sc. Physics",
+    institution: "Sharif University of Technology",
     icon: GraduationCap,
     color: "text-indigo-500",
     bgColor: "bg-indigo-500/10",
     borderColor: "border-indigo-500/20",
-    description: "Teaching 10th & 12th grade physics courses and introductory algorithm design to aspiring young scientists.",
+    description:
+      "Studying physics at Sharif University of Technology since September 2024 — classical mechanics, quantum theory, and numerical simulation.",
   },
   {
-    year: "2021 - Present",
-    title: "B.Sc. Physics Student",
-    institution: "Sharif University of Technology",
-    icon: User,
+    year: "Dec 2022 — Present",
+    title: "Circumvention & Networking",
+    institution: "Personal Practice",
+    icon: ShieldCheck,
+    color: "text-sky-500",
+    bgColor: "bg-sky-500/10",
+    borderColor: "border-sky-500/20",
+    description:
+      "Running v2ray since December 2022. This hands-on experience with censorship-resistant networking later shaped my own tunneling projects.",
+  },
+  {
+    year: "Sep 2021 — Jun 2024",
+    title: "Mathematics & Physics Diploma",
+    institution: "Dr. Hesabi High School",
+    icon: GraduationCap,
+    color: "text-amber-500",
+    bgColor: "bg-amber-500/10",
+    borderColor: "border-amber-500/20",
+    description:
+      "Completed high school in the Mathematics–Physics track at Dr. Hesabi High School from September 2021 to 2024.",
+  },
+  {
+    year: "Aug 2021 — Present",
+    title: "Software Development Journey",
+    institution: "Self-taught",
+    icon: Code,
     color: "text-indigo-500",
     bgColor: "bg-indigo-500/10",
     borderColor: "border-indigo-500/20",
-    description: "Focusing on classical mechanics, quantum theory, numerical simulations, and software engineering.",
-  },
-];
-
-const articles = [
-  {
-    title: "Asymmetric Packet Transport & DNS Upstream Tunneling",
-    journal: "Go Network Protocol Research Notes",
-    year: "2024",
-    abstract: "A design specification for combining upstream DNS resolution with high-speed downstream payload delivery to maintain secure sockets under restrictive censorship.",
-  },
-  {
-    title: "Numerical Simulating Quantum Wavepacket Dispersion in Non-Linear Potentials",
-    journal: "Computational Physics Workshop Notes",
-    year: "2023",
-    abstract: "Applying Crank-Nicolson finite difference schemes to model time-dependent wavepacket evolution across arbitrary potential barriers.",
+    description:
+      "Began programming in August 2021 with C, then Python — moving on to Django and Django REST Framework, and then React and Next.js on the frontend.",
   },
 ];
 
@@ -101,7 +103,7 @@ export default function AboutPage() {
   };
 
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-dvh">
       <Header />
 
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-10 flex flex-col gap-12">
@@ -130,7 +132,9 @@ export default function AboutPage() {
             </div>
 
             <p className="text-xs md:text-sm text-muted-foreground leading-relaxed">
-              Physics student passionate about using coding skills for physics projects, numerical simulations, networking protocols, and open-source contributions. Developer of Hyper-Tunnel, DS-tunnel, and full-stack educational platforms.
+              Physics student at Sharif University of Technology and a self-taught
+              developer since 2021. I work across the stack with Python, Django, React,
+              and Next.js, and build networking and anti-censorship tooling in Go.
             </p>
 
             {/* Social & Contact Links */}
@@ -213,31 +217,6 @@ export default function AboutPage() {
           </div>
         </section>
 
-        {/* Research Paper Abstracts */}
-        <section className="flex flex-col gap-6">
-          <div className="flex items-center gap-2">
-            <FileText className="size-5 text-emerald-500" />
-            <h2 className="text-xl font-bold tracking-tight">Research & Project Notes</h2>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {articles.map((art, idx) => (
-              <div key={idx} className="rounded-2xl border border-border bg-card/40 p-6 flex flex-col justify-between gap-4">
-                <div className="flex flex-col gap-2">
-                  <div className="flex items-center justify-between">
-                    <span className="text-[10px] font-mono text-emerald-500 bg-emerald-500/10 px-2 py-0.5 rounded border border-emerald-500/20">
-                      {art.year}
-                    </span>
-                  </div>
-                  <h3 className="font-bold text-sm text-foreground">{art.title}</h3>
-                  <div className="text-xs font-mono text-muted-foreground">{art.journal}</div>
-                  <p className="text-xs text-muted-foreground leading-relaxed mt-2">{art.abstract}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-
         {/* Contact Form */}
         <section className="rounded-2xl border border-border bg-card/40 p-6 md:p-10 flex flex-col gap-6 max-w-2xl">
           <div className="flex items-center gap-2">
@@ -296,7 +275,7 @@ export default function AboutPage() {
 
       <footer className="border-t border-border bg-card/20 py-6 mt-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-muted-foreground font-mono">
-          <div>© {new Date().getFullYear()} Abulfadl Ahmadi. Sharif University of Technology.</div>
+          <div>© {BUILD_YEAR} Abulfadl Ahmadi. Sharif University of Technology.</div>
           <div className="flex items-center gap-4">
             <a href="/" className="hover:text-foreground">Home</a>
             <span>•</span>
