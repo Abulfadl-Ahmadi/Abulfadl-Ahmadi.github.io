@@ -3,11 +3,10 @@
 import * as React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, BookOpen, Binary, ShieldAlert, GraduationCap, User2, RefreshCw, Cpu, Award, Sparkles, ExternalLink, Code } from "lucide-react";
+import { ArrowRight, BookOpen, RefreshCw, Award, Sparkles, ExternalLink, Code } from "lucide-react";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { Header } from "@/components/header";
 import { cn } from "@/lib/utils";
-import { motion } from "framer-motion";
 
 // List of physics formulas for the Daily Formula Widget
 const formulas = [
@@ -40,157 +39,6 @@ const formulas = [
 
 export default function Home() {
   const [formulaIndex, setFormulaIndex] = React.useState(0);
-  const canvasRef = React.useRef<HTMLCanvasElement>(null);
-
-  // Interactive Physics Sandbox Canvas
-  React.useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const ctx = canvas.getContext("2d");
-    if (!ctx) return;
-
-    let animationFrameId: number;
-    let width = (canvas.width = canvas.offsetWidth);
-    let height = (canvas.height = canvas.offsetHeight);
-
-    interface PhysicsBall {
-      x: number;
-      y: number;
-      vx: number;
-      vy: number;
-      radius: number;
-      color: string;
-      label: string;
-      isDragging: boolean;
-    }
-
-    const balls: PhysicsBall[] = [
-      { x: width * 0.25, y: height * 0.4, vx: 2, vy: 0, radius: 24, color: "#6366f1", label: "Ψ", isDragging: false },
-      { x: width * 0.5, y: height * 0.3, vx: -1.5, vy: 1, radius: 28, color: "#10b981", label: "c", isDragging: false },
-      { x: width * 0.75, y: height * 0.5, vx: 1, vy: -2, radius: 26, color: "#f59e0b", label: "ħ", isDragging: false },
-    ];
-
-    const gravity = 0.2;
-    const friction = 0.98;
-    const bounce = 0.7;
-    let activeDragBall: PhysicsBall | null = null;
-    let mouse = { x: 0, y: 0 };
-
-    const handleResize = () => {
-      if (!canvas) return;
-      width = canvas.width = canvas.offsetWidth;
-      height = canvas.height = canvas.offsetHeight;
-    };
-    window.addEventListener("resize", handleResize);
-
-    const getMousePos = (e: MouseEvent | TouchEvent) => {
-      const rect = canvas.getBoundingClientRect();
-      const clientX = "touches" in e ? e.touches[0].clientX : e.clientX;
-      const clientY = "touches" in e ? e.touches[0].clientY : e.clientY;
-      return {
-        x: clientX - rect.left,
-        y: clientY - rect.top,
-      };
-    };
-
-    const onMouseDown = (e: MouseEvent | TouchEvent) => {
-      const pos = getMousePos(e);
-      mouse = pos;
-      for (const ball of balls) {
-        const dx = ball.x - pos.x;
-        const dy = ball.y - pos.y;
-        if (Math.sqrt(dx * dx + dy * dy) < ball.radius) {
-          ball.isDragging = true;
-          activeDragBall = ball;
-          break;
-        }
-      }
-    };
-
-    const onMouseMove = (e: MouseEvent | TouchEvent) => {
-      const pos = getMousePos(e);
-      if (activeDragBall) {
-        activeDragBall.vx = (pos.x - activeDragBall.x) * 0.2;
-        activeDragBall.vy = (pos.y - activeDragBall.y) * 0.2;
-        activeDragBall.x = pos.x;
-        activeDragBall.y = pos.y;
-      }
-      mouse = pos;
-    };
-
-    const onMouseUp = () => {
-      if (activeDragBall) {
-        activeDragBall.isDragging = false;
-        activeDragBall = null;
-      }
-    };
-
-    canvas.addEventListener("mousedown", onMouseDown);
-    canvas.addEventListener("mousemove", onMouseMove);
-    canvas.addEventListener("touchstart", onMouseDown);
-    canvas.addEventListener("touchmove", onMouseMove);
-    window.addEventListener("mouseup", onMouseUp);
-    window.addEventListener("touchend", onMouseUp);
-
-    const updatePhysics = () => {
-      ctx.clearRect(0, 0, width, height);
-
-      balls.forEach((ball, idx) => {
-        if (!ball.isDragging) {
-          ball.vy += gravity;
-          ball.vx *= friction;
-          ball.vy *= friction;
-
-          ball.x += ball.vx;
-          ball.y += ball.vy;
-
-          if (ball.x + ball.radius > width) {
-            ball.x = width - ball.radius;
-            ball.vx = -ball.vx * bounce;
-          } else if (ball.x - ball.radius < 0) {
-            ball.x = 0 + ball.radius;
-            ball.vx = -ball.vx * bounce;
-          }
-
-          if (ball.y + ball.radius > height) {
-            ball.y = height - ball.radius;
-            ball.vy = -ball.vy * bounce;
-            ball.vx *= 0.95;
-          }
-        }
-
-        ctx.beginPath();
-        ctx.arc(ball.x, ball.y + 2, ball.radius, 0, Math.PI * 2);
-        ctx.fillStyle = "rgba(0, 0, 0, 0.15)";
-        ctx.fill();
-
-        ctx.beginPath();
-        ctx.arc(ball.x, ball.y, ball.radius, 0, Math.PI * 2);
-        ctx.fillStyle = ball.color;
-        ctx.fill();
-
-        ctx.fillStyle = "#ffffff";
-        ctx.font = "bold 16px sans-serif";
-        ctx.textAlign = "center";
-        ctx.textBaseline = "middle";
-        ctx.fillText(ball.label, ball.x, ball.y);
-      });
-
-      animationFrameId = requestAnimationFrame(updatePhysics);
-    };
-
-    updatePhysics();
-
-    return () => {
-      window.removeEventListener("resize", handleResize);
-      if (canvas) {
-        canvas.removeEventListener("mousedown", onMouseDown);
-        canvas.removeEventListener("mousemove", onMouseMove);
-      }
-      window.removeEventListener("mouseup", onMouseUp);
-      cancelAnimationFrame(animationFrameId);
-    };
-  }, []);
 
   const cycleFormula = () => {
     setFormulaIndex((prev) => (prev + 1) % formulas.length);
@@ -245,24 +93,37 @@ export default function Home() {
         {/* Bento Grid Showcase */}
         <section className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
-          {/* Bento Card 1: Interactive Physics Sandbox */}
-          <div className="md:col-span-2 rounded-2xl border border-border bg-card/40 p-6 flex flex-col gap-4 relative overflow-hidden shadow-sm">
-            <div className="flex items-center justify-between z-10">
+          {/* Bento Card 1: Stats Overview */}
+          <div className="md:col-span-2 rounded-2xl border border-border bg-card/40 p-6 flex flex-col gap-4 shadow-sm">
+            <div className="flex items-center justify-between">
               <div className="flex items-center gap-2">
-                <Cpu className="size-5 text-indigo-500" />
-                <h3 className="font-bold text-md">Physics Canvas Sandbox</h3>
+                <Code className="size-5 text-indigo-500" />
+                <h3 className="font-bold text-md">Development Overview</h3>
               </div>
               <span className="text-[10px] font-mono bg-indigo-500/10 text-indigo-500 px-2 py-0.5 rounded border border-indigo-500/20">
-                Interactive Drag & Collision
+                Open Source
               </span>
             </div>
-            <p className="text-xs text-muted-foreground z-10 max-w-md">
-              Drag and toss the physics spheres below. They collide with momentum and bounce off boundaries using 2D rigid-body vector kinetics.
-            </p>
-
-            <div className="w-full h-56 rounded-xl bg-black/5 dark:bg-black/40 border border-border relative overflow-hidden">
-              <canvas ref={canvasRef} className="w-full h-full block cursor-grab active:cursor-grabbing" />
+            <div className="grid grid-cols-3 gap-4 mt-2">
+              <div className="flex flex-col gap-1">
+                <span className="text-3xl font-extrabold text-indigo-500">30+</span>
+                <span className="text-xs text-muted-foreground font-mono">Repositories</span>
+              </div>
+              <div className="flex flex-col gap-1">
+                <span className="text-3xl font-extrabold text-emerald-500">5</span>
+                <span className="text-xs text-muted-foreground font-mono">Languages</span>
+              </div>
+              <div className="flex flex-col gap-1">
+                <span className="text-3xl font-extrabold text-amber-500">4+</span>
+                <span className="text-xs text-muted-foreground font-mono">Years Active</span>
+              </div>
             </div>
+            <p className="text-xs text-muted-foreground max-w-md leading-relaxed mt-2">
+              From Go network tunneling protocols to full-stack educational platforms and physics lab reports — explore the full range of projects on GitHub.
+            </p>
+            <Link href="/projects" className="text-xs font-mono text-indigo-500 flex items-center gap-1 hover:underline mt-1">
+              Browse all projects <ArrowRight className="size-3.5" />
+            </Link>
           </div>
 
           {/* Bento Card 2: Daily Formula Widget */}
@@ -316,16 +177,16 @@ export default function Home() {
               <a href="https://github.com/Abulfadl-Ahmadi/Hyper-Tunnel" target="_blank" rel="noopener noreferrer" className="p-4 rounded-xl border border-border bg-muted/20 hover:border-indigo-500/40 transition-colors flex flex-col justify-between gap-3 group">
                 <div>
                   <div className="text-sm font-bold group-hover:text-indigo-500 transition-colors">Hyper-Tunnel</div>
-                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">Asymmetric transport layer combining DNS upstream tunneling with packet delivery.</p>
+                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">High-performance asymmetric transport layer combining DNS upstream tunneling with IP spoofing downstream delivery.</p>
                 </div>
                 <span className="text-[10px] font-mono text-sky-500">Go</span>
               </a>
 
               {/* Repo 2 */}
-              <a href="https://github.com/Abulfadl-Ahmadi/DS-tunnel" target="_blank" rel="noopener noreferrer" className="p-4 rounded-xl border border-border bg-muted/20 hover:border-indigo-500/40 transition-colors flex flex-col justify-between gap-3 group">
+              <a href="https://github.com/Abulfadl-Ahmadi/spoof-tunnel" target="_blank" rel="noopener noreferrer" className="p-4 rounded-xl border border-border bg-muted/20 hover:border-indigo-500/40 transition-colors flex flex-col justify-between gap-3 group">
                 <div>
-                  <div className="text-sm font-bold group-hover:text-indigo-500 transition-colors">DS-tunnel</div>
-                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">DNS resolving and IP spoofing payload tunnel in Go.</p>
+                  <div className="text-sm font-bold group-hover:text-indigo-500 transition-colors">Spoof Tunnel</div>
+                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">Layer 3/4 tunneling proxy bypassing DPI via mutual bidirectional IP spoofing.</p>
                 </div>
                 <span className="text-[10px] font-mono text-sky-500">Go</span>
               </a>
@@ -334,18 +195,18 @@ export default function Home() {
               <a href="https://github.com/Abulfadl-Ahmadi/Academia" target="_blank" rel="noopener noreferrer" className="p-4 rounded-xl border border-border bg-muted/20 hover:border-indigo-500/40 transition-colors flex flex-col justify-between gap-3 group">
                 <div>
                   <div className="text-sm font-bold group-hover:text-indigo-500 transition-colors">Academia</div>
-                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">Online learning hub powered by DRF and Vite for high school students.</p>
+                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">Educational platform with DRF backend, React 19 frontend, SMS auth, test management, and AI integration.</p>
                 </div>
-                <span className="text-[10px] font-mono text-blue-500">TypeScript</span>
+                <span className="text-[10px] font-mono text-blue-500">TypeScript / Python</span>
               </a>
 
               {/* Repo 4 */}
-              <a href="https://github.com/Abulfadl-Ahmadi/Online-Shop" target="_blank" rel="noopener noreferrer" className="p-4 rounded-xl border border-border bg-muted/20 hover:border-indigo-500/40 transition-colors flex flex-col justify-between gap-3 group">
+              <a href="https://github.com/Abulfadl-Ahmadi/physics_lab4" target="_blank" rel="noopener noreferrer" className="p-4 rounded-xl border border-border bg-muted/20 hover:border-indigo-500/40 transition-colors flex flex-col justify-between gap-3 group">
                 <div>
-                  <div className="text-sm font-bold group-hover:text-indigo-500 transition-colors">Online-Shop</div>
-                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">E-commerce store platform powered by Django backend.</p>
+                  <div className="text-sm font-bold group-hover:text-indigo-500 transition-colors">Physics Lab IV</div>
+                  <p className="text-xs text-muted-foreground mt-1 line-clamp-2">10 modern physics lab experiments: Franck-Hertz, Photoelectric Effect, Electron Diffraction, and more.</p>
                 </div>
-                <span className="text-[10px] font-mono text-amber-500">Python / Django</span>
+                <span className="text-[10px] font-mono text-emerald-500">TeX / Python</span>
               </a>
             </div>
           </div>
