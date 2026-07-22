@@ -1,0 +1,42 @@
+---
+title: "Algorithmic Thinking & Big-O"
+category: "Computer Science"
+date: "2024-11-20"
+description: "Asymptotic notation, complexity tables, and practical binary search algorithm analysis."
+---
+
+# Algorithmic Thinking & Big-O Complexity
+
+Analyzing algorithm efficiency is essential for building scalable applications. We use asymptotic notations to describe computational complexity.
+
+## Big-O Notation
+
+Big-O describes the upper bound of the running time or space complexity of an algorithm in the worst-case scenario.
+
+### Complexity Comparison Table
+
+| Complexity | Name | Example Algorithm |
+| --- | --- | --- |
+| $O(1)$ | Constant | Array Index Access |
+| $O(\log n)$ | Logarithmic | Binary Search |
+| $O(n)$ | Linear | Single Loop |
+| $O(n \log n)$ | Linearithmic | Merge Sort / QuickSort |
+| $O(n^2)$ | Quadratic | Bubble Sort / Selection Sort |
+
+## Code Example: Binary Search
+Here is a sample implementation of Binary Search in TypeScript:
+
+```typescript
+function binarySearch(arr: number[], target: number): number {
+  let left = 0;
+  let right = arr.length - 1;
+
+  while (left <= right) {
+    const mid = Math.floor((left + right) / 2);
+    if (arr[mid] === target) return mid;
+    if (arr[mid] < target) left = mid + 1;
+    else right = mid - 1;
+  }
+  return -1; // Not found
+}
+```

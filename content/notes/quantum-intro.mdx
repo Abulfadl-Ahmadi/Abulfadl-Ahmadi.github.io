@@ -1,0 +1,101 @@
+---
+title: "Introduction to Quantum States"
+category: "Quantum Mechanics"
+date: "2024-10-15"
+description: "Understanding wavefunctions, Born's probability density, and the time-dependent Schrödinger equation."
+---
+
+# Introduction to Quantum States & Wavefunctions
+
+<Callout type="note" title="Core Principle of Quantum Theory">
+In quantum mechanics, physical systems are described by a complex-valued mathematical entity called a **wavefunction**, typically denoted by the Greek letter $\Psi(x, t)$.
+</Callout>
+
+---
+
+## 🎯 Quick Navigation & Key Topics
+
+<CardGroup cols={2}>
+  <Card title="Schrödinger Equation" description="Time-dependent wave equation governing non-relativistic state evolution." icon={Sparkles} />
+  <Card title="Born Probability" description="Statistical interpretation of wavefunction norm squared |Ψ|²." icon={HelpCircle} />
+  <Card title="Hamiltonian Operator" description="Energy operator derived from kinetic and potential operators." icon={Info} />
+  <Card title="Normalization Condition" description="Total probability across all space sums to 1." icon={CheckCircle2} />
+</CardGroup>
+
+---
+
+## The Schrödinger Equation
+
+The time-development of a non-relativistic quantum state is governed by the time-dependent Schrödinger Equation:
+
+$$i\hbar \frac{\partial}{\partial t}\Psi(x, t) = \left[ -\frac{\hbar^2}{2m}\frac{\partial^2}{\partial x^2} + V(x, t) \right]\Psi(x, t)$$
+
+Where:
+* $\hbar$ is the reduced Planck constant ($\hbar \approx 1.054 \times 10^{-34} \text{ J}\cdot\text{s}$).
+* $m$ is the mass of the particle.
+* $V(x, t)$ is the potential energy function.
+* $\hat{H} = -\frac{\hbar^2}{2m}\frac{\partial^2}{\partial x^2} + V(x, t)$ is the Hamiltonian operator.
+
+---
+
+## Step-by-Step State Evolution Workflow
+
+<Steps>
+  <Step title="Formulate the Potential V(x)">
+    Define the boundary conditions and potential energy barrier $V(x)$ (e.g., Infinite Square Well or Harmonic Oscillator).
+  </Step>
+  <Step title="Solve the Time-Independent Equation">
+    Separate spatial variables to find stationary energy eigenfunctions $\psi_n(x)$ and eigenvalues $E_n$.
+  </Step>
+  <Step title="Construct the General Wavefunction">
+    Superpose energy eigenstates with phase factors $e^{-i E_n t / \hbar}$.
+  </Step>
+</Steps>
+
+---
+
+## Interactive Code Implementation
+
+<Tabs>
+  <Tab title="Python / SciPy">
+```python
+import numpy as np
+
+def wave_packet(x, x0, sigma, k0):
+    return (1.0 / (np.pi**0.25 * np.sqrt(sigma))) * np.exp(-0.5 * ((x - x0)/sigma)**2 + 1j * k0 * x)
+```
+  </Tab>
+  <Tab title="TypeScript / WebGL">
+```typescript
+function computeProbabilityDensity(real: number, imag: number): number {
+  return real * real + imag * imag;
+}
+```
+  </Tab>
+</Tabs>
+
+---
+
+## Probability Density & Normalization
+
+According to Max Born's statistical interpretation, the square of the magnitude of the wavefunction represents a probability density:
+
+$$P(x, t) = |\Psi(x, t)|^2 = \Psi^*(x, t)\Psi(x, t)$$
+
+This leads to the normalization condition, asserting that the particle must exist somewhere in space:
+
+$$\int_{-\infty}^{\infty} |\Psi(x, t)|^2 \, dx = 1$$
+
+<Callout type="tip" title="Conservation of Probability">
+Due to the hermiticity of the Hamiltonian operator $\hat{H} = \hat{H}^\dagger$, the norm $\int |\Psi|^2 dx$ remains constant in time.
+</Callout>
+
+---
+
+## Deep Dive: Hermitian Operators
+
+<Accordion title="Why must physical observables be represented by Hermitian operators?">
+In quantum mechanics, measurable physical quantities (energy, momentum, position) are eigenvalues of operators. Hermitian operators ($\hat{A} = \hat{A}^\dagger$) guarantee:
+1. All eigenvalues are real numbers $\lambda \in \mathbb{R}$.
+2. Eigenstates belonging to different eigenvalues are orthogonal.
+</Accordion>

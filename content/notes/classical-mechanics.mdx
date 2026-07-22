@@ -1,0 +1,28 @@
+---
+title: "Lagrangian Mechanics & Actions"
+category: "Classical Mechanics"
+date: "2024-11-02"
+description: "Reformulating classical mechanics through kinetic and potential energy via Hamilton's Principle of Least Action."
+---
+
+# Lagrangian Mechanics and Hamilton's Principle
+
+Lagrangian mechanics reformulated classical mechanics by focusing on scalar quantities (energy) rather than vectors (forces).
+
+## The Lagrangian
+
+The Lagrangian $L$ of a system is defined as the difference between its kinetic energy $T$ and potential energy $V$:
+
+$$L(q, \dot{q}, t) = T - V$$
+
+Where $q$ represents the generalized coordinates, and $\dot{q}$ represents the generalized velocities.
+
+## Hamilton's Principle of Least Action
+
+Hamilton's principle states that the path taken by a system between times $t_1$ and $t_2$ is the one that extremizes (usually minimizes) the action $S$:
+
+$$S = \int_{t_1}^{t_2} L(q, \dot{q}, t) \, dt$$
+
+By applying the calculus of variations, we arrive at the **Euler-Lagrange Equations**:
+
+$$\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{q}_i}\right) - \frac{\partial L}{\partial q_i} = 0$$
