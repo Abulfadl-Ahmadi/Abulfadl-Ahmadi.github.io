@@ -2,12 +2,32 @@
 
 import * as React from "react";
 import { Header } from "@/components/header";
-import { GraduationCap, BookOpen, Download, Users, CheckCircle, Code, Award } from "lucide-react";
+import { GraduationCap, BookOpen, Download, Users, CheckCircle, Code, Award, Sigma, ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
 const courses = [
+  {
+    id: "latex-scientific-writing",
+    title: "آموزش کاربردی LaTeX برای نگارش علمی و دانشگاهی",
+    category: "Scientific Writing",
+    duration: "۳ جلسه، مجموعاً ۲۱۰ دقیقه",
+    studentsCount: "سطح مقدماتی",
+    icon: Sigma,
+    color: "text-violet-500",
+    bgColor: "bg-violet-500/10",
+    borderColor: "border-violet-500/20",
+    description: "یک دوره عملی و پروژه‌محور برای ساخت مستقل اسناد علمی فارسی و انگلیسی، از روابط ریاضی و نمودار تا ارجاع‌دهی و مدیریت منابع.",
+    syllabus: [
+      "مبانی LaTeX، ساختار سند و فارسی‌نویسی",
+      "نگارش روابط و نمادهای ریاضی",
+      "جداول، داده‌ها، نمودارها و تصاویر",
+      "ارجاع داخلی و مدیریت منابع با BibLaTeX",
+      "صفحه‌آرایی و تکمیل یک سند علمی استاندارد",
+    ],
+    href: "/courses/latex-scientific-writing",
+  },
   {
     id: "physics-10",
     title: "High School 10th Grade Physics",
@@ -87,7 +107,7 @@ export default function CoursesPage() {
         </div>
 
         {/* Courses Overview Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6">
           {courses.map((course) => {
             const Icon = course.icon;
             return (
@@ -136,10 +156,17 @@ export default function CoursesPage() {
                 </div>
 
                 <div className="mt-6 pt-4 border-t border-border/50 flex items-center justify-between">
-                  <Button variant="outline" size="sm" className="w-full text-xs font-mono flex items-center gap-2">
-                    <Download className="size-3.5" />
-                    Download Syllabus & Slides (PDF)
-                  </Button>
+                  {course.href ? (
+                    <Link href={course.href} className={cn(buttonVariants({ variant: "outline", size: "sm" }), "w-full text-xs flex items-center gap-2")}>
+                      مشاهده جزئیات و سرفصل کامل
+                      <ArrowLeft className="size-3.5" />
+                    </Link>
+                  ) : (
+                    <Button variant="outline" size="sm" className="w-full text-xs font-mono flex items-center gap-2">
+                      <Download className="size-3.5" />
+                      Download Syllabus & Slides (PDF)
+                    </Button>
+                  )}
                 </div>
               </div>
             );
@@ -165,9 +192,9 @@ export default function CoursesPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-muted-foreground font-mono">
           <div>© {new Date().getFullYear()} Abulfadl Ahmadi. Educational Archive.</div>
           <div className="flex items-center gap-4">
-            <a href="/" className="hover:text-foreground">Home</a>
+            <Link href="/" className="hover:text-foreground">Home</Link>
             <span>•</span>
-            <a href="/notes" className="hover:text-foreground">Physics Notes</a>
+            <Link href="/notes" className="hover:text-foreground">Physics Notes</Link>
           </div>
         </div>
       </footer>
