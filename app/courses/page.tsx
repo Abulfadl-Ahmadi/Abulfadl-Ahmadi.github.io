@@ -2,12 +2,32 @@
 
 import * as React from "react";
 import { Header } from "@/components/header";
-import { GraduationCap, BookOpen, Download, Users, CheckCircle, Code, Award, Sigma, ArrowLeft } from "lucide-react";
+import { GraduationCap, BookOpen, Download, Users, CheckCircle, Code, Award, Sigma, ArrowLeft, Braces } from "lucide-react";
 import Link from "next/link";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
 const courses = [
+  {
+    id: "practical-api",
+    title: "آموزش API؛ از Postman و Python تا FastAPI",
+    category: "Web Development",
+    duration: "۳ جلسه عملی",
+    studentsCount: "مقدماتی",
+    icon: Braces,
+    color: "text-cyan-500",
+    bgColor: "bg-cyan-500/10",
+    borderColor: "border-cyan-500/20",
+    description: "یادگیری عملی هر دو سمت API با سناریوی یک فروشگاه آنلاین؛ از آزمایش Requestها تا ساخت API با FastAPI.",
+    syllabus: [
+      "API، HTTP، JSON و کار با Postman",
+      "فراخوانی API و پردازش Response در Python",
+      "Authentication، مدیریت خطا و Pagination",
+      "ساخت Endpoint و اعتبارسنجی با FastAPI و Pydantic",
+      "مستندات خودکار با OpenAPI و Swagger",
+    ],
+    href: "/courses/practical-api",
+  },
   {
     id: "latex-scientific-writing",
     title: "آموزش کاربردی LaTeX برای نگارش علمی و دانشگاهی",
@@ -107,7 +127,7 @@ export default function CoursesPage() {
         </div>
 
         {/* Courses Overview Grid */}
-        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
           {courses.map((course) => {
             const Icon = course.icon;
             return (

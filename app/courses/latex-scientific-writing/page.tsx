@@ -13,6 +13,10 @@ import {
 import { Header } from "@/components/header";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { CourseRegistrationButton } from "@/components/course-registration-button";
+
+// پس از آماده‌شدن صفحه انجمن علمی، لینک ثبت‌نام در این متغیر قرار می‌گیرد.
+const registrationUrl = "";
 
 const sessions = [
   {
@@ -82,6 +86,7 @@ export default function LatexCoursePage() {
                   return <div key={label as string} className="flex items-center gap-3 rounded-xl border border-border bg-card/70 p-4"><ItemIcon className="size-5 text-violet-500" /><div><div className="text-xs text-muted-foreground">{label as string}</div><div className="mt-1 text-sm font-bold">{value as string}</div></div></div>;
                 })}
               </div>
+              <CourseRegistrationButton href={registrationUrl} className="mt-6" />
             </div>
           </div>
         </section>
@@ -98,7 +103,7 @@ export default function LatexCoursePage() {
 
           <section className="rounded-3xl border border-violet-500/20 bg-violet-500/5 p-6 sm:p-10"><div className="grid gap-10 lg:grid-cols-[1fr_1.3fr]"><div><span className="text-sm font-bold text-violet-500">خروجی مورد انتظار</span><h2 className="mt-2 text-2xl font-black">در پایان چه می‌سازید؟</h2><p className="mt-4 text-sm leading-7 text-muted-foreground">از یک پروژه خالی شروع می‌کنید و به یک سند علمی یا فنی کامل، منظم و قابل توسعه می‌رسید.</p></div><div className="grid gap-3 sm:grid-cols-2">{outcomes.map((outcome, index) => <div key={outcome} className="flex items-center gap-3 rounded-xl bg-background p-3 text-sm font-medium shadow-sm"><span className="flex size-7 shrink-0 items-center justify-center rounded-full bg-violet-500/10 text-xs font-bold text-violet-500">{index + 1}</span>{outcome}</div>)}</div></div></section>
 
-          <section className="text-center"><h2 className="text-2xl font-black">یادگیری عملی، قابل استفاده و مستقل</h2><p className="mx-auto mt-3 max-w-2xl text-sm leading-7 text-muted-foreground">مثال‌ها محدود به یک رشته خاص نیستند و برای دانشجویان رشته‌های مختلف علوم و مهندسی طراحی شده‌اند. هدف نهایی، توانایی استفاده مستقل از LaTeX برای نیازهای واقعی دانشگاهی است.</p><Link href="/courses" className={cn(buttonVariants({ variant: "outline" }), "mt-6")}><ArrowRight className="size-4" /> مشاهده همه دوره‌ها</Link></section>
+          <section className="text-center"><h2 className="text-2xl font-black">یادگیری عملی، قابل استفاده و مستقل</h2><p className="mx-auto mt-3 max-w-2xl text-sm leading-7 text-muted-foreground">مثال‌ها محدود به یک رشته خاص نیستند و برای دانشجویان رشته‌های مختلف علوم و مهندسی طراحی شده‌اند. هدف نهایی، توانایی استفاده مستقل از LaTeX برای نیازهای واقعی دانشگاهی است.</p><div className="mt-6 flex flex-wrap justify-center gap-3"><CourseRegistrationButton href={registrationUrl} /><Link href="/courses" className={cn(buttonVariants({ variant: "outline", size: "lg" }))}><ArrowRight className="size-4" /> مشاهده همه دوره‌ها</Link></div></section>
         </div>
       </main>
     </div>
