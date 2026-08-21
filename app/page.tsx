@@ -14,6 +14,7 @@ import {
   Activity,
   Network,
   ShieldAlert,
+  Flame,
 } from "lucide-react";
 import { EtherealShadow } from "@/components/ui/ethereal-shadow";
 import { GitHubActivity } from "@/components/github-activity";
@@ -90,6 +91,13 @@ const lab = [
     title: "SMT Assessment (Persian)",
     desc: "Evaluate your Security Mindset and Zero-Trust analysis.",
     accent: "text-rose-500",
+  },
+  {
+    href: "/mebg-test",
+    icon: Flame,
+    title: "MEBG Assessment (Persian)",
+    desc: "Mental Entropy & Burnout Gauge using Thermodynamics.",
+    accent: "text-violet-500",
   },
 ];
 
