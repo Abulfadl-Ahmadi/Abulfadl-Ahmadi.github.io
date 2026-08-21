@@ -76,6 +76,13 @@ const lab = [
     desc: "Measure your Systems Thinking Index and cognitive architecture.",
     accent: "text-indigo-500",
   },
+  {
+    href: "/fpt-test",
+    icon: Atom,
+    title: "FPTQ Assessment (Persian)",
+    desc: "Measure your First Principles Thinking Quotient.",
+    accent: "text-emerald-500",
+  },
 ];
 
 export default function Home() {
