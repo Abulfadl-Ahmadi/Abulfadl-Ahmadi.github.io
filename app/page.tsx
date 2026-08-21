@@ -11,6 +11,7 @@ import {
   Lock,
   Atom,
   Sparkles,
+  Activity,
 } from "lucide-react";
 import { EtherealShadow } from "@/components/ui/ethereal-shadow";
 import { GitHubActivity } from "@/components/github-activity";
@@ -59,6 +60,13 @@ const lab = [
     title: "Physics Simulations",
     desc: "Numerical experiments — from Franck–Hertz to N-body motion.",
     accent: "text-indigo-500",
+  },
+  {
+    href: "/aq-test",
+    icon: Activity,
+    title: "AQ Assessment (Persian)",
+    desc: "A self-assessment tool to measure your Adaptability Quotient.",
+    accent: "text-amber-500",
   },
 ];
 
