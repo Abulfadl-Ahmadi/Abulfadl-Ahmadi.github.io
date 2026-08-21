@@ -12,6 +12,7 @@ import {
   Atom,
   Sparkles,
   Activity,
+  Network,
 } from "lucide-react";
 import { EtherealShadow } from "@/components/ui/ethereal-shadow";
 import { GitHubActivity } from "@/components/github-activity";
@@ -67,6 +68,13 @@ const lab = [
     title: "AQ Assessment (Persian)",
     desc: "A self-assessment tool to measure your Adaptability Quotient.",
     accent: "text-amber-500",
+  },
+  {
+    href: "/sti-test",
+    icon: Network,
+    title: "STI Assessment (Persian)",
+    desc: "Measure your Systems Thinking Index and cognitive architecture.",
+    accent: "text-indigo-500",
   },
 ];
 
