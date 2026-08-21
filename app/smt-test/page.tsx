@@ -8,53 +8,52 @@ import { Header } from "@/components/header";
 import { EtherealShadow } from "@/components/ui/ethereal-shadow";
 import { Vazirmatn } from "next/font/google";
 import { cn } from "@/lib/utils";
-import { Network, RefreshCcw } from "lucide-react";
+import { ShieldAlert, RefreshCcw } from "lucide-react";
 
 const vazirmatn = Vazirmatn({ subsets: ["arabic"], display: "swap" });
 
-// Frozen at build time via next.config `env`
 const BUILD_YEAR = process.env.NEXT_PUBLIC_BUILD_YEAR ?? "2026";
 
 const dims = [
-  { name: "دید کل‌نگر (دیدن تصویر بزرگ‌تر)", short: "کل‌نگری" },
-  { name: "پیش‌بینی پیامدها و اثرات جانبی", short: "آینده‌نگری" },
-  { name: "کشف الگوها و ریشه مسائل", short: "کشف الگوها" },
-  { name: "درک مفاهیم کلی و ساده‌سازی", short: "ساده‌سازی" },
+  { name: "اعتماد در برابر پارانویا", short: "پارانویا", max: 25 },
+  { name: "مدیریت ریسک و تفکر سیستمی", short: "تفکر سیستمی", max: 25 },
+  { name: "تفکر بدبینانه (اصول اولیه)", short: "تفکر بدبینانه", max: 25 },
+  { name: "حساسیت به حریم خصوصی", short: "حریم خصوصی", max: 25 },
 ];
 
 const questions = [
   // Dim 0
-  { dim: 0, text: "وقتی با یک مسئله یا پروژه جدید روبه‌رو می‌شوم، اول ترجیح می‌دهم تصویر کلی و ارتباط بین بخش‌ها را بفهمم، بعد بروم سراغ جزئیات ریز.", reverse: false },
-  { dim: 0, text: "وقتی مشکلی پیش می‌آید، بهترین کار این است که آن را به تکه‌های کاملاً جدا از هم تقسیم کنیم و هر تکه را بدون توجه به بقیه حل کنیم.", reverse: true },
-  { dim: 0, text: "یک تغییر کوچک در یک بخش از کار یا سیستم، می‌تواند خیلی راحت روی تمام بخش‌های دیگر هم تأثیر بگذارد.", reverse: false },
-  { dim: 0, text: "بیشتر مشکلاتی که مدام در کار تکرار می‌شوند، تقصیر اشتباهات افراد است نه ایراد در ساختارها و روال‌های کاری.", reverse: true },
-  { dim: 0, text: "برای درک درست یک اتفاق، حتماً باید شرایط محیطی، زمینه و اتفاقات گذشته‌ای که به آن ختم شده را هم در نظر گرفت.", reverse: false },
+  { dim: 0, text: "من همیشه فرض می‌کنم که ورودی‌های یک سیستم، حتی اگر از منابع مجاز باشند، آلوده هستند.", reverse: false },
+  { dim: 0, text: "وقتی با مکانیزم امنیتی جدیدی روبرو می‌شوم، بلافاصله دنبال راه‌هایی برای دور زدن آن می‌گردم.", reverse: false },
+  { dim: 0, text: "وقتی کدی بدون باگ اجرا می‌شود و خروجی درستی می‌دهد، فرض می‌کنم از نظر امنیتی هم کاملاً ایمن است.", reverse: true },
+  { dim: 0, text: "من همیشه فرض می‌کنم که شبکه داخلی سازمان به اندازه اینترنت عمومی ناامن (Zero-Trust) است.", reverse: false },
+  { dim: 0, text: "اگر یک کتابخانه معروف (Open Source) توسط هزاران نفر استفاده شود، به امنیت کدهای آن اعتماد می‌کنم.", reverse: true },
   
   // Dim 1
-  { dim: 1, text: "وقتی تصمیم مهمی می‌گیرم، سعی می‌کنم اثرات دومینووار و پیامدهای بعدی آن را در ماه‌ها یا سال‌های آینده پیش‌بینی کنم.", reverse: false },
-  { dim: 1, text: "وقتی مشکلی پیش می‌آید، تنها چیزی که برایم مهم است رفع سریع و فوری ماجراست و خیلی به عواقب بعدیش فکر نمی‌کنم.", reverse: true },
-  { dim: 1, text: "قبل از اجرای یک راه‌حل، وقت می‌گذارم تا ببینم چه اثرات منفی یا دردسرهای پیش‌بینی‌نشده‌ای ممکن است درست کند.", reverse: false },
-  { dim: 1, text: "اگر اولین راه‌حلی که به ذهنم می‌رسد کارم را راه بیندازد، دیگر دلیلی ندارد خودم را درگیر عواقب احتمالی‌اش بکنم.", reverse: true },
-  { dim: 1, text: "راه‌حل‌های موقتی و سمبل‌کردنی شاید در لحظه جواب بدهند، اما در درازمدت کار را خراب‌تر و پیچیده‌تر می‌کنند.", reverse: false },
+  { dim: 1, text: "تغییرات کوچک در یک بخش از سیستم، همواره منجر به تغییرات و پیامدهای پیش‌بینی‌نشده در بخش‌های دیگر می‌شود.", reverse: false },
+  { dim: 1, text: 'پیش از اجرای هر راه‌حل، بلافاصله از خود می‌پرسم "و بعد چه؟" و اثرات جانبی آن را شبیه‌سازی می‌کنم.', reverse: false },
+  { dim: 1, text: "من می‌توانم یک مسئله پیچیده را از لایه معماری تا لایه فلز تجزیه کرده و الگوهای پنهان ارتباطی را بیابم.", reverse: false },
+  { dim: 1, text: "هنگام برخورد با یک رخنه امنیتی، مسدود کردن سریع مسیر حمله (مثل بستن IP) را به بررسی عمیق معماری ترجیح می‌دهم.", reverse: true },
+  { dim: 1, text: "معتقدم پیچیدگی بیشتر در کدها لزوماً امنیت سیستم را بالا می‌برد، زیرا فهم آن برای مهاجم سخت‌تر می‌شود.", reverse: true },
 
   // Dim 2
-  { dim: 2, text: "وقتی یک اتفاق بد مدام تکرار می‌شود، به‌جای واکنش لحظه‌ای، دنبال ریشه اصلی و الگویی می‌گردم که باعث تکرار آن شده.", reverse: false },
-  { dim: 2, text: "بیشتر اتفاقات و دردسرهایی که در طول روز پیش می‌آیند کاملاً تصادفی و بی‌ربط به هم هستند و الگوی خاصی ندارند.", reverse: true },
-  { dim: 2, text: "در میان انبوهی از اطلاعات شلوغ و درهم‌برهم، پیدا کردن نکات کلیدی و روندهای مهم برایم کار راحتی است.", reverse: false },
-  { dim: 2, text: "ترجیح می‌دهم فقط با اطلاعات دم دست و اتفاقات الان سر و کار داشته باشم تا اینکه وقتم را صرف پیدا کردن روندها و تحلیل گذشته کنم.", reverse: true },
-  { dim: 2, text: "اتفاقاتی که در ظاهر می‌بینیم فقط نوک کوه یخ هستند؛ اصل ماجرا و دلایل اصلی زیر سطح پنهان شده‌اند.", reverse: false },
+  { dim: 2, text: "من به طور مستمر قواعد و استانداردهای پذیرفته‌شده در صنعت را زیر سؤال می‌برم تا محدودیت‌های واقعی را از مفروضات موروثی تفکیک کنم.", reverse: false },
+  { dim: 2, text: "می‌پذیرم که یک پدیده یا سیستم می‌تواند همزمان پیامدهای مثبت و منفی کاملاً متناقضی داشته باشد و این تناقضات قابل درکند.", reverse: false },
+  { dim: 2, text: "وقتی یک متخصص ارشد یا ابزار امنیتی معتبر می‌گوید سیستمی امن است، معمولاً بدون نیاز به اثبات ریاضی، آن را می‌پذیرم.", reverse: true },
+  { dim: 2, text: "هنگام طراحی سیستم، سعی می‌کنم بدترین سناریوهای فاجعه‌بار (Black Swan) را در نظر بگیرم.", reverse: false },
+  { dim: 2, text: 'تمرکز بر اینکه "چگونه این سیستم ممکن است خراب شود"، باعث فلج تحلیلی من شده و از پیشبرد کار جلوگیری می‌کند.', reverse: true },
 
   // Dim 3
-  { dim: 3, text: "وقتی یک موضوع جدید یاد می‌گیرم، خیلی سریع می‌توانم شاخ و برگ‌های اضافی را کنار بزنم و اصل مطلب را متوجه شوم.", reverse: false },
-  { dim: 3, text: "یادگیری مباحث تئوری و مفهومی برایم خسته‌کننده است و حتماً باید یک مثال کاملاً ملموس یا عملی ببینم تا موضوع را بفهمم.", reverse: true },
-  { dim: 3, text: "وقتی می‌خواهم یک مهارت یا ابزار جدید یاد بگیرم، اول ترجیح می‌دهم منطق و اصول پایه‌ای آن را بفهمم، بعد بروم سراغ کار عملی.", reverse: false },
-  { dim: 3, text: "بیشتر دوست دارم مستقیم دست به کار شوم و کارهای اجرایی را انجام دهم، تا اینکه وقتم را صرف طراحی الگوها و ایده‌پردازی کلی کنم.", reverse: true },
-  { dim: 3, text: "کشیدن دیاگرام، فلوچارت یا فرموله‌کردن یک مسئله، به من کمک زیادی می‌کند تا پیچیدگی‌های آن را راحت‌تر درک و حل کنم.", reverse: false },
+  { dim: 3, text: "جمع‌آوری داده‌های غیرضروری توسط برنامه‌ها، حتی برای بهبود سرویس، یک تهدید بالقوه و غیرقابل توجیه است.", reverse: false },
+  { dim: 3, text: "هرگونه مکانیزمی که کنترل کامل داده‌ها را از کاربر سلب کند، ذاتاً خطرناک بوده و نقض حریم شخصی است.", reverse: false },
+  { dim: 3, text: "اگر داده‌های کاربران روی سرورهای خودی (First-Party) ذخیره شوند، نیازی به رمزنگاری سمت کاربر (Client-Side Crypto) نمی‌بینم.", reverse: true },
+  { dim: 3, text: "معتقدم حتی با ناشناس‌سازی داده‌ها، همواره ریسک کشف مجدد هویت کاربران (Re-identification) وجود دارد.", reverse: false },
+  { dim: 3, text: "به وعده‌های حفظ حریم خصوصی پلتفرم‌های بزرگ اعتماد دارم، زیرا نقض آن‌ها برایشان هزینه‌های سنگین اعتباری به همراه دارد.", reverse: true },
 ];
 
 const scaleLabels = ["کاملاً مخالفم", "مخالفم", "نظری ندارم", "موافق", "کاملاً موافقم"];
 
-export default function STITest() {
+export default function SMTTest() {
   const reduce = useReducedMotion();
   const [isMobile, setIsMobile] = React.useState(false);
   const [answers, setAnswers] = useState<Record<number, number>>({});
@@ -101,22 +100,19 @@ export default function STITest() {
       totalRaw += rawValue;
     });
     
-    // Normalization: (Total - 20) / 80 * 100
-    const normalizedTotal = Math.round(((totalRaw - 20) / 80) * 100);
-
     let bandTitle = "";
     let bandDesc = "";
-    if (normalizedTotal >= 67) {
-      bandTitle = "تفکر سیستمی و عمیق (پیشرفته)";
-      bandDesc = "شما دید بسیار بازی دارید و به‌جای درگیر شدن در جزئیات حاشیه‌ای، تصویر کلی، ارتباط بین بخش‌ها و عواقب بلندمدت تصمیمات را خیلی خوب درک می‌کنید. این نوع نگاه به شما کمک می‌کند ریشه مشکلات را پیدا کرده و راه‌حل‌های پایدار ارائه دهید.";
-    } else if (normalizedTotal >= 34) {
-      bandTitle = "تفکر در حال رشد (متوسط)";
-      bandDesc = "شما تا حد زیادی متوجه ارتباط بین بخش‌های مختلف و پیامدهای تصمیمات هستید، اما گاهی در شرایط پرفشار ممکن است فقط به راه‌حل‌های دم‌دستی و فوری تکیه کنید. با کمی تمرکز روی تصویر بزرگ‌تر، دید همه‌جانبه‌تری پیدا خواهید کرد.";
+    if (totalRaw >= 76) {
+      bandTitle = "معمار اعتماد صفر (Zero-Trust Architect)";
+      bandDesc = "ذهنیت شما مملو از پارانویای منطقی است. شما به طور مستمر فرض می‌کنید که محیط ذاتاً متخاصم است و معماری‌هایی را طراحی می‌کنید که حتی در بدترین شرایط از فروپاشی جلوگیری کنند. شما معمار واقعی سیستم‌های نفوذناپذیر هستید.";
+    } else if (totalRaw >= 51) {
+      bandTitle = "تحلیل‌گر محتاط (Cautious Analyst)";
+      bandDesc = "شما درک خوبی از خطرات امنیتی و پیچیدگی سیستم‌ها دارید، اما گاهی به روش‌های استاندارد و وعده‌های امنیتی تکیه می‌کنید. با پرورش بیشتر تفکر بدبینانه، می‌توانید به سطح طراحی سیستم‌های Zero-Trust برسید.";
     } else {
-      bandTitle = "تفکر نقطه‌ای و عمل‌گرا (مقطعی)";
-      bandDesc = "شما تمایل دارید مشکلات را به صورت جداگانه و با راه‌حل‌های سریع و فوری حل کنید. این نگاه برای کارهای اجرایی و فوری عالی است، اما در مسائل پیچیده بهتر است کمی عقب‌تر بایستید و اثر بلندمدت تصمیمات و ارتباط بین بخش‌ها را هم بسنجید.";
+      bandTitle = "توسعه‌دهنده خوش‌بین (Optimistic Developer)";
+      bandDesc = "رویکرد شما به تکنولوژی مبتنی بر اعتماد است. شما عمدتاً بر «ساختن و کار کردن» تمرکز دارید و ارزیابی عمیقی از نحوه سوءاستفاده مهاجمان از سیستم انجام نمی‌دهید. این دیدگاه برای محیط‌های فوق‌امنیتی به اندازه کافی سخت‌گیرانه نیست.";
     }
-    return { dimScores, normalizedTotal, bandTitle, bandDesc };
+    return { dimScores, totalRaw, bandTitle, bandDesc };
   };
 
   const results = submitted ? calculateResults() : null;
@@ -145,7 +141,7 @@ export default function STITest() {
         className="pointer-events-none fixed inset-0 -z-10 opacity-85 transition-opacity duration-500 sm:opacity-90 [mask-image:linear-gradient(to_bottom,black_30%,transparent_85%)]"
       >
         <EtherealShadow
-          color="rgba(99,102,241,0.25)"
+          color="rgba(244,63,94,0.25)" // Rose tint for security
           animation={
             reduce
               ? { scale: 0, speed: 0 }
@@ -171,18 +167,18 @@ export default function STITest() {
           animate="show"
           className="flex flex-col items-start gap-4"
         >
-          <motion.div variants={item} className="inline-flex items-center gap-2 rounded-full border border-indigo-500/30 bg-indigo-500/10 px-3 py-1 text-xs font-medium text-indigo-600 dark:text-indigo-400 backdrop-blur-sm uppercase tracking-widest font-mono" dir="ltr">
-            <Network className="size-3.5" />
-            <span>ASSESSMENT · STI</span>
+          <motion.div variants={item} className="inline-flex items-center gap-2 rounded-full border border-rose-500/30 bg-rose-500/10 px-3 py-1 text-xs font-medium text-rose-600 dark:text-rose-400 backdrop-blur-sm uppercase tracking-widest font-mono" dir="ltr">
+            <ShieldAlert className="size-3.5" />
+            <span>ASSESSMENT · SMT</span>
           </motion.div>
           <motion.h1 variants={item} className="text-4xl font-extrabold tracking-tight text-foreground sm:text-5xl md:text-6xl">
-            شاخص تفکر سیستمی
+            آزمون ذهنیت امنیتی
           </motion.h1>
           <motion.p variants={item} className="max-w-2xl text-lg text-muted-foreground">
-            ببینید در مواجهه با چالش‌ها و تصمیم‌گیری‌ها، چقدر تصویر بزرگ‌تر، ریشه مسائل و پیامدهای بلندمدت را در نظر می‌گیرید.
+            سطح پارانویای منطقی و درک خود از معماری سیستم‌های متخاصم را ارزیابی کنید.
           </motion.p>
-          <motion.div variants={item} className="border-r-4 border-indigo-500/50 pr-4 py-1 text-sm text-muted-foreground">
-            این آزمون دارای ۲۰ سوال است و به شما کمک می‌کند متوجه شوید هنگام حل مسائل، طرز فکر و نگاه شما به موضوعات چطور کار می‌کند.
+          <motion.div variants={item} className="border-r-4 border-rose-500/50 pr-4 py-1 text-sm text-muted-foreground">
+            این ارزیابی بر اساس تحلیل ریسک، مقاومت شناختی به حریم خصوصی و تفکر سیستمیک طراحی شده است.
           </motion.div>
         </motion.section>
 
@@ -203,7 +199,7 @@ export default function STITest() {
                 <motion.div key={dIndex} variants={item} className="flex flex-col gap-6">
                   <div className="border-b border-border/50 pb-4">
                     <div className="flex items-baseline gap-3">
-                      <span className="font-mono text-lg font-bold text-indigo-500">
+                      <span className="font-mono text-lg font-bold text-rose-500">
                         {String(dIndex + 1).padStart(2, "0")}
                       </span>
                       <h2 className="text-2xl font-bold text-foreground">{dim.name}</h2>
@@ -223,7 +219,7 @@ export default function STITest() {
                               className={cn(
                                 "group flex flex-1 cursor-pointer flex-col items-center gap-2 rounded-xl p-2 transition-colors",
                                 answers[q.index] === val
-                                  ? "bg-indigo-500/10"
+                                  ? "bg-rose-500/10"
                                   : "hover:bg-muted/50"
                               )}
                             >
@@ -239,7 +235,7 @@ export default function STITest() {
                                 className={cn(
                                   "size-6 rounded-full border-2 transition-all",
                                   answers[q.index] === val
-                                    ? "border-indigo-500 bg-indigo-500 shadow-[0_0_0_4px_rgba(99,102,241,0.15)]"
+                                    ? "border-rose-500 bg-rose-500 shadow-[0_0_0_4px_rgba(225,29,72,0.15)]" // text-rose-600 logic
                                     : "border-border/60 bg-background group-hover:border-border"
                                 )}
                               />
@@ -247,7 +243,7 @@ export default function STITest() {
                                 className={cn(
                                   "text-[11px] font-medium transition-colors text-center",
                                   answers[q.index] === val
-                                    ? "text-indigo-600 dark:text-indigo-400"
+                                    ? "text-rose-600 dark:text-rose-400"
                                     : "text-muted-foreground opacity-0 md:opacity-100 group-hover:opacity-100"
                                 )}
                               >
@@ -256,7 +252,6 @@ export default function STITest() {
                             </label>
                           ))}
                         </div>
-                        {/* Mobile fallback labels */}
                         <div className="mt-2 flex justify-between md:hidden text-[11px] text-muted-foreground/80">
                           <span>{scaleLabels[0]}</span>
                           <span>{scaleLabels[4]}</span>
@@ -274,7 +269,7 @@ export default function STITest() {
                 disabled={!isComplete}
                 className="rounded-full bg-foreground px-8 py-4 text-base font-bold text-background transition-transform hover:scale-105 disabled:pointer-events-none disabled:opacity-50"
               >
-                مشاهده نتیجه آزمون
+                تحلیل وضعیت امنیتی ذهن
               </button>
               <p className="font-mono text-sm text-muted-foreground" dir="ltr">
                 {answeredCount} / {questions.length} Answered
@@ -293,13 +288,19 @@ export default function STITest() {
               className="relative overflow-hidden rounded-3xl bg-foreground p-8 text-background sm:p-12"
             >
               <div className="relative z-10 flex flex-col gap-2">
-                <div className="font-mono text-7xl font-bold text-indigo-500 sm:text-8xl" dir="ltr">
-                  {results?.normalizedTotal}%
+                <div className="flex items-baseline gap-4" dir="ltr">
+                  <div className="font-mono text-7xl font-bold text-rose-500 sm:text-8xl">
+                    {results?.totalRaw}
+                  </div>
+                  <div className="font-mono text-3xl font-bold text-muted-foreground/50 sm:text-4xl">
+                    / 100
+                  </div>
                 </div>
-                <div className="text-sm font-medium text-background/70">
-                  شاخص نهایی تفکر سیستمی (STI)
+                
+                <div className="text-sm font-medium text-background/70 mt-2">
+                  ذهنیت امنیتی و مدل‌سازی تهدید (SMT)
                 </div>
-                <div className="mt-6 text-2xl font-bold sm:text-3xl text-indigo-300">
+                <div className="mt-6 text-2xl font-bold sm:text-3xl text-rose-300">
                   {results?.bandTitle}
                 </div>
                 <div className="mt-2 max-w-xl text-base text-background/80 leading-relaxed">
@@ -312,15 +313,15 @@ export default function STITest() {
               <h3 className="text-xl font-bold mb-2">تحلیل ابعاد شناختی</h3>
               {dims.map((dim, i) => {
                 const score = results?.dimScores[i] || 0;
-                // Max score per dim is 25, min is 5.
-                // Normalized % for the bar = (score - 5) / 20 * 100
-                const pct = ((score - 5) / 20) * 100;
+                const min = 5; // 5 questions * min 1
+                const max = dim.max;
+                const pct = ((score - min) / (max - min)) * 100;
                 return (
                   <div key={i} className="flex flex-col gap-2">
                     <div className="flex justify-between text-sm">
                       <span className="font-bold text-foreground">{dim.name}</span>
                       <span className="font-mono text-muted-foreground" dir="ltr">
-                        {score} / 25
+                        {score} / {max}
                       </span>
                     </div>
                     <div className="h-3 w-full overflow-hidden rounded-full bg-border/50">
@@ -328,7 +329,7 @@ export default function STITest() {
                         initial={{ width: 0 }}
                         animate={{ width: `${pct}%` }}
                         transition={{ duration: 1, delay: 0.2 + i * 0.1, ease: "easeOut" }}
-                        className="h-full bg-gradient-to-r from-indigo-500 to-indigo-300 rounded-full"
+                        className="h-full bg-gradient-to-r from-rose-500 to-rose-300 rounded-full"
                       />
                     </div>
                   </div>

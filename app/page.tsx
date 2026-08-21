@@ -13,6 +13,7 @@ import {
   Sparkles,
   Activity,
   Network,
+  ShieldAlert,
 } from "lucide-react";
 import { EtherealShadow } from "@/components/ui/ethereal-shadow";
 import { GitHubActivity } from "@/components/github-activity";
@@ -82,6 +83,13 @@ const lab = [
     title: "FPTQ Assessment (Persian)",
     desc: "Measure your First Principles Thinking Quotient.",
     accent: "text-emerald-500",
+  },
+  {
+    href: "/smt-test",
+    icon: ShieldAlert,
+    title: "SMT Assessment (Persian)",
+    desc: "Evaluate your Security Mindset and Zero-Trust analysis.",
+    accent: "text-rose-500",
   },
 ];
 
