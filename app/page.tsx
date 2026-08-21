@@ -15,6 +15,7 @@ import {
   Network,
   ShieldAlert,
   Flame,
+  BrainCircuit,
 } from "lucide-react";
 import { EtherealShadow } from "@/components/ui/ethereal-shadow";
 import { GitHubActivity } from "@/components/github-activity";
@@ -98,6 +99,13 @@ const lab = [
     title: "MEBG Assessment (Persian)",
     desc: "Mental Entropy & Burnout Gauge using Thermodynamics.",
     accent: "text-violet-500",
+  },
+  {
+    href: "/dwq-test",
+    icon: BrainCircuit,
+    title: "DWQ Assessment (Persian)",
+    desc: "Measure Deep Work, Flow State, and Cognitive Autonomy.",
+    accent: "text-cyan-500",
   },
 ];
 
