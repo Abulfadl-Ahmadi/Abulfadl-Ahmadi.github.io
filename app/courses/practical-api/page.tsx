@@ -6,7 +6,7 @@ import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
 // پس از آماده‌شدن صفحه انجمن علمی، لینک ثبت‌نام در این متغیر قرار می‌گیرد.
-const registrationUrl = "";
+const registrationUrl = "https://alenush.com/fa/courses/summer-api-2026";
 
 const sessions = [
   {

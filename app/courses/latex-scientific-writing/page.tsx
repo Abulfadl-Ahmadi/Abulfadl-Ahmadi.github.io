@@ -16,7 +16,7 @@ import { cn } from "@/lib/utils";
 import { CourseRegistrationButton } from "@/components/course-registration-button";
 
 // پس از آماده‌شدن صفحه انجمن علمی، لینک ثبت‌نام در این متغیر قرار می‌گیرد.
-const registrationUrl = "";
+const registrationUrl = "https://alenush.com/fa/courses/summer-latex-2026";
 
 const sessions = [
   {
