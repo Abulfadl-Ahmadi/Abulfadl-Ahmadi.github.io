@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>دل‌آرا و سهیل</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ivory: #F7F2EA;
+    --ivory-deep: #F0E9DC;
+    --ink: #2E2A22;
+    --ink-soft: #6B6355;
+    --gold: #A88652;
+    --gold-soft: #CDB88B;
+    --line: #DDD2BC;
+  }
+
+  *{ box-sizing: border-box; }
+
+  html{ scroll-behavior: smooth; }
+
+  body{
+    margin:0;
+    background: var(--ivory);
+    color: var(--ink);
+    font-family: 'Vazirmatn', sans-serif;
+    font-weight: 400;
+    line-height: 1.9;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ animation: none !important; transition: none !important; }
+  }
+
+  .page{
+    max-width: 480px;
+    margin: 0 auto;
+    padding: 0 28px 64px;
+    text-align: center;
+  }
+
+  /* ---------- Hero ---------- */
+
+  .hero{
+    padding-top: 56px;
+    opacity: 0;
+    animation: rise 1.1s ease forwards;
+  }
+
+  @keyframes rise{
+    from{ opacity: 0; transform: translateY(14px); }
+    to{ opacity: 1; transform: translateY(0); }
+  }
+
+  .mark{
+    width: 34px;
+    height: 34px;
+    margin: 0 auto 28px;
+    color: var(--gold);
+  }
+
+  .photo-wrap{
+    width: 168px;
+    height: 168px;
+    margin: 0 auto 36px;
+    border-radius: 50%;
+    padding: 6px;
+    border: 1px solid var(--gold-soft);
+    position: relative;
+  }
+  .photo-wrap::before{
+    content:"";
+    position:absolute;
+    inset:-11px;
+    border-radius:50%;
+    border:1px solid var(--line);
+  }
+  .photo-wrap img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 45% 40%;
+    border-radius: 50%;
+    display:block;
+  }
+
+  .kicker{
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: var(--ink-soft);
+    margin: 0 0 18px;
+  }
+
+  .names{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 1.9;
+    color: var(--ink);
+    margin: 0 0 6px;
+  }
+
+  .names .amp{
+    color: var(--gold);
+    font-family: 'Vazirmatn', sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    padding: 0 6px;
+    vertical-align: middle;
+  }
+
+  .names-en{
+    font-family: 'Vazirmatn', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.14em;
+    color: var(--ink-soft);
+    direction: ltr;
+    margin: 0 0 40px;
+  }
+
+  .lede{
+    font-size: 16px;
+    color: var(--ink-soft);
+    max-width: 320px;
+    margin: 0 auto 44px;
+  }
+
+  /* ---------- Divider ---------- */
+
+  .divider{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    margin: 0 auto 44px;
+  }
+  .divider span{
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--gold);
+  }
+  .divider i{
+    display:block;
+    width: 64px;
+    height: 1px;
+    background: var(--line);
+  }
+
+  /* ---------- Countdown ---------- */
+
+  .countdown-label{
+    font-size: 13px;
+    color: var(--ink-soft);
+    margin: 0 0 20px;
+  }
+
+  .countdown{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 0 48px;
+  }
+
+  .cd-unit{
+    background: var(--ivory-deep);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    width: 68px;
+    padding: 14px 0 12px;
+  }
+
+  .cd-num{
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--ink);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cd-unit-label{
+    font-size: 11px;
+    color: var(--ink-soft);
+    margin-top: 4px;
+  }
+
+  /* ---------- Details ---------- */
+
+  .details{
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    padding: 40px 0;
+    margin-bottom: 40px;
+  }
+
+  .details h2{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-weight: 700;
+    font-size: 26px;
+    margin: 0 0 22px;
+    color: var(--ink);
+  }
+
+  .detail-row{
+    margin-bottom: 16px;
+  }
+  .detail-row:last-child{ margin-bottom: 0; }
+
+  .detail-row .d-label{
+    font-size: 12px;
+    color: var(--gold);
+    letter-spacing: 0.03em;
+    margin-bottom: 4px;
+  }
+
+  .detail-row .d-value{
+    font-size: 17px;
+    color: var(--ink);
+  }
+
+  .detail-row .d-sub{
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin-top: 2px;
+  }
+
+  .actions{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 26px;
+    flex-wrap: wrap;
+  }
+
+  .btn{
+    display: inline-block;
+    font-family: 'Vazirmatn', sans-serif;
+    font-size: 13px;
+    color: var(--ink);
+    text-decoration: none;
+    border: 1px solid var(--gold-soft);
+    border-radius: 24px;
+    padding: 10px 22px;
+    transition: background .25s ease, color .25s ease;
+  }
+  .btn:hover{
+    background: var(--gold);
+    color: var(--ivory);
+    border-color: var(--gold);
+  }
+
+  /* ---------- Footer ---------- */
+
+  .closing{
+    font-size: 15px;
+    color: var(--ink-soft);
+    max-width: 300px;
+    margin: 0 auto 30px;
+  }
+
+  .signature{
+    font-family: 'Noto Nastaliq Urdu', serif;
+    font-size: 20px;
+    color: var(--gold);
+    margin-bottom: 6px;
+  }
+
+  footer{
+    font-size: 12px;
+    color: var(--line);
+    margin-top: 20px;
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <div class="hero">
+    <svg class="mark" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M17 4 C 12 10, 12 14, 17 30 C 22 14, 22 10, 17 4 Z" stroke="currentColor" stroke-width="1.1"/>
+      <circle cx="17" cy="17" r="1.6" fill="currentColor"/>
+    </svg>
+
+    <div class="photo-wrap">
+      <img src="photo_2026-09-03_21-39-29.jpg" alt="دل‌آرا و سهیل">
+    </div>
+
+    <p class="kicker">مراسم عقد</p>
+    <h1 class="names">دل‌آرا<span class="amp">و</span>سهیل</h1>
+    <p class="names-en">DELARA &amp; SOHEIL</p>
+
+    <p class="lede">با خوشحالی از شما دعوت می‌کنیم تا در آغاز زندگی مشترک‌مان کنارمان باشید</p>
+  </div>
+
+  <div class="divider"><i></i><span></span><i></i></div>
+
+  <p class="countdown-label">تا شروع مراسم</p>
+  <div class="countdown" id="countdown">
+    <div class="cd-unit"><div class="cd-num" id="cd-days">--</div><div class="cd-unit-label">روز</div></div>
+    <div class="cd-unit"><div class="cd-num" id="cd-hours">--</div><div class="cd-unit-label">ساعت</div></div>
+    <div class="cd-unit"><div class="cd-num" id="cd-mins">--</div><div class="cd-unit-label">دقیقه</div></div>
+    <div class="cd-unit"><div class="cd-num" id="cd-secs">--</div><div class="cd-unit-label">ثانیه</div></div>
+  </div>
+
+  <div class="details">
+    <h2>جزئیات مراسم</h2>
+
+    <div class="detail-row">
+      <div class="d-label">تاریخ</div>
+      <div class="d-value">جمعه، ۲۰ شهریور ۱۴۰۵</div>
+    </div>
+
+    <div class="detail-row">
+      <div class="d-label">ساعت</div>
+      <div class="d-value">۲۰:۳۰ تا پاسی از شب</div>
+    </div>
+
+    <div class="detail-row">
+      <div class="d-label">مکان</div>
+      <div class="d-value">باغ تشریفات بید مجنون</div>
+    </div>
+
+    <div class="actions">
+      <a class="btn" id="map-link" href="#" target="_blank" rel="noopener">نمایش مسیر</a>
+      <a class="btn" id="ics-link" href="#" download="delara-soheil.ics">افزودن به تقویم</a>
+    </div>
+  </div>
+
+  <p class="closing">حضور سبز شما، بهترین هدیه برای این آغاز است</p>
+  <p class="signature">دل‌آرا و سهیل</p>
+
+  <footer>۲۰ شهریور ۱۴۰۵</footer>
+
+</div>
+
+<script>
+  // Event start: 20 Shahrivar 1405 = 11 September 2026, 20:30 Tehran time (UTC+03:30)
+  var eventDate = new Date("2026-09-11T20:30:00+03:30");
+
+  var faDigits = function(n){
+    return n.toLocaleString('fa-IR', {minimumIntegerDigits: 2, useGrouping: false});
+  };
+
+  function tick(){
+    var now = new Date();
+    var diff = eventDate - now;
+
+    if (diff <= 0){
+      document.getElementById('cd-days').textContent = '۰۰';
+      document.getElementById('cd-hours').textContent = '۰۰';
+      document.getElementById('cd-mins').textContent = '۰۰';
+      document.getElementById('cd-secs').textContent = '۰۰';
+      document.querySelector('.countdown-label').textContent = 'مراسم آغاز شده است';
+      return;
+    }
+
+    var days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+    var mins = Math.floor((diff / (1000 * 60)) % 60);
+    var secs = Math.floor((diff / 1000) % 60);
+
+    document.getElementById('cd-days').textContent = days.toLocaleString('fa-IR');
+    document.getElementById('cd-hours').textContent = faDigits(hours);
+    document.getElementById('cd-mins').textContent = faDigits(mins);
+    document.getElementById('cd-secs').textContent = faDigits(secs);
+  }
+
+  tick();
+  setInterval(tick, 1000);
+
+  // Map link — search query, replace with the exact venue link if available
+  var mapQuery = encodeURIComponent("باغ تشریفات بید مجنون");
+  document.getElementById('map-link').href = "https://www.google.com/maps/search/?api=1&query=" + mapQuery;
+
+  // Build a downloadable .ics calendar file
+  function pad(n){ return n < 10 ? '0' + n : '' + n; }
+  function toICSDate(d){
+    return d.getUTCFullYear() + pad(d.getUTCMonth()+1) + pad(d.getUTCDate()) + 'T' + pad(d.getUTCHours()) + pad(d.getUTCMinutes()) + pad(d.getUTCSeconds()) + 'Z';
+  }
+  var endDate = new Date(eventDate.getTime() + 3 * 60 * 60 * 1000);
+  var icsContent = [
+    'BEGIN:VCALENDAR',
+    'VERSION:2.0',
+    'BEGIN:VEVENT',
+    'SUMMARY:مراسم عقد دل\u200cآرا و سهیل',
+    'DTSTART:' + toICSDate(eventDate),
+    'DTEND:' + toICSDate(endDate),
+    'LOCATION:باغ تشریفات بید مجنون',
+    'DESCRIPTION:مراسم عقد دل\u200cآرا و سهیل',
+    'END:VEVENT',
+    'END:VCALENDAR'
+  ].join('\r\n');
+  var icsBlob = new Blob([icsContent], { type: 'text/calendar;charset=utf-8' });
+  document.getElementById('ics-link').href = URL.createObjectURL(icsBlob);
+</script>
+
+</body>
+</html>
